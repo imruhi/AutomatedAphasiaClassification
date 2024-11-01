@@ -1,0 +1,479 @@
+@UTF8
+@Window:	257_632_798_1145_-1_-1_341_0_341_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|76;00.|male|Anomic|White|Participant||80.3|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1033-4, video
+@Comment:	Sandwich task has no time stamps due to problems with audio
+@Comment:	no %wor tier due to glitchy audio
+@G:	Window
+*INV:	okay . 865_1155
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay I got it . [+ exc] 1785_2635
+%mor:	adj|okay pro:sub|I v|get&PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	now the pieces are in order . [+ exc] 2655_4139
+%mor:	adv:tem|now det:art|the n|piece-PL cop|be&PRES prep|in n|order .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*INV:	okay so ‡ tell me a story about what you see happening in these pictures . 4139_8495
+%mor:	co|okay co|so beg|beg v|tell pro:obj|me det:art|a n|story
+	prep|about pro:int|what pro:per|you v|see part|happen-PRESP prep|in
+	det:dem|these n|picture-PL .
+%gra:	1|2|COM 2|0|BEG 3|2|BEGP 4|0|ROOT 5|4|OBJ2 6|7|DET 7|4|OBJ 8|4|JCT
+	9|11|LINK 10|11|SUBJ 11|8|CPOBJ 12|11|COMP 13|12|JCT 14|15|DET 15|13|POBJ
+	16|4|PUNCT
+*PAR:	okay ‡ I see the [/] the person now with the ball . 8800_12415
+%mor:	co|okay beg|beg pro:sub|I v|see det:art|the n|person adv:tem|now
+	prep|with det:art|the n|ball .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|XMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*PAR:	and he's fixing to kick it . 12415_13665
+%mor:	coord|and pro:sub|he~aux|be&3S part|fix-PRESP inf|to v|kick
+	pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*PAR:	in_fact he's kicked it . 14165_15789
+%mor:	co|in_fact pro:sub|he~aux|be&3S part|kick-PASTP pro:per|it .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and he's kicked the ball on the way to everwhere [: wherever] [* s] he is kicking it to . 15789_20101
+%mor:	coord|and pro:sub|he~aux|be&3S part|kick-PASTP det:art|the n|ball
+	prep|on det:art|the n|way prep|to conj|wherever pro:sub|he aux|be&3S
+	part|kick-PRESP pro:per|it prep|to .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|JCT 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CPOBJ 15|14|OBJ
+	16|14|JCT 17|4|PUNCT
+*PAR:	and then the next picture is a picture of &-um a house that has an open &-uh &+s &-uh +//. 20101_27471
+%mor:	coord|and adv:tem|then det:art|the adj|next n|picture cop|be&3S
+	det:art|a n|picture prep|of det:art|a n|house pro:rel|that v|have&3S
+	det:art|a adj|open +//.
+%gra:	1|6|LINK 2|6|JCT 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|13|LINK 13|11|CMOD 14|15|DET 15|13|JCT
+	16|6|PUNCT
+*PAR:	it doesn't have an open but has a sink [* s:uk] [//] &-uh &-uh picture &+fr in the window . 27471_32927
+%mor:	pro:per|it mod|do&3S~neg|not v|have det:art|a adj|open conj|but
+	v|have&3S det:art|a n|picture prep|in det:art|the n|window .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|7|COORD
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|4|PUNCT
+*PAR:	and the ball has come through and broken the glass and enter the &-um building which apparently is a home . 32927_43052
+%mor:	coord|and det:art|the n|ball aux|have&3S v|come adv|through
+	coord|and part|break&PASTP det:art|the n|glass coord|and v|enter
+	det:art|the n|building pro:rel|which adv|apparent&dadj-LY cop|be&3S
+	det:art|a n|home .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|CONJ 8|7|COORD
+	9|10|DET 10|8|OBJ 11|5|CONJ 12|11|COORD 13|14|DET 14|12|OBJ 15|17|LINK
+	16|17|JCT 17|14|CMOD 18|19|DET 19|17|PRED 20|5|PUNCT
+*PAR:	and there is a person sitting inside in a seat in the home . 43052_48051
+%mor:	coord|and adv|there cop|be&3S det:art|a n|person part|sit-PRESP
+	adv|+prep|in+n|side prep|in det:art|a n|seat prep|in det:art|the
+	n|home .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|XMOD 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	and it comes through the window . 48051_49987
+%mor:	coord|and pro:per|it v|come-3S prep|through det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and the piece [* s:uk] is right there coming in to him . 49987_53653
+%mor:	coord|and det:art|the n|piece aux|be&3S adv|right n|there
+	part|come-PRESP adv|in inf|to pro:obj|him .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|7|AUX 5|6|JCT 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|10|INF 10|7|XJCT 11|7|PUNCT
+*PAR:	it's very apparent that this piece [* s:uk] <is a piece [* s:uk]> [/] that is a &-uh piece [* s:uk] that has a pan [* s:uk] &+si sorta side round surrounding it . 53653_65767
+%mor:	pro:per|it~cop|be&3S adv|very adj|apparent comp|that det:dem|this
+	n|piece pro:rel|that cop|be&3S det:art|a n|piece pro:rel|that
+	v|have&3S det:art|a n|pan adv|sorta adj|side adj|round
+	part|surround-PRESP pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|9|LINK
+	9|7|CMOD 10|11|DET 11|9|PRED 12|13|LINK 13|11|CMOD 14|15|DET 15|13|OBJ
+	16|17|JCT 17|13|JCT 18|17|PRED 19|18|XMOD 20|19|OBJ 21|2|PUNCT
+*PAR:	it's round . 65767_66515
+%mor:	pro:per|it~cop|be&3S n|round .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	but &-uh it's got a piece that's &+g +//. 66515_69420
+%mor:	conj|but pro:per|it~aux|be&3S part|get&PASTP det:art|a n|piece
+	pro:rel|that~cop|be&3S +//.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|LINK 8|6|CMOD
+	9|4|PUNCT
+*PAR:	and it goes around it . 69420_70602
+%mor:	coord|and pro:per|it v|go-3S prep|around pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	then the next picture is showing the person standing up holding it looking out the window where it entered . 70602_78468
+%mor:	adv:tem|then det:art|the adj|next n|picture aux|be&3S
+	part|show-PRESP det:art|the n|person part|stand-PRESP adv|up
+	part|hold-PRESP pro:per|it part|look-PRESP prep|out det:art|the
+	n|window pro:rel|where pro:per|it v|enter-PAST .
+%gra:	1|6|JCT 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|XJCT 10|9|JCT 11|6|XJCT 12|11|OBJ 13|6|XJCT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|19|LINK 18|19|SUBJ 19|16|CMOD 20|6|PUNCT
+*PAR:	&-uh it appears that what he's doing is trying to find out where it came from because he's looking out the window in which it entered in . 78468_87356
+%mor:	pro:per|it v|appear-3S comp|that pro:int|what pro:sub|he~aux|be&3S
+	part|do-PRESP aux|be&3S part|try-PRESP inf|to v|find adv|out
+	pro:int|where pro:per|it v|come&PAST prep|from conj|because
+	pro:sub|he~aux|be&3S part|look-PRESP prep|out det:art|the n|window
+	prep|in pro:rel|which pro:per|it v|enter-PAST adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|9|LINK 4|7|LINK 5|7|SUBJ 6|7|AUX 7|9|SUBJ 8|9|AUX
+	9|2|COMP 10|11|INF 11|9|COMP 12|11|JCT 13|15|LINK 14|15|SUBJ 15|11|COMP
+	16|15|JCT 17|20|LINK 18|20|SUBJ 19|20|AUX 20|2|CJCT 21|20|JCT 22|23|DET
+	23|21|POBJ 24|20|JCT 25|27|LINK 26|27|SUBJ 27|24|POBJ 28|27|JCT
+	29|2|PUNCT
+*PAR:	and there's not anybody standing on the outside of it . 87356_90603
+%mor:	coord|and pro:exist|there~cop|be&3S neg|not pro:indef|anybody
+	part|stand-PRESP prep|on det:art|the adj|outside prep|of pro:per|it
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|5|XMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|JCT 11|10|POBJ 12|3|PUNCT
+*PAR:	so ‡ he is having to come to his conclusion o(f) how did it get there . 90603_95363
+%mor:	co|so beg|beg pro:sub|he aux|be&3S part|have-PRESP inf|to v|come
+	prep|to det:poss|his n|conclusion prep|of pro:int|how mod|do&PAST
+	pro:per|it v|get adv|there .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|15|JCT 13|15|AUX 14|15|SUBJ 15|11|CPOBJ
+	16|15|JCT 17|5|PUNCT
+@G:	Cinderella
+*INV:	you can go ahead and start whenever you're ready . 96795_99266
+%mor:	pro:per|you mod|can v|go adv|ahead coord|and n|start conj|whenever
+	pro:per|you~cop|be&PRES adj|ready .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|9|LINK 8|9|SUBJ
+	9|3|CJCT 10|9|PRED 11|3|PUNCT
+*PAR:	is it gonna come on ? [+ exc] 102900_104247
+%mor:	aux|be&3S pro:per|it part|go&PRESP~inf|to v|come adv|on ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|3|PUNCT
+*INV:	you can go ahead and start now whenever you're ready . 104247_107077
+%mor:	pro:per|you mod|can v|go adv|ahead coord|and n|start adv:tem|now
+	conj|whenever pro:per|you~cop|be&PRES adj|ready .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|CONJ 6|7|MOD 7|5|COORD 8|10|LINK
+	9|10|SUBJ 10|3|CJCT 11|10|PRED 12|3|PUNCT
+*PAR:	do I mash a button or &*INV:nope_I_gotcha just start ? [+ exc] 106955_109807
+%mor:	mod|do pro:sub|I v|mash det:art|a n|button coord|or adj|just
+	n|start ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|MOD 8|6|COORD
+	9|3|PUNCT
+*PAR:	okay ‡ Cinderella [//] &+i the story of Cinderella is about &-uh &-uh a lady [//] young lady that was very beautiful . 110000_118779
+%mor:	co|okay beg|beg det:art|the n|story prep|of n:prop|Cinderella
+	cop|be&3S prep|about det:art|a adj|young n|lady pro:rel|that
+	cop|be&PAST&13S adv|very adj|beautiful .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|0|ROOT 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|13|LINK 13|11|CMOD 14|15|JCT 15|13|PRED
+	16|7|PUNCT
+*PAR:	&-uh <she had> [/] &-um &-uh she had an ɪnvɑɪtmɪnt@u [: invitation] [* n:k] to &-uh come look and <to wear her uniform [* s:r]> [//] to <wear her dress not her uniform> [//] wear her dress and talk to the people &-uh at where she was located and tell them the &+s Cinderella story .   118779_138976
+%mor:	pro:sub|she v|have&PAST det:art|a n|invite&dv-TION inf|to v|come
+	co|look coord|and inf|to v|wear det:poss|her n|dress coord|and
+	n|talk prep|to det:art|the n|person&PL prep|at pro:int|where
+	pro:sub|she aux|be&PAST&13S part|locate-PASTP coord|and v|tell
+	pro:obj|them det:art|the n:prop|Cinderella n|story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|INF 6|2|XJCT 7|6|OBJ 8|7|CONJ
+	9|10|INF 10|8|COORD 11|12|DET 12|10|OBJ 13|10|CONJ 14|13|COORD 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|14|JCT 19|22|LINK 20|22|SUBJ 21|22|AUX
+	22|18|CPOBJ 23|6|CONJ 24|23|COORD 25|24|OBJ2 26|28|DET 27|28|MOD 28|24|OBJ
+	29|2|PUNCT
+*PAR:	&-uh Cinderella was not a person that was [//] &-uh thought that she was gonna be involved in the [//] what was going on . 138976_147449
+%mor:	n:prop|Cinderella cop|be&PAST&13S neg|not det:art|a n|person
+	pro:rel|that v|think&PAST comp|that pro:sub|she aux|be&PAST&13S
+	part|go&PRESP~inf|to aux|be part|involve-PASTP prep|in pro:int|what
+	aux|be&PAST&13S part|go-PRESP adv|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|7|LINK 7|5|CMOD 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|COMP 12|14|INF 13|14|AUX 14|11|COMP 15|14|JCT
+	16|18|SUBJ 17|18|AUX 18|15|CPOBJ 19|18|JCT 20|2|PUNCT
+*PAR:	but she thought she was gonna be somebody that just entered and told the story of what appeared to be a story . 147449_154905
+%mor:	conj|but pro:sub|she v|think&PAST pro:sub|she aux|be&PAST&13S
+	part|go&PRESP~inf|to cop|be pro:indef|somebody pro:rel|that adv|just
+	part|enter-PASTP coord|and v|tell&PAST det:art|the n|story prep|of
+	pro:int|what v|appear-PAST inf|to cop|be det:art|a n|story .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|8|INF 8|6|COMP
+	9|8|PRED 10|12|LINK 11|12|JCT 12|9|CMOD 13|12|CONJ 14|13|COORD 15|16|DET
+	16|14|OBJ 17|16|NJCT 18|19|SUBJ 19|17|CPOBJ 20|21|INF 21|19|COMP
+	22|23|DET 23|21|PRED 24|3|PUNCT
+*PAR:	but Cinderella became an actor in the story and a participater . 154905_159412
+%mor:	conj|but n:prop|Cinderella cop|become&PAST det:art|a n|actor
+	prep|in det:art|the n|story coord|and det:art|a n|participate&dv-AGT
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|CONJ 10|11|DET 11|9|COORD 12|3|PUNCT
+*PAR:	and so ‡ what she got to do is tell the story as it really happened to her . 159412_164598
+%mor:	coord|and co|so beg|beg pro:int|what pro:sub|she v|get&PAST inf|to
+	v|do cop|be&3S v|tell det:art|the n|story prep|as pro:per|it
+	adv|real&dadj-LY v|happen-PAST prep|to pro:obj|her .
+%gra:	1|2|LINK 2|0|BEG 3|2|BEGP 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|9|CPRED 11|12|DET 12|10|OBJ 13|10|JCT 14|13|POBJ 15|16|JCT
+	16|10|COMP 17|16|JCT 18|17|POBJ 19|6|PUNCT
+*PAR:	to her what really happened was she was taken to look at &-uh the Cinderella equipment and the people that were involved . 164598_173200
+%mor:	prep|to det:poss|her pro:int|what adv|real&dadj-LY v|happen-PAST
+	cop|be&PAST&13S pro:sub|she aux|be&PAST&13S part|take&PASTP inf|to
+	v|look prep|at det:art|the n:prop|Cinderella n|equip&dv-MENT
+	coord|and det:art|the n|person&PL pro:rel|that aux|be&PAST
+	part|involve-PASTP .
+%gra:	1|0|INCROOT 2|5|DET 3|5|DET 4|5|JCT 5|1|POBJ 6|5|OBJ 7|9|SUBJ 8|9|AUX
+	9|6|CPRED 10|11|INF 11|9|XJCT 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|11|CONJ 17|18|DET 18|16|COORD 19|21|LINK 20|21|AUX 21|18|CMOD
+	22|1|PUNCT
+*PAR:	and she did that . 173200_174245
+%mor:	coord|and pro:sub|she v|do&PAST comp|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and in doing so &+th they got to explaining what they wanted her to do . 174245_180342
+%mor:	coord|and prep|in part|do-PRESP conj|so pro:sub|they v|get&PAST
+	prep|to part|explain-PRESP pro:int|what pro:sub|they v|want-PAST
+	pro:obj|her inf|to v|do .
+%gra:	1|11|LINK 2|11|JCT 3|2|POBJ 4|6|LINK 5|6|SUBJ 6|11|CJCT 7|6|JCT
+	8|7|POBJ 9|11|LINK 10|11|SUBJ 11|0|ROOT 12|11|OBJ 13|14|INF 14|11|COMP
+	15|11|PUNCT
+*PAR:	what they really wanted her to do was &+ex do the Cinderella story . 180342_184508
+%mor:	pro:int|what pro:sub|they adv|real&dadj-LY v|want-PAST pro:obj|her
+	inf|to v|do aux|be&PAST&13S v|do det:art|the n:prop|Cinderella
+	n|story .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|9|CJCT 5|4|OBJ 6|7|INF 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|12|DET 11|12|MOD 12|9|OBJ 13|9|PUNCT
+*PAR:	but they did not want her to participate . 184508_186592
+%mor:	conj|but pro:sub|they mod|do&PAST neg|not v|want pro:obj|her inf|to
+	v|participate .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|8|INF 8|5|COMP
+	9|5|PUNCT
+*PAR:	but when she started participating she became the leader of the information that she was bringing to them . 186592_194128
+%mor:	conj|but conj|when pro:sub|she v|start-PAST part|participate-PRESP
+	pro:sub|she cop|become&PAST det:art|the n|lead&dv-AGT prep|of
+	det:art|the n|inform&dv-TION comp|that pro:sub|she aux|be&PAST&13S
+	part|bring-PRESP prep|to pro:obj|them .
+%gra:	1|7|LINK 2|4|LINK 3|4|SUBJ 4|7|CJCT 5|4|COMP 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|PRED 10|9|NJCT 11|12|DET 12|10|POBJ 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|9|XMOD 17|16|JCT 18|17|POBJ 19|7|PUNCT
+*PAR:	being the leader means she was a highly [* s:uk] person that was being decorated . 194128_198106
+%mor:	n:gerund|be-PRESP det:art|the n|lead&dv-AGT v|mean-3S pro:sub|she
+	cop|be&PAST&13S det:art|a adv|high&dadj-LY n|person pro:rel|that
+	aux|be&PAST&13S aux|be-PRESP part|decorate-PASTP .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|9|DET 8|9|MOD
+	9|6|PRED 10|13|LINK 11|13|AUX 12|13|AUX 13|9|CMOD 14|4|PUNCT
+*PAR:	she got to tell about <what it> [//] where she was located and what_all was involved and what houses it was involved and everything about it . 198106_206730
+%mor:	pro:sub|she v|get&PAST inf|to v|tell prep|about pro:int|where
+	pro:sub|she aux|be&PAST&13S part|locate-PASTP coord|and
+	pro:int|what_all aux|be&PAST&13S part|involve-PASTP coord|and
+	pro:int|what n|house-PL pro:per|it aux|be&PAST&13S
+	part|involve-PASTP coord|and pro:indef|everything prep|about
+	pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CPOBJ 10|9|CONJ 11|13|SUBJ 12|13|AUX 13|10|COORD 14|13|CONJ 15|16|DET
+	16|14|COORD 17|19|SUBJ 18|19|AUX 19|16|CMOD 20|19|CONJ 21|20|COORD
+	22|21|NJCT 23|22|POBJ 24|2|PUNCT
+*PAR:	and she enjoyed it . 206730_208018
+%mor:	coord|and pro:sub|she v|enjoy-PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and during the enjoyment of it she got to decorate . 208018_211317
+%mor:	coord|and prep|during det:art|the n|enjoy&dv-MENT prep|of
+	pro:per|it pro:sub|she v|get&PAST inf|to v|decorate .
+%gra:	1|8|LINK 2|8|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|10|INF 10|8|COMP 11|8|PUNCT
+*PAR:	and Cinderella [//] part of the decoration is putting on the shoe that was so bright and so beyond any other shoe that you could wear that she did that . 211317_222817
+%mor:	coord|and n|part prep|of det:art|the n|decorate&dv-TION aux|be&3S
+	part|put-PRESP prep|on det:art|the n|shoe pro:rel|that
+	cop|be&PAST&13S adv|so adj|bright coord|and adv|so prep|beyond
+	qn|any qn|other n|shoe pro:rel|that pro:per|you mod|could v|wear
+	comp|that pro:sub|she v|do&PAST comp|that .
+%gra:	1|7|LINK 2|7|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|12|LINK 12|10|CMOD 13|14|JCT 14|12|PRED 15|12|CONJ
+	16|17|JCT 17|15|COORD 18|20|QUANT 19|20|QUANT 20|17|POBJ 21|24|LINK
+	22|24|SUBJ 23|24|AUX 24|20|CMOD 25|27|LINK 26|27|SUBJ 27|24|COMP 28|27|OBJ
+	29|7|PUNCT
+*PAR:	and when she did that she became Cinderella . 222817_226337
+%mor:	coord|and conj|when pro:sub|she v|do&PAST comp|that pro:sub|she
+	cop|become&PAST n:prop|Cinderella .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|PRED
+	9|4|PUNCT
+*PAR:	and <Cinderella was> [//] then she was invited to dance with a good-looking man that was there that was about her age . 226337_234545
+%mor:	coord|and adv:tem|then pro:sub|she aux|be&PAST&13S
+	part|invite-PASTP inf|to v|dance prep|with det:art|a
+	adj|good–looking n|man pro:rel|that cop|be&PAST&13S adv|there
+	pro:rel|that cop|be&PAST&13S prep|about det:poss|her n|age .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|13|LINK 13|11|CMOD 14|13|JCT 15|16|LINK
+	16|11|CMOD 17|16|JCT 18|19|DET 19|17|POBJ 20|5|PUNCT
+*PAR:	and she did that . 234545_235816
+%mor:	coord|and pro:sub|she v|do&PAST comp|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	but <she got> [//] &+in she got instructions with this dancing . 235816_239680
+%mor:	conj|but pro:sub|she v|get&PAST n|instruction-PL prep|with
+	det:dem|this part|dance-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	she could not go beyond the time of midnight . 239680_244024
+%mor:	pro:sub|she mod|could neg|not v|go prep|beyond det:art|the n|time
+	prep|of mid#n|night .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*PAR:	if she went beyond midnight she'd turn back into the person that she was before which was just an ordinary person . 244024_250417
+%mor:	conj|if pro:sub|she v|go&PAST prep|beyond mid#n|night
+	pro:sub|she~mod|genmod v|turn adv|back prep|into det:art|the
+	n|person pro:rel|that pro:sub|she cop|be&PAST&13S adv|before
+	pro:int|which cop|be&PAST&13S adv|just det:art|a adj|ordinary
+	n|person .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|3|JCT 5|4|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|15|LINK 14|15|SUBJ 15|12|CMOD
+	16|15|JCT 17|18|LINK 18|8|CJCT 19|22|JCT 20|22|DET 21|22|MOD 22|18|PRED
+	23|8|PUNCT
+*PAR:	well ‡ she went beyond it . 250417_252928
+%mor:	co|well beg|beg pro:sub|she v|go&PAST prep|beyond pro:per|it .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	when she went beyond it she became the ordinary person that she had been previously . 252928_258480
+%mor:	conj|when pro:sub|she v|go&PAST prep|beyond pro:per|it pro:sub|she
+	cop|become&PAST det:art|the adj|ordinary n|person pro:rel|that
+	pro:sub|she aux|have&PAST cop|be&PASTP adv|previous&dadj-LY .
+%gra:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|3|JCT 5|4|POBJ 6|7|SUBJ 7|0|ROOT 8|10|DET
+	9|10|MOD 10|7|PRED 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD 15|14|JCT
+	16|7|PUNCT
+*PAR:	now she had been highly decorated . 258480_260832
+%mor:	adv:tem|now pro:sub|she aux|have&PAST cop|be&PASTP adv|high&dadj-LY
+	v|decorate-PAST .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+*PAR:	and she was the outstanding person in the community . 260832_264939
+%mor:	coord|and pro:sub|she cop|be&PAST&13S det:art|the
+	adj|+prep|out+part|standing n|person prep|in det:art|the n|community
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	and all way around she was the big person . 264939_267339
+%mor:	coord|and adv|all adv|way prep|around pro:sub|she cop|be&PAST&13S
+	det:art|the adj|big n|person .
+%gra:	1|4|LINK 2|3|JCT 3|4|JCT 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|PRED 10|6|PUNCT
+*PAR:	and all_of_a_sudden she lost all that . 267339_269495
+%mor:	coord|and adv|all_of_a_sudden pro:sub|she v|lose&PAST adv|all
+	pro:dem|that .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|OBJ 7|4|PUNCT
+*PAR:	and it went back to the original people that had position of it . 269495_273485
+%mor:	coord|and pro:per|it v|go&PAST adv|back prep|to det:art|the
+	adj|origin&dn-AL n|person&PL pro:rel|that v|have&PAST n|position
+	prep|of pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|10|LINK 10|8|CMOD 11|10|OBJ 12|11|NJCT 13|12|POBJ 14|3|PUNCT
+*PAR:	well ‡ in doing so Cinderella lost the person that she was with . 273485_278972
+%mor:	co|well beg|beg adv|in part|do-PRESP co|so n:prop|Cinderella
+	v|lose&PAST det:art|the n|person pro:rel|that pro:sub|she
+	cop|be&PAST&13S prep|with .
+%gra:	1|0|BEG 2|1|BEGP 3|4|JCT 4|0|ROOT 5|7|COM 6|7|SUBJ 7|4|COMP 8|9|DET
+	9|7|OBJ 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|JCT 14|4|PUNCT
+*PAR:	now she was with a lady that was a queen of a lady . 278972_283828
+%mor:	adv:tem|now pro:sub|she cop|be&PAST&13S prep|with det:art|a n|lady
+	pro:rel|that cop|be&PAST&13S det:art|a n|queen prep|of det:art|a
+	n|lady .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|LINK 8|6|CMOD
+	9|10|DET 10|8|PRED 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	and the queen of the lady she tried to explain to her which she was not too good at . 283828_290050
+%mor:	coord|and det:art|the n|queen prep|of det:art|the n|lady
+	pro:sub|she v|try-PAST inf|to v|explain prep|to pro:obj|her
+	pro:int|which pro:sub|she cop|be&PAST&13S neg|not adv|too adj|good
+	prep|at .
+%gra:	1|8|LINK 2|3|DET 3|8|JCT 4|3|NJCT 5|6|DET 6|4|POBJ 7|8|SUBJ 8|0|ROOT
+	9|10|INF 10|8|COMP 11|10|JCT 12|11|POBJ 13|15|LINK 14|15|SUBJ 15|8|CJCT
+	16|15|NEG 17|18|JCT 18|15|PRED 19|18|JCT 20|8|PUNCT
+*PAR:	but she tried to explain to her what had taken place . 290050_292677
+%mor:	conj|but pro:sub|she v|try-PAST inf|to v|explain prep|to
+	pro:obj|her pro:int|what aux|have&PAST part|take&PASTP n|place .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|10|SUBJ
+	9|10|AUX 10|5|CJCT 11|10|OBJ 12|3|PUNCT
+*PAR:	but the story is that Cinderella got to be a queen and a big queen . 292677_300809
+%mor:	conj|but det:art|the n|story cop|be&3S comp|that n:prop|Cinderella
+	v|get&PAST inf|to cop|be det:art|a n|queen coord|and det:art|a
+	adj|big n|queen .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CPRED 8|9|INF
+	9|7|COMP 10|11|DET 11|9|PRED 12|11|CONJ 13|15|DET 14|15|MOD 15|12|COORD
+	16|4|PUNCT
+*PAR:	but she lost it when it became midnight . 300809_303984
+%mor:	conj|but pro:sub|she v|lose&PAST pro:per|it conj|when pro:per|it
+	cop|become&PAST mid#n|night .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|PRED
+	9|3|PUNCT
+*PAR:	and she [//] then the story ended . 303984_306472
+%mor:	coord|and adv:tem|then det:art|the n|story v|end-PAST .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	and she was able to tell it . 306472_308320
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adj|able inf|to v|tell
+	pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|6|OBJ 8|3|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+%com:	audio file for this task is buggy, impacting playback in the form of random skips and desyncs, so timestamps have been removed .
+*PAR:	peanut butter and jelly sandwich .
+%mor:	n|peanut n|butter coord|and n|jelly n|sandwich .
+%gra:	1|2|MOD 2|5|MOD 3|2|CONJ 4|3|COORD 5|0|ROOT 6|5|PUNCT
+*PAR:	first you take the bread .
+%mor:	adv|first pro:per|you v|take det:art|the n|bread .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and I lay the bread in two pieces .
+%mor:	coord|and pro:sub|I v|lay det:art|the n|bread prep|in det:num|two
+	n|piece-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|QUANT 8|6|POBJ
+	9|3|PUNCT
+*PAR:	then I get the peanut butter .
+%mor:	adv:tem|then pro:sub|I v|get det:art|the n|peanut n|butter .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	and I put the peanut butter on the bread .
+%mor:	coord|and pro:sub|I v|put&ZERO det:art|the n|peanut n|butter
+	prep|on det:art|the n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	and they only put it on one piece .
+%mor:	coord|and pro:sub|they adv|only v|put&ZERO pro:per|it prep|on
+	det:num|one n|piece .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|QUANT 8|6|POBJ
+	9|4|PUNCT
+*PAR:	but I would probably put a lesser amount on two pieces .
+%mor:	conj|but pro:sub|I mod|will&COND adv|probable&dadj-LY v|put&ZERO
+	det:art|a adj|less-CP n|amount prep|on det:num|two n|piece-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|JCT 10|11|QUANT 11|9|POBJ 12|5|PUNCT
+*PAR:	and then take and put the jelly on .
+%mor:	coord|and adv:tem|then v|take coord|and v|put&ZERO det:art|the
+	n|jelly adv|on .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|CONJ 5|4|COORD 6|7|DET 7|5|OBJ 8|5|JCT
+	9|3|PUNCT
+*PAR:	and I would coat it on one piece, not heavy .
+%mor:	coord|and pro:sub|I mod|will&COND v|coat pro:per|it prep|on
+	det:num|one n|piece cm|cm neg|not adj|heavy .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|QUANT 8|6|POBJ
+	9|4|LP 10|11|NEG 11|4|JCT 12|4|PUNCT
+*PAR:	if you put too heavy it's gonna spill out around on the edge .
+%mor:	comp|if pro:per|you v|put&ZERO adv|too adj|heavy
+	pro:per|it~aux|be&3S part|go&PRESP~inf|to v|spill adv|out adv|around
+	prep|on det:art|the n|edge .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|SUBJ 7|8|AUX 8|5|CMOD
+	9|10|INF 10|8|COMP 11|10|JCT 12|10|JCT 13|10|JCT 14|15|DET 15|13|POBJ
+	16|3|PUNCT
+*PAR:	but it probably will anyway .
+%mor:	conj|but pro:per|it adv|probable&dadj-LY mod|will adv|anyway .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and then I put it on the other one .
+%mor:	coord|and adv:tem|then pro:sub|I v|put&ZERO pro:per|it prep|on
+	det:art|the qn|other pro:indef|one .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|QUANT
+	9|6|POBJ 10|4|PUNCT
+*PAR:	and then I take the two pieces . 309185_309365
+%mor:	coord|and adv:tem|then pro:sub|I v|take det:art|the det:num|two
+	n|piece-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|QUANT 7|4|OBJ 8|4|PUNCT
+*PAR:	and I put one on top of the other .
+%mor:	coord|and pro:sub|I v|put&ZERO pro:indef|one prep|on n|top prep|of
+	det:art|the qn|other .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	and I put them in proper order where it matched .
+%mor:	coord|and pro:sub|I v|put&ZERO pro:obj|them prep|in adj|proper
+	n|order pro:rel|where pro:per|it v|match-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|MOD 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|3|PUNCT
+*PAR:	and then I would cut the sandwich in half .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|cut&ZERO
+	det:art|the n|sandwich prep|in n|half .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|5|PUNCT
+*PAR:	and I would cut it from angle to angle rather than directly across .
+%mor:	coord|and pro:sub|I mod|will&COND v|cut&ZERO pro:per|it prep|from
+	n|angle prep|to n|angle adv|rather prep|than adv|direct&dadj-LY
+	prep|across .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|JCT
+	9|8|POBJ 10|4|JCT 11|10|JCT 12|13|JCT 13|11|POBJ 14|4|PUNCT
+*PAR:	and then I would present it to the person that was eating it and have them to enjoy it .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|present pro:per|it
+	prep|to det:art|the n|person pro:rel|that aux|be&PAST&13S
+	part|eat-PRESP pro:per|it coord|and v|have pro:obj|them inf|to
+	v|enjoy pro:per|it .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|12|LINK 11|12|AUX 12|9|CMOD 13|12|OBJ 14|12|CONJ 15|14|COORD
+	16|15|OBJ 17|18|INF 18|15|COMP 19|18|OBJ 20|5|PUNCT
+@End

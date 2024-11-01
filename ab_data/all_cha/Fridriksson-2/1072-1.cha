@@ -1,0 +1,175 @@
+@UTF8
+@PID:	11312/a-00080648-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|62;00.|female|Broca|Black|Participant||67|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1072-1, video
+@Date:	25-FEB-2019
+@G:	Window
+*INV:	www .
+%wor:	www .
+*PAR:	&-um (..) the (.) ball . 52137_60907
+%wor:	&-um 52137_52777 the 58007_58017 ball 60257_60907 .
+%mor:	det:art|the n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	pick [: kick] [* p:w] the ball . 62553_63323
+%wor:	pick the 62553_62563 ball 62843_63323 .
+%mor:	v|kick det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	&-um &+w &+wi went through the &-um window . 66466_76136
+%wor:	&-um 66466_67006 &+w 67866_68126 &+wi 68456_69506 went 69666_70186 through 71636_72106 the 72106_72236 &-um 72236_72626 window 75326_76136 .
+%mor:	v|go&PAST prep|through det:art|the n|window .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	<and and> [/] and ten [: then] [* p:w] (h)e caught it and &+f pull
+	&+u up and hell [: held] [* p:w] the ball . 78254_98074
+%wor:	and 78254_79164 and 81234_82054 and 83044_83754 ten (h)e 87364_87794 caught 88204_88794 it 88884_89484 and 89614_90124 &+f 90874_91044 pull 91914_92504 &+u 93304_93364 up 93674_94084 and 94224_94784 hell the 97634_97684 ball 97684_98074 .
+%mor:	coord|and adv:tem|then pro:sub|he v|catch&PAST pro:per|it coord|and
+	v|pull adv|up coord|and v|hold&PAST det:art|the n|ball .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|6|COORD
+	8|7|JCT 9|4|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|4|PUNCT
+*INV:	anything else ? 102715_103595
+%wor:	anything 102715_103175 else 103175_103595 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*INV:	or is that it ? 104534_105234
+%wor:	or 104534_104604 is 104604_104744 that 104744_104954 it 104954_105234 ?
+%mor:	coord|or cop|be&3S comp|that pro:per|it ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|OBJ 5|2|PUNCT
+*PAR:	&+th that's it &=laughs . [+ exc] 106691_107881
+%wor:	&+th 106691_106831 that's 107031_107591 it 107591_107881 .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@G:	Cinderella
+*INV:	www .
+%wor:	www .
+*PAR:	&-um dad had &-um &+cinde &+le (.) Cinderella . 119810_135440
+%wor:	&-um 119810_120420 dad 122920_123720 had 124790_125430 &-um 127330_127710 &+cinde 129620_130550 &+le 130920_131170 Cinderella 134540_135440 .
+%mor:	n|dad v|have&PAST n:prop|Cinderella .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and mom had &+guh &-um &+gir two girls . 137239_146549
+%wor:	and 137239_137949 mom 140039_140879 had 141029_141769 &+guh 142729_142829 &-um 143039_143509 &+gir 144009_144279 two 144929_145409 girls 145839_146549 .
+%mor:	coord|and n|mom v|have&PAST det:num|two n|girl-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	and [/] and they [/] (.) they went in to +... 147471_158061
+%wor:	and 147471_148081 and 148551_149091 they 149281_149971 they 154261_154811 went 155071_155501 in 155651_156171 to 157461_158061 +...
+%mor:	coord|and pro:sub|they v|go&PAST adv|in inf|to +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|OM 6|3|PUNCT
+*PAR:	Cinderella was &-um mopping <in the> [/] in the mopping . 160092_169012
+%wor:	Cinderella 160092_161132 was 161442_162202 &-um 163002_163062 mopping 163062_163362 in 163362_163642 the 163642_163892 in 165452_165782 the 165782_165822 mopping 167202_169012 .
+%mor:	n:prop|Cinderella aux|be&PAST&13S part|mop-PRESP prep|in
+	det:art|the n:gerund|mop-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and &-um <went he> [//] she went to the window and see all the &-um
+	&+wud world . 175484_188154
+%wor:	and 175484_176734 &-um 176904_177564 went 179634_180434 he 180434_180894 she 182204_182494 went 182494_182974 to 182974_183034 the 183034_183074 window 184264_184694 and 184694_185044 see 185334_185504 all 185504_185854 the 186474_186494 &-um 186494_186924 &+wud 187214_187664 world 187664_188154 .
+%mor:	coord|and pro:sub|she v|go&PAST prep|to det:art|the n|window
+	coord|and v|see qn|all det:art|the n|world .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ
+	8|7|COORD 9|11|QUANT 10|11|DET 11|8|OBJ 12|3|PUNCT
+*PAR:	and [/] &-uh and mouse and [/] and &-uh <though and> [//] all [/]
+	all the &+lul little rats &-um &-um bought [*] her &+er the &-uh
+	&+ye &+fre fress [: dress] [* p:n] . 197855_235905
+%wor:	and 197855_198415 &-uh 198415_198805 and 201325_202265 mouse 205025_205845 and 205845_206405 and 208885_209735 &-uh 213645_214215 though 216615_217495 and 217495_218305 all 219495_219805 all 220185_220545 the 220545_220585 &+lul 220585_220945 little 222295_222925 rats 222925_223895 &-um 224865_225475 &-um 227505_227995 bought 229405_229915 her 229915_230305 &+er 230525_230885 the 231085_231215 &-uh 231215_231535 &+ye 232255_232665 &+fre 235525_235905 fress .
+%mor:	coord|and n|mouse coord|and qn|all det:art|the adj|little n|rat-PL
+	v|buy&PAST pro:obj|her det:art|the n|dress .
+%gra:	1|8|LINK 2|8|SUBJ 3|2|CONJ 4|7|QUANT 5|7|DET 6|7|MOD 7|3|COORD
+	8|0|ROOT 9|8|OBJ2 10|11|DET 11|8|OBJ 12|8|PUNCT
+%com:	"bought" seems infelicitous, but it might be either a near miss for
+	"brought" (morphological) or e .g . "made" (semantic, as it's
+	another form of procurement) .
+*INV:	mhm . 239190_239510
+%wor:	mhm 239190_239510 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and [/] and then the &-uh pumptin [: pumpkin] [* p:n] &-um the [//]
+	&+m &+ne nade [: made] [* p:n] into carriaged [: carriages] [* p:n]
+	. 240254_257684
+%wor:	and 240254_240894 and 241494_242334 then 243294_244184 the 245774_245834 &-uh 245834_246844 pumptin &-um 250954_251404 the 252524_252544 &+m 252544_253084 &+ne 253944_254714 nade into 256604_257684 carriaged .
+%mor:	coord|and adv:tem|then det:art|the n|pumpkin v|make&PAST prep|into
+	n|carriage-PL .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ
+	8|5|PUNCT
+*PAR:	<and and> [/] and &-uh went . 260505_267576
+%wor:	and 260506_261106 and 262346_263226 and 265266_265536 &-uh 265536_265826 went 266806_267576 .
+%mor:	coord|and v|go&PAST .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	and &-um got to the ball . 268339_272649
+%wor:	and 268339_268749 &-um 268749_269089 got 270329_270809 to 270809_271389 the 272029_272039 ball 272039_272649 .
+%mor:	coord|and v|get&PAST prep|to det:art|the n|ball .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	and she was [?] aksed &-um trince [: prince] [* p:n] &+s sept
+	[: x@n] [* n:uk] and &+k to dance . 274964_287594
+%wor:	and 274964_275784 she 276954_276964 was 276964_277044 aksed 277044_277264 &-um 277264_277334 trince &+s 279024_279394 sept and 282354_282964 &+k 283304_283954 to 285184_285554 dance 287064_287594 .
+%mor:	coord|and pro:sub|she aux|be&PAST&13S part|ask-PASTP n|prince neo|x
+	coord|and prep|to n|dance .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|XMOD 7|6|CONJ
+	8|7|COORD 9|8|POBJ 10|4|PUNCT
+*PAR:	and [/] and then all <the the> [/] the &-um dress and clothes <and
+	and> [/] and put the &-um bag [?] . 291308_310788
+%wor:	and 291308_292228 and 292928_293598 then 294188_295258 all 296988_297788 the 297788_297818 the 297818_298278 the 298278_298398 &-um 298398_299048 dress 299758_300338 and 301048_301208 clothes 301568_302108 and 303968_304458 and 305858_306268 and 306468_306868 put 307398_308008 the 308008_308378 &-um 309238_309858 bag 310498_310788 .
+%mor:	coord|and adv:tem|then qn|all det:art|the n|dress coord|and
+	n:pt|clothes coord|and v|put&ZERO det:art|the n|bag .
+%gra:	1|5|LINK 2|5|JCT 3|5|QUANT 4|5|DET 5|0|INCROOT 6|5|CONJ 7|6|COORD
+	8|5|CONJ 9|8|COORD 10|11|DET 11|9|OBJ 12|5|PUNCT
+%com:	or "back", as in "all her dress and clothes turned back to normal"
+	.
+*PAR:	and they went the [/] the &+ch &+f &-uh witch [* u] was [/] was the
+	&+e &+ah &-um &-um shoe . 315673_338033
+%wor:	and 315673_316333 they 317083_317823 went 318723_319353 the 319353_319373 the 319373_319383 &+ch 319383_319403 &+f 319403_319963 &-uh 321543_322133 witch 324363_324723 was 326093_326363 was 326393_326763 the 326763_326773 &+e 326773_326953 &+ah 327953_331183 &-um 332623_333233 &-um 335743_336433 shoe 337433_338033 .
+%mor:	coord|and pro:sub|they v|go&PAST det:art|the n|witch
+	cop|be&PAST&13S det:art|the n|shoe .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|8|DET
+	8|6|PRED 9|3|PUNCT
+*PAR:	and &-um one shoe . 339030_342980
+%wor:	and 339030_339580 &-um 339930_340470 one 341430_342120 shoe 342230_342980 .
+%mor:	coord|and det:num|one n|shoe .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	and they went and <back in> [?] . 343653_348853
+%wor:	and 343653_344063 they 344063_344743 went 344973_345693 and 345693_346143 back 347723_348323 in 348323_348853 .
+%mor:	coord|and pro:sub|they v|go&PAST coord|and adj|back adv|in .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|JCT 7|3|PUNCT
+*PAR:	and these [/] these [* m:a] frince [: prince] [* p:n] went to all
+	the [/] the back and &-um sat on the &+w three [//] &+eh &+t &+yu
+	two . 349654_371224
+%wor:	and 349654_350284 these 351644_352314 these 353004_353494 frince went 356674_357174 to 357174_357614 all 357794_358364 the 358364_358774 the 358774_358944 back 359414_359804 and 360584_361064 &-um 361624_362254 sat 362654_362774 on 363064_363634 the 364004_364214 &+w 364214_365704 three 367124_367704 &+eh 368724_368904 &+t 369604_369874 &+yu 369874_370284 two 370794_371224 .
+%mor:	coord|and det:dem|these n|prince v|go&PAST prep|to qn|all
+	det:art|the n|back coord|and v|sit&PAST prep|on det:art|the
+	det:num|two .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|QUANT 7|8|DET
+	8|5|POBJ 9|4|CONJ 10|9|COORD 11|10|JCT 12|13|DET 13|11|POBJ
+	14|4|PUNCT
+*PAR:	and the final shoe fit . 377207_384867
+%wor:	and 377207_377937 the 378337_378517 final 379127_379947 shoe 381597_382497 fit 384177_384867 .
+%mor:	coord|and det:art|the adj|final n|shoe v|fit&ZERO .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	and that's [/] that's all . 386713_392343
+%wor:	and 386713_387343 that's 387343_388283 that's 391083_391683 all 391913_392343 .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+%wor:	www .
+*PAR:	&-uh &-um but [//] <put the> [/] &-um put the &+pep &+pe &+pep
+	&+pep butter . 415398_437888
+%wor:	&-uh 415398_415818 &-um 417098_417648 but 420298_420778 put 420778_421248 the 422138_422238 &-um 422238_422758 put 425558_426048 the 429288_429348 &+pep 429918_430308 &+pe 430308_430688 &+pep 432158_432558 &+pep 433348_433708 butter 437218_437888 .
+%mor:	v|put&ZERO det:art|the n|butter .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	&-um &-um put it +//. 439127_443767
+%wor:	&-um 439127_439647 &-um 440557_440907 put 442797_443207 it 443277_443767 +//.
+%mor:	v|put&ZERO pro:per|it +//.
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	yeah oh okay . [+ exc] 443784_445144
+%wor:	yeah 443784_443974 oh 444194_444334 okay 444584_445144 .
+%mor:	co|yeah co|oh co|okay .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	and [/] and &-uh then the &+t jelly on &+puh &+puh &+ah in &+t to
+	the bread . 445785_466295
+%wor:	and 445785_446455 and 447345_448015 &-uh 448015_448275 then 448565_449505 the 450245_450295 &+t 450855_451015 jelly 451015_451625 on 452305_452795 &+puh 453715_453805 &+puh 454245_454325 &+ah 454355_454825 in 456045_456685 &+t 458425_458605 to 460445_460935 the 463965_464025 bread 465675_466295 .
+%mor:	coord|and adv:tem|then det:art|the n|jelly adv|on adv|in prep|to
+	det:art|the n|bread .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|NJCT 6|4|JCT 7|4|NJCT
+	8|9|DET 9|7|POBJ 10|4|PUNCT
+@End

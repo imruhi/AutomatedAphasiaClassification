@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/a-00076842-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|78;00.|male|Broca||Participant||71.4|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1080-5, video
+@Comment:	PAR's voice is hoarse and raspy, very long pauses, unintelligible segments, no %wor tier
+@G:	Window
+*INV:	www . 0_41795
+*PAR:	boy is kicking the ball . 41896_50346
+%mor:	n|boy aux|be&3S part|kick-PRESP det:art|the n|ball .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and &+w window . 50346_62148
+%mor:	coord|and n|window .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	the owner [/] &+o owner +"/. 66948_80239
+%mor:	det:art|the n|own&dv-AGT +"/.
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" who's that ? 82639_84288
+%mor:	pro:int|who~cop|be&3S pro:dem|that ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@G:	Cinderella
+*INV:	www . 84485_94907
+*PAR:	&+s <Cinderella is> [/] Cinderella is dreamin(g) . 102085_165627
+%mor:	n:prop|Cinderella aux|be&3S part|dream-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	prince and &+s castle riʒɪn@u [: x@n] [* n:uk] . 172327_193989
+%mor:	n|prince coord|and n|castle neo|x .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	&-uh the prince and dancing . 193989_201564
+%mor:	det:art|the n|prince coord|and part|dance-PRESP .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	and time midnight . 202495_225111
+%mor:	coord|and n|time mid#n|night .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and she had the &+sh <prince [//] I_mean> [//] &+sh ʃlɪpɚ@u [: slipper] [* p:n] was +//. 225115_243075
+%mor:	coord|and pro:sub|she v|have&PAST det:art|the n|slipper
+	cop|be&PAST&13S +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+*PAR:	godmother is in the plan to off the [/] the prince . 260175_285529
+%mor:	n|+n|god+n|mother cop|be&3S prep|in det:art|the n|plan inf|to
+	prep|off det:art|the n|prince .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|INF 7|5|XMOD 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*PAR:	I don't know . [+ exc] 285625_287177
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 287765_311465
+*PAR:	the bread whole wheat . 301045_312452
+%mor:	det:art|the n|bread adj|whole n|wheat .
+%gra:	1|2|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	and toast and cool . 312452_319865
+%mor:	coord|and n|toast coord|and adj|cool .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	<butter I_mean> [//] &+shu peanut &+bu butter <on the> [//] in <butter I_mean> [//] &+j jelly . 321275_346373
+%mor:	n|peanut n|butter prep|in n|jelly .
+%gra:	1|2|MOD 2|0|ROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	and on the other &+w half . 346373_351785
+%mor:	coord|and prep|on det:art|the qn|other n|half .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|DET 4|5|QUANT 5|2|POBJ 6|1|PUNCT
+*PAR:	and &+ja just stack (th)em up to form the &+pea peanut butter sandwich . 351835_365714
+%mor:	coord|and adj|just n|stack pro:obj|them adv|up inf|to v|form
+	det:art|the n|peanut n|butter n|sandwich .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|COORD 4|7|SUBJ 5|4|JCT 6|7|INF 7|3|CMOD
+	8|11|DET 9|10|MOD 10|11|MOD 11|7|OBJ 12|1|PUNCT
+@End

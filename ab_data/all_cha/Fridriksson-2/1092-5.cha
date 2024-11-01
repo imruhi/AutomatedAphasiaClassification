@@ -1,0 +1,96 @@
+@UTF8
+@PID:	11312/a-00076854-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|67;00.|female|Global||Participant||19.9|
+@Media:	1092-5, video
+@Date:	17-JAN-2020
+@G:	Window
+*INV:	www .
+%exp:	task instructions
+*PAR:	xxx a story . [+ exc] 55000_57720
+%mor:	det:art|a n|story .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%wor:	a 55000_55880 story 55880_57720 .
+*INV:	mhm what do you see happening in this story ? 58600_61060
+%mor:	co|mhm=yes pro:int|what mod|do pro:per|you v|see part|happen-PRESP prep|in det:dem|this n|story ?
+%gra:	1|5|COM 2|5|OBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|COMP 7|6|JCT 8|9|DET 9|7|POBJ 10|5|PUNCT
+%wor:	mhm 58600_58800 what 58800_59260 do 59260_59420 you 59420_59500 see 59500_59740 happening 59740_60140 in 60140_60620 this story 60620_61060 ?
+*PAR:	mhm a tʃɛləfoʊn@u [: telephone] [* p:n] [//] sɛləfoʊn@u [: telephone] [* p:n] . 62880_67200
+%mor:	co|mhm=yes det:art|a n|telephone .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%wor:	mhm 62880_63480 a 63480_64300 telephone 64300_66400 telephone 66400_67200 .
+*INV:	okay . 67560_68260
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	okay 67560_68260 .
+*INV:	and what else ? 74513_75340
+%mor:	coord|and pro:int|what post|else ?
+%gra:	1|0|INCROOT 2|1|COORD 3|2|PQ 4|1|PUNCT
+%wor:	and 74513_74760 what 74760_74960 else 74960_75340 ?
+*PAR:	tsɛləfoʊn@u [: telephone] [* p:n] [//] mhm telephone [*] . 80000_89080
+%mor:	co|mhm=yes n|telephone .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%wor:	telephone 80000_82040 mhm 82040_87980 telephone 87980_89080 .
+@G:	Cinderella
+*INV:	www .
+%exp:	task instructions
+*PAR:	mhm (be)cause she [/] she not &-uh telling a story about a sæmɪndʒ@u [: x@n] [* n:uk] coming to see a picture about a large xxx . 99000_123080
+%mor:	co|mhm=yes conj|because pro:sub|she neg|not part|tell-PRESP det:art|a n|story prep|about det:art|a neo|x part|come-PRESP inf|to v|see det:art|a n|picture prep|about det:art|a adj|large .
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT 9|10|DET 10|8|POBJ 11|10|XMOD 12|13|INF 13|11|XJCT 14|15|DET 15|13|OBJ 16|15|NJCT 17|18|DET 18|16|POBJ 19|5|PUNCT
+%wor:	mhm 99000_99620 because 99620_102320 she 102320_102980 she 102980_104080 not 104080_104460 uh 104460_105880 telling 105880_106420 a 106420_106860 story 106860_107860 about 107860_109040 a 109040_111140 x 111140_113500 coming 113500_118480 to 118480_119100 see 119100_119600 a 119600_120120 picture 120120_120740 about 120740_121880 a 121880_122440 large 122440_123080 .
+*PAR:	and it has a picture in a lɑr@u [: large] [* p:n] back porch [* s:uk] . 129574_137874
+%mor:	coord|and pro:per|it aux|have&3S det:art|a n|picture prep|in det:art|a adj|large adj|back n|porch .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|DET 5|0|INCROOT 6|5|NJCT 7|10|DET 8|10|MOD 9|10|MOD 10|6|POBJ 11|5|PUNCT
+%wor:	and 129574_129874 it 129874_130034 has 130034_130834 a 130834_132154 picture 132154_132954 in 132954_133974 a 133974_134454 large 134454_135514 back 135514_136454 porch 136454_137874 .
+*PAR:	a large back porch [* s] &-uh aside the pictures of big picture . 138514_151414
+%mor:	det:art|a adj|large adj|back n|porch adv|aside det:art|the n|picture-PL prep|of adj|big n|picture .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ 8|7|NJCT 9|10|MOD 10|8|POBJ 11|4|PUNCT
+%wor:	a 138514_140114 large 140114_140734 back 140734_141474 porch 141474_142794 uh 142794_143694 aside 143694_146654 the 146654_148174 pictures 148174_149274 of 149274_149814 big 149814_150434 picture 150434_151414 .
+*PAR:	oh a large picture by a leɪvɪ@u [: x@n] [* n:uk] [/] leɪvɪ@u [: x@n] [* n:uk] a picture behind . 152725_164825
+%mor:	co|oh det:art|a adj|large n|picture prep|by det:art|a neo|x det:art|a n|picture adv|behind .
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ 8|9|DET 9|7|OBJ 10|9|NJCT 11|4|PUNCT
+%wor:	oh 152725_153345 a 153345_155405 large 155405_156165 picture 156165_157025 by 157025_157765 a 157765_159105 x 159105_160505 x 160505_161065 a 161065_161845 picture 161845_163925 behind 163925_164825 .
+*PAR:	a large picture .  165185_167805
+%mor:	det:art|a adj|large n|picture .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%wor:	a 165185_166285 large 166285_167165 picture 167165_167805 .
+*PAR:	a picture behind a scene white pɔrʃ@u [: porch] [* p:n] . 168425_176425
+%mor:	det:art|a n|picture prep|behind det:art|a n|scene adj|white n|porch .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|5|DET 5|7|MOD 6|7|MOD 7|3|POBJ 8|2|PUNCT
+%wor:	a 168425_170165 picture 170165_170725 behind 170725_171545 a 171545_172165 scene 172165_173665 white 173665_174845 porch 174845_176425 .
+*PAR:	&-uh a side white porch [* s:uk] a large white porch [* s:uk] . 177005_184845
+%mor:	det:art|a n|side adj|white n|porch det:art|a adj|large adj|white n|porch .
+%gra:	1|2|DET 2|0|INCROOT 3|4|MOD 4|2|ENUM 5|8|DET 6|8|MOD 7|8|MOD 8|4|APP 9|2|PUNCT
+%wor:	uh 177005_179605 a side 179605_180065 white 180065_180605 porch 180605_181485 a 181485_182185 large 182185_183265 white 183265_184005 porch 184005_184845 .
+*PAR:	&-um a large white porch [* s:uk] . 186345_191545
+%mor:	det:art|a adj|large adj|white n|porch .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%wor:	um 186345_186885 a 186885_189785 large 189785_190325 white 190325_190725 porch 190725_191545 .
+*PAR:	and it be sɑɪm@u [: x@n] [* n:uk] hɑɪm@u [: x@n] [* n:uk]  sɑɪm@u [: x@n] [* n:uk]  it a lime [* s:uk] in &-uh +... 192685_200485
+%mor:	coord|and pro:per|it aux|be neo|x neo|x neo|x pro:per|it det:art|a n|lime adv|in +...
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OM 6|5|OM 7|6|OBJ 8|9|DET 9|7|OBJ 10|9|NJCT 11|4|PUNCT
+%wor:	and 192685_192705 it 192705_192945 be 192945_193225 x 193225_193705 x 193705_194285 x 194285_196945 it 196945_197565 a 197565_198805 lime 198805_199465 in 199465_199765 uh 199765_200485 +...
+*PAR:	be set [/] set free . 200729_205089
+%mor:	cop|be n|set adv|free .
+%gra:	1|0|ROOT 2|1|PRED 3|2|NJCT 4|1|PUNCT
+%wor:	be 200729_202889 set 202889_203449 set 203449_204589 free 204589_205089 .
+*PAR:	and it's a lime [* s:uk] white horse . 208335_211849
+%mor:	coord|and pro:per|it~cop|be&3S det:art|a n|lime adj|white n|horse .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|7|MOD 6|7|MOD 7|3|PRED 8|3|PUNCT
+%wor:	and 208335_208549 it's 208549_208909 a 208909_209429 lime 209429_210049 white 210049_211169 horse 211169_211849 .
+*PAR:	and a lime [* s:uk] white horse will be &-uh a poetry [* s:uk] about poetry [* s:uk] . 213235_223749
+%mor:	coord|and det:art|a n|lime adj|white n|horse mod|will cop|be det:art|a n|poetry prep|about n|poetry .
+%gra:	1|7|LINK 2|3|DET 3|5|MOD 4|5|MOD 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|DET 9|7|PRED 10|9|NJCT 11|10|POBJ 12|7|PUNCT
+%wor:	and 213235_213309 a 213309_213489 lime 213489_213989 white 213989_214969 horse 214969_215589 will 215589_216509 be 216509_217009 uh 217009_217789 a 217789_218469 poetry 218469_219449 about 219449_222369 poetry 222369_223749 .
+@G:	Sandwich_Picture
+*INV:	www .
+%exp:	task instructions
+*PAR:	&-uh sandwich [/] &-uh sandwich in &-uh Koolaid . 244166_254906
+%mor:	n|sandwich prep|in n:prop|Koolaid .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%wor:	uh 244166_245286 sandwich uh 245286_246906 sandwich 246906_249206 in 249206_249866 uh 249866_252346 Koolaid 252346_254906 .
+@End

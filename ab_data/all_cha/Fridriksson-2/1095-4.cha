@@ -1,0 +1,94 @@
+@UTF8
+@PID:	11312/a-00076864-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|55;00.|male|Broca||Participant||28.3|
+@Media:	1095-4, video
+@Comment:	no %wor tier, lots of unintelligible, perseverative output
+@G:	Sandwich_Picture
+*INV:	www . 0_43825
+%exp:	task instructions
+*PAR:	xxx &=imit:ball xxx . 44425_48577
+*PAR:	xxx &=imit:ball . 48577_52143
+*PAR:	and xxx +"/. 52143_55602
+%mor:	coord|and +"/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" whoa xxx wow . 55602_59509
+%mor:	co|whoa co|wow .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx . 60909_63309
+*PAR:	+" whoa . 63709_64795
+%mor:	co|whoa .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cinderella
+*INV:	www . 69013_76663
+%exp:	task instructions
+*PAR:	okay ‡ &-uh xxx yes xxx . 74363_78609
+%mor:	co|okay beg|beg co|yes .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	and &-uh xxx &=fingers:three one xxx . 78609_84198
+%mor:	coord|and det:num|one .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx . 84198_89465
+*PAR:	xxx . 89465_93896
+*PAR:	and &-um xxx &=fingers:three . 93896_100556
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and xxx yes xxx . 100556_104195
+%mor:	coord|and co|yes .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" why [/] why xxx ? 104195_105961
+%mor:	pro:rel|why ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" hey xxx . 105961_107114
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . 107114_108271
+*PAR:	+" ah no [/] no [/] no . 108271_109529
+%mor:	co|ah co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-uh xxx &=imit . 109529_112859
+*PAR:	+" hey . 112859_113412
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=fingers:snap xxx . 113412_116720
+*PAR:	+" oh xxx &=imit:singing . 116720_121898
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" oh xxx . 121900_125502
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . 125502_128176
+*PAR:	+" no [/] no [/] no [/] no . 128176_129116
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	one xxx . 129116_131088
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh xxx . 131088_135190
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" hey xxx . 135190_138053
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx no xxx no . 138060_141692
+%mor:	co|no co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	yes xxx ah yes xxx . 141692_148903
+%mor:	co|yes co|ah co|yes .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 151692_161600
+%exp:	task instructions
+*PAR:	no [/] no ‡ &-uh oh [/] oh . [+ exc] 161792_164627
+%mor:	co|no beg|beg co|oh .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-uh &-uh bread &-uh xxx . 168075_174719
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . 176919_180276
+*PAR:	xxx . 182876_185399
+@End

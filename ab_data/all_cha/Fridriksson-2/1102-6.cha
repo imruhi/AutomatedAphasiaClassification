@@ -1,0 +1,110 @@
+@UTF8
+@PID:	11312/a-00083092-0
+@Window:	128_810_927_1045_-1_-1_287_0_287_0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|44;00.|male|Broca|White|Participant||44.5|
+@Media:	1102-6, video
+@Comment:	no %wor tier due to limited output and paraphasias
+@G:	Window
+*INV:	www .
+*PAR:	ball . 36092_40325
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" ball shit &-uh &-uh mom [: dad] [* s:r] . 40325_47692
+%mor:	n|ball n|shit n|dad .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-um &+s &-um screen [: window] [* s:r] . 47692_50888
+%mor:	n|window .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um &+w &-um one second . [+ exc] 50888_57304
+%mor:	det:num|one n|second .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-um &+sli +//. 57304_68681
+*PAR:	&+ah oh what [: wait] [* p:w] a minute . [+ exc] 68681_71831
+%mor:	co|oh v|wait det:art|a n|minute .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	+" yeah . 71831_75265
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" hey sorry . 75265_78203
+%mor:	co|hey co|sorry .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" &-um ball shit . 78203_87733
+%mor:	n|ball n|shit .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	oh whew . [+ exc] 87733_99540
+%mor:	co|oh co|whew .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%com:	seems to be a response to a text message notification
+*PAR:	&-um yeah fine . [+ exc] 99540_110017
+%mor:	co|yeah adv|fine .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@G:	Cinderella
+*INV:	www .
+*PAR:	what ? [+ exc] 138422_141314
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um fairies [: fairy] [* m:+s] tales . 141314_147805
+%mor:	n|fairy n|tale-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-um &-um fɛreɪ@u [: fairy] [* p:n] tales .  147805_158594
+%mor:	n|fairy n|tale-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-um &+ch &+gru sneaky &-um dogs . 158594_168783
+%mor:	adj|sneak&dv-Y n|dog-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&+da &-um mice .  168783_178555
+%mor:	n|mouse&PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cowboy [* s:uk] . 178555_180535
+%mor:	n|+n|cow+n|boy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	made-up . 180535_184711
+%mor:	adj|made–up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh &-um fairy tales . 184711_192992
+%mor:	co|oh n|fairy n|tale-PL .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&+m magical . 192992_198523
+%mor:	adj|magic&dn-AL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um &+s dusting . 198523_208476
+%mor:	part|dust-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+fi &-um slippers perfect .  208476_230495
+%mor:	n|slipper-PL adj|perfect .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|1|PUNCT
+*PAR:	&-um married . 230495_240816
+%mor:	part|marry-PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wedding . 240816_242927
+%mor:	n|wedding .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+bu done . [+ exc] 242927_246330
+%mor:	part|do&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+*PAR:	peanut butter is good sandwich . 277126_286118
+%mor:	n|peanut n|butter cop|be&3S adj|good n|sandwich .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*PAR:	&-um jɛɪlɪ@u [: jelly] [* p:n] [//] jelly . 286118_298034
+%mor:	n|jelly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	poʊnoʊ@u [: peanut] [* n:k] butter . 298034_303553
+%mor:	n|peanut n|butter .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&+b &+b &+ks knife . 303553_309204
+%mor:	n|knife .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	breɪ@u [: spread] [* n:k] &=ges:spreading &-um +... 309204_320698
+%mor:	v|spread&ZERO +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	done . [+ exc] 321419_322339
+%mor:	part|do&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

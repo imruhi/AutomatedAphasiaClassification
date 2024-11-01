@@ -1,0 +1,127 @@
+@UTF8
+@PID:	11312/a-00076820-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|64;00.|female|Broca||Participant||64|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1062-1, video
+@Date:	01-NOV-2018
+@Comment:	no %wor tier due to type and degree of impairment affecting accuracy
+@G:	Window
+*INV:	www .
+%exp:	task instructions
+*PAR:	&-um boy and &-um &+ha &-um <stop okay> [//] &-um soccer . 30000_42000
+%mor:	n|boy coord|and n|soccer .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	&-um bang@o . 42000_46650
+%mor:	on|bang .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um &-um man &+s and [/] &+s &-uh &+s &+s &+d +... 47608_70000
+%mor:	n|man +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and wet [* s:uk] and white [* s:uk] . 73000_81700
+%mor:	coord|and adj|wet coord|and adj|white .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	&-um <go no> [//] boy and man bɪf@u [: x@n] [* n:uk] . 81763_93452
+%mor:	n|boy coord|and n|man neo|x .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+@G:	Cinderella_Intro
+*INV:	www .
+%exp:	task instructions
+@G:	Cinderella
+*PAR:	&=throat:clears okay . [+ exc] 106236_111667
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	salad [: Cinderella] [* s:uk] &+s &-um &+s &-um &-um &-um +... 111667_129764
+%mor:	n:prop|Cinderella +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay . [+ exc]  148360_149155
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	step^um^mother [: stepmother] [* d:sw] and &-um two &-um
+	&-um &+st <man no [/] no> [//] women [* s:r] . 149155_170800
+%mor:	step#n|mother coord|and det:num|two n|woman&PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|QUANT 4|2|COORD 5|1|PUNCT
+*PAR:	&-um and sæloʊ@u [: Cinderella] [* n:k] &-um &-um maid . 170915_190095
+%mor:	coord|and n:prop|Cinderella n|maid .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-um &-um &-um &-um &-um &-um &-um &-um &-um &+s stone [* s:uk] and &=ges:scissors cot [: cut] [* p:w] and &-um birds and mice . 190122_250892
+%mor:	n|stone coord|and v|cut&ZERO coord|and n|bird-PL coord|and
+	n|mouse&PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|5|CONJ 7|6|COORD
+	8|1|PUNCT
+*PAR:	&-um &-um oh nice and &-um &-um thank_you yeah . 250973_264600
+%mor:	co|oh adj|nice coord|and co|thank_you co|yeah .
+%gra:	1|2|COM 2|0|ROOT 3|2|CONJ 4|5|COM 5|3|COORD 6|2|PUNCT
+*PAR:	&-um &+sep okay ‡ stepmother and &-um two
+	&-um women [* s:r] &-um &-um dʒɔrn@u [: x@n] [* n:uk] [//] stɔrn@u
+	[: x@n] [* n:uk] [//] no [//] &-um cot [: cut] [* p:w] and &-um
+	nɑtgɪnz@u [: necklace] [* n:k] pəlizd [: x@n] [* n:uk] . 264612_301000
+%mor:	co|okay beg|beg step#n|mother coord|and det:num|two n|woman&PL
+	n|cut coord|and n|+n|neck+n|lace neo|x .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|CONJ 5|6|QUANT 6|7|MOD 7|4|COORD
+	8|3|CONJ 9|10|MOD 10|8|COORD 11|3|PUNCT
+*PAR:	+" ew nɑstɪ@u [: nasty] [* p:n] yeah . 301005_305432
+%mor:	co|ew adj|nasty co|yeah .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-um okay fairy mother [: godmother] [* s:r] &-um &-um &+s &+w wine [: wand]
+	[* p:w] &-um &+s &=imit:wand . 305775_326543
+%mor:	co|okay n|fairy n|+n|god+n|mother n|wand .
+%gra:	1|4|COM 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	and four horse [: horses] [* m:0s] and &-um &-um two &-um rat
+	[: rats] [* m:0s] . 326667_343436
+%mor:	coord|and det:num|four n|horse-PL coord|and det:num|two n|rat-PL .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|CONJ 5|6|QUANT 6|4|COORD 7|3|PUNCT
+*PAR:	&=laughs but [//] &-um &-um man okay . 343436_350324
+%mor:	n|man adj|okay .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|1|PUNCT
+*PAR:	&-um &-um &-um brɪnts@u [: prince] [* p:n] &-um and [/] and <gel [: Cinderella] [* s:uk] or> [//]
+	&-uh Cindy [: Cinderella] [* s:r] &-um &-um ball and oh good . 350324_384196
+%mor:	n|prince coord|and n:prop|Cinderella n|ball coord|and co|oh
+	adj|good .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|CONJ 6|7|COM 7|5|COORD
+	8|1|PUNCT
+*PAR:	&-um &-um but &-um running &-um splɪpɚ@u [: slipper] [* p:n] one .
+	384807_399300
+%mor:	conj|but part|run-PRESP n|slipper det:num|one .
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*PAR:	&-um &-um &-um key two mice but &-um yeah okay . 399463_424200
+%mor:	v|key det:num|two n|mouse&PL conj|but co|yeah co|okay .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|CONJ 5|6|COM 6|4|COORD 7|1|PUNCT
+*PAR:	&-um &-um &-um &-um &-um &+s &-um suz@u [: shoes] [* p:n] &-um one
+	&-um broke but one yes . 424246_453600
+%mor:	n|shoe-PL pro:indef|one adj|broke conj|but det:num|one co|yes .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|6|QUANT 6|4|COORD 7|1|PUNCT
+*PAR:	&-um &-um stɛpbʌðɚ@u [: stepmother] [* p:n] and two women
+	[* s:r] and &=groans . 453672_470500
+%mor:	step#n|mother coord|and det:num|two n|woman&PL coord|and .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|QUANT 4|2|COORD 5|4|CONJ 6|1|PUNCT
+*PAR:	and [/] and &+s &-um θɪnɪ@u [: Cinderella] [* n:k] &-um &-um koʊ@u
+	[: x@n] [* n:uk] &-um slipper good . 470667_486300
+%mor:	coord|and n:prop|Cinderella neo|x n|slipper adj|good .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|POSTMOD 6|1|PUNCT
+*PAR:	and &-um marry &-um yeah . 486494_492654
+%mor:	coord|and v|marry co|yeah .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+%exp:	task instructions
+*PAR:	&-um bread jelly and &+pee oh [//] pinɛt@u [: peanut] [* p:n] butter . 522239_531685
+%mor:	n|bread n|jelly coord|and n|peanut n|butter .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|5|MOD 5|3|COORD 6|2|PUNCT
+*PAR:	&-um &-um &+w okay ‡ &-um bread one two . 531685_543349
+%mor:	co|okay beg|beg n|bread det:num|one det:num|two .
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|5|DATE 5|0|INCROOT 6|5|PUNCT
+*PAR:	and <butter no> [//] pindʌt@u [: peanut] butter &-um bread
+	. 543349_552749
+%mor:	coord|and n|peanut n|butter n|bread .
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	&-um sɛlɪ@u [: jelly] [* n:k] &-um &-um bake [//] &-um bread . 552749_564349
+%mor:	n|jelly n|bread .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	and [/] &-um and top and good . 564349_575533
+%mor:	coord|and n|top coord|and adj|good .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+@End

@@ -1,0 +1,127 @@
+@UTF8
+@PID:	11312/a-00076863-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|55;00.|male|Broca||Participant||28.3|
+@Media:	1095-3, video
+@Comment:	no %wor tier, lots of unintelligible, perseverative output
+@G:	Window
+*INV:	www . 0_29605
+%exp:	task instructions
+*PAR:	okay . [+ exc] 30525_31605
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um huh ? [+ exc] 31605_34733
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh &=imit:ball xxx . 38333_42191
+*PAR:	xxx and &=imit:ball xxx . 42191_49750
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wow . [+ exc] 50750_51413
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . 55913_59649
+*INV:	okay . 59649_60380
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cinderella
+*INV:	www . 62165_66465
+%exp:	task instructions
+*PAR:	&=sighs &-um &-uh &-uh xxx . 70535_81639
+*PAR:	ha okay . [+ exc] 81639_85077
+%mor:	co|ha co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	hm &-uh &+do &=sighs . 85077_92967
+%mor:	co|hm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . [+ exc]  94467_95933
+*PAR:	&-uh &-uh &+ee &-uh +... 95933_102827
+*PAR:	&-um xxx +//. 106800_115462
+*PAR:	okay . [+ exc] 115462_116137
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh xxx . 116137_131216
+*PAR:	xxx . 137416_142093
+*INV:	okay . 149093_150524
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no xxx . 150524_154099
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	yeah . 154945_155210
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	you're trying to find the words . 155210_156561
+%mor:	pro:per|you~aux|be&PRES part|try-PRESP inf|to v|find det:art|the
+	n|word-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*PAR:	yeah . [+ exc] 156385_157177
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	yeah . 157177_157743
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx yes . [+ exc] 159743_161333
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . [+ exc] 161333_164166
+*PAR:	oh [/] oh . [+ exc] 166666_167333
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh xxx . [+ exc] 175333_186546
+*INV:	okay [/] okay . 186555_187765
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	this one might just be too difficult . 187765_189260
+%mor:	pro:dem|this pro:indef|one n|might adv|just cop|be adv|too
+	adj|difficult .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|PUNCT
+*INV:	and that's okay +/. 189360_189874
+%mor:	coord|and pro:dem|that~cop|be&3S adj|okay +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 189874_200000
+%exp:	task instructions
+*PAR:	bread +//. 201616_202540
+%mor:	n|bread +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh wow . [+ exc] 202540_204362
+%mor:	co|oh co|wow .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	whoa oh [/] oh . [+ exc] 204862_207755
+%mor:	co|whoa co|oh .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	bread , butter . 207755_210546
+%mor:	n|bread cm|cm n|butter .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*PAR:	oh . [+ exc] 210546_211323
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pɑdɚ@u [: butter] [* p:n] . 216323_217513
+%mor:	n|butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh bite &-uh . 217513_221091
+%mor:	n|bite .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=imit:eating wow [/] wow . [+ exc] 221091_225053
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	xxx . 225053_225959
+*PAR:	wow . [+ exc] 225959_226985
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	very nice . 226985_227891
+%mor:	adv|very adj|nice .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*INV:	anything else or is that good ? 227891_229632
+%mor:	pro:indef|anything post|else coord|or cop|be&3S det:dem|that
+	adj|good ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|CONJ 4|3|COORD 5|6|DET 6|4|PRED 7|1|PUNCT
+*PAR:	yes &=imit:eating wow . [+ exc] 229632_232829
+%mor:	co|yes co|wow .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

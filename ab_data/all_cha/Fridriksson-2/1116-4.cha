@@ -1,0 +1,128 @@
+@UTF8
+@PID:	11312/a-00064966-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|60;00.|male|Wernicke||Participant||29.8|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1116-4, video
+@Date:	05-NOV-2020
+@Comment:	no %wor tier due to PAR output
+@G:	Window
+*INV:	www .
+%exp:	task instructions
+*PAR:	Ross in a &+f fʌntɪ@u [: x@n] [* n:uk] . 34123_41243
+%mor:	n:prop|Ross prep|in det:art|a neo|x .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	and then one ɛn@u [: x@n] [* n:uk]  . 43618_46498
+%mor:	coord|and adv:tem|then det:num|one neo|x .
+%gra:	1|4|LINK 2|4|JCT 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*PAR:	and &+f fʊk@u [: foot] [* p:n] . 48769_51220
+%mor:	coord|and n|foot .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	I <could it> [//] can it . [+ exc] 51220_53273
+%mor:	pro:sub|I mod|can pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	camp [* s:uk] [/] camp [* s:uk] . 53273_56849
+%mor:	n|camp .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	æntɪməl@u [: x@n] [* n:uk] . 56849_59018
+%mor:	neo|x .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's it . [+ exc] 59018_61556
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	okay . 61556_62530
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cinderella_Intro
+*INV:	www .
+%exp:	task instructions
+@G:	Cinderella
+*PAR:	I can't even see it the one . [+ exc] 81265_86916
+%mor:	pro:sub|I mod|can~neg|not v|even v|see pro:per|it det:art|the
+	pro:indef|one .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|COMP 6|5|OBJ 7|8|DET 8|5|OBJ
+	9|4|PUNCT
+*PAR:	wɑɪæv@u [: x@n] [* n:uk] . 86916_89460
+%mor:	neo|x .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	take the corn [* s:uk] . 89460_94892
+%mor:	v|take det:art|the n|corn .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	I can't even xxx . [+ exc] 94892_97476
+%mor:	pro:sub|I mod|can~neg|not v|even .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	corn [* s:per] and the bed [* s:uk] . 97476_107957
+%mor:	n|corn coord|and det:art|the n|bed .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*PAR:	ɛs@u [: x@n] [* n:uk] &+k court [* s:uk] . 117700_125602
+%mor:	neo|x n|court .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	no . [+ exc] 125602_126929
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bed [* s:per] [/] bed [* s:per] . 126929_132727
+%mor:	n|bed .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	court [* s:uk] [/] court [* s:uk] . 132773_140880
+%mor:	n|court .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	she goes to the &+k car [* s:uk] . 140880_147237
+%mor:	pro:sub|she v|go-3S prep|to det:art|the n|car .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	and he walked into the tɚɑs@u [: x@n] [* n:uk] . 150013_155366
+%mor:	coord|and pro:sub|he v|walk-PAST prep|into det:art|the neo|x .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and then she got the head the kɔrnt@u [: x@n] [* n:uk] . 156294_160544
+%mor:	coord|and adv:tem|then pro:sub|she v|get&PAST det:art|the n|head
+	det:art|the neo|x .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*PAR:	and she goes to the bed [: ball] [* p:w] . 163511_167195
+%mor:	coord|and pro:sub|she v|go-3S prep|to det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and she says &+c corn [* s:per] [//] the corn [* s:per] . 167195_178818
+%mor:	coord|and pro:sub|she v|say-3S det:art|the n|corn .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and then she gets to bed [* s:per] . 178818_186418
+%mor:	coord|and adv:tem|then pro:sub|she v|get-3S prep|to n|bed .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and then they xxx to the court [* s:per] . 187815_193045
+%mor:	coord|and adv:tem|then pro:sub|they prep|to det:art|the n|court .
+%gra:	1|0|INCROOT 2|1|PUNCT 3|2|INCROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and she go to have a xxx . 197294_201149
+%mor:	coord|and pro:sub|she v|go inf|to v|have det:art|a .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*PAR:	and then see [* s:uk] corn [* s:per] . 201149_209643
+%mor:	coord|and adv:tem|then v|see n|corn .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and then that's all much . 210847_213394
+%mor:	coord|and adv:tem|then pro:rel|that~cop|be&3S adv|all adv|much .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|LINK 4|2|CMOD 5|6|JCT 6|4|PRED 7|1|PUNCT
+*PAR:	that's it . [+ exc] 213394_214832
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+%exp:	task instructions
+*PAR:	corn [* s:per] [//] &+c core [* s:uk] [//] no [//] cant [* s:uk] . 235570_248216
+%mor:	n|cant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	animal [//] æntəbɔrəl@u [: x@n] [* n:uk] . 249516_253894
+%mor:	neo|x .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and lɑs@u [: x@n] [* n:uk] . 254665_260213
+%mor:	coord|and neo|x .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	oh damn it . [+ exc] 264219_266775
+%mor:	co|oh v|damn pro:per|it .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	<wɔrs@u [: x@n] [* n:uk] no> [//] animal [* u] . 269707_273577
+%mor:	n|animal .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's git [: it] [* p:w] . [+ exc] 275256_276106
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

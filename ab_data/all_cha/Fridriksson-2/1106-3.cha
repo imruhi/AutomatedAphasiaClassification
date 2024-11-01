@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/a-00083095-0
+@Window:	86_728_927_1019_-1_-1_1207_0_1207_0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|76;00.|male|Broca|White|Participant||32.4|
+@Media:	1106-3, video
+@Date:	04-JUN-2020
+@Comment:	no %wor tier due to unintelligible output and weak voice
+@G:	Window
+*INV:	www .
+*PAR:	xxx . 26000_77248
+%com:	impossible to determine utterance boundaries
+*INV:	was that good ? 77248_78093
+%mor:	cop|be&PAST&13S det:dem|that adj|good ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*PAR:	yeah . [+ exc] 78093_79577
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cinderella
+*INV:	www .
+*PAR:	it's goin(g) . [+ exc] 106893_108959
+%mor:	pro:per|it~aux|be&3S part|go-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%com:	in answer to INV asking if he can get his voice going to tell her about the story
+*PAR:	it's goin(g) . [+ exc] 108959_111044
+%mor:	pro:per|it~aux|be&3S part|go-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	it's goin(g) . [+ exc]  111044_113180
+%mor:	pro:per|it~aux|be&3S part|go-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	it's goin(g) . [+ exc]  113180_115540
+%mor:	pro:per|it~aux|be&3S part|go-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	it's goin(g) . [+ exc]  115540_118099
+%mor:	pro:per|it~aux|be&3S part|go-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	good . 118099_124092
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+*PAR:	xxx  . 144099_151223
+*PAR:	and it's goin(g) . 151023_152248
+%mor:	coord|and pro:per|it~aux|be&3S part|go-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and it's good .  152248_153719
+%mor:	coord|and pro:per|it~cop|be&3S adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and it's goin(g) .  153719_156135
+%mor:	coord|and pro:per|it~aux|be&3S part|go-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and it's goin(g) .  156135_158607
+%mor:	coord|and pro:per|it~aux|be&3S part|go-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and it's goin(g) .  158607_162199
+%mor:	coord|and pro:per|it~aux|be&3S part|go-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	now what ? [+ exc]  162199_164999
+%mor:	adv:tem|now pro:int|what ?
+%gra:	1|0|ROOT 2|1|INCROOT 3|2|PUNCT
+*PAR:	that is good .  164999_168298
+%mor:	pro:dem|that cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

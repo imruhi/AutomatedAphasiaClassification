@@ -1,0 +1,184 @@
+@UTF8
+@PID:	11312/a-00065546-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|75;00.|male|Anomic||Participant||85|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1065-3, video
+@Date:	17-JAN-2019
+@Comment:	no %wor tier because PAR's voice is too soft
+@G:	Window
+*INV:	www .
+%exp:	task instructions
+*PAR:	this ball , soccer ball , gɪnɪŋ@u [: kicking] [* n:k] . 36900_39740
+%mor:	det:dem|this n|ball cm|cm n|soccer n|ball cm|cm part|kick-PRESP .
+%gra:	1|2|DET 2|0|INCROOT 3|2|LP 4|5|MOD 5|2|ENUM 6|5|LP 7|2|ENUM 8|2|PUNCT
+*PAR:	and the middle it goes through his window and into its [: his]
+	[* s:r:gc:pro] lap . 43543_50933
+%mor:	coord|and det:art|the n|middle pro:per|it v|go-3S prep|through
+	det:poss|his n|window coord|and prep|into det:poss|his n|lap .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|9|COORD 11|12|DET 12|10|POBJ 13|5|PUNCT
+*PAR:	and the ending of he's standing looking out at the hole . 52921_58701
+%mor:	coord|and det:art|the n:gerund|end-PRESP prep|of
+	pro:sub|he~aux|be&3S part|stand-PRESP part|look-PRESP adv|out
+	prep|at det:art|the n|hole .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|JCT 5|7|SUBJ 6|7|AUX 7|4|POBJ
+	8|7|XJCT 9|8|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|1|PUNCT
+@G:	Cinderella_Intro
+*INV:	www .
+%exp:	task instructions
+@G:	Cinderella
+*PAR:	&-um she [//] she's living in this house . 67905_74778
+%mor:	pro:sub|she~aux|be&3S part|live-PRESP prep|in det:dem|this n|house
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	got a mother imperious . 74778_80365
+%mor:	v|get&PAST det:art|a n|mother adj|imperious .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|POSTMOD 5|1|PUNCT
+*PAR:	got his [: her] [* s:r:gc:pro] father . 80365_82634
+%mor:	v|get&PAST det:poss|her n|father .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	got two sisters . 82700_84305
+%mor:	v|get&PAST det:num|two n|sister-PL .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*PAR:	and he [: she] [* s:r:gc:pro] [/] &-uh <he [: she] [* s:r:gc:pro] is> [//] he [: she] [* s:r:gc:pro]
+	[//] &-uh [//] she goes down to the horse , the dog , and the mosquitos [: mice] [* s:r] +//. 85950_123095
+%mor:	coord|and pro:sub|she v|go-3S adv|down prep|to det:art|the n|horse
+	cm|cm det:art|the n|dog cm|cm coord|and det:art|the n|mouse&PL +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|LP
+	9|10|DET 10|3|OBJ 11|10|LP 12|10|CONJ 13|14|DET 14|12|COORD 15|3|PUNCT
+*PAR:	it is not mosquitos but what are they ? [+ exc] 123095_125295
+%mor:	pro:per|it cop|be&3S neg|not n|mosquito-PL conj|but pro:int|what
+	cop|be&PRES pro:sub|they ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|7|PRED
+	9|2|PUNCT
+*PAR:	are they &-uh +..? [+ exc] 126426_127106
+%mor:	cop|be&PRES pro:sub|they +..?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*PAR:	mice ‡ that's what . 129104_130070
+%mor:	n|mouse&PL beg|beg pro:dem|that~cop|be&3S pro:int|what .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	these mice . 130070_130988
+%mor:	det:dem|these n|mouse&PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and they sittin(g) (a)bout it . 132499_134818
+%mor:	coord|and pro:sub|they part|sit-PRESP prep|about pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	and then <the &+a æbsɪdɪnt@u [: x@n] [* n:uk]> [//] &-uh &-uh &-uh an [/] &-uh
+	an invitation comes to the family . 135805_153585
+%mor:	coord|and adv:tem|then det:art|a n|invite&dv-TION v|come-3S prep|to
+	det:art|the n|family .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and the mother &+s &+iks <is really grated [: excited] [* s:ur]> [//]
+	is [/] is grated [: excited] [* s:uk] . 155226_161866
+%mor:	coord|and det:art|the n|mother aux|be&3S part|excite-PASTP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	and she goes . 162665_167973
+%mor:	coord|and pro:sub|she v|go-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and the dress makes it to his [: her] [* s:r:gc:pro] [//] her sisters . 167973_175652
+%mor:	coord|and det:art|the n|dress v|make-3S pro:per|it prep|to
+	det:poss|her n|sister-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	they don't laugh about (th)em [: it] [* s:r:gc:pro] . 176475_177611
+%mor:	pro:sub|they mod|do~neg|not v|laugh prep|about pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	I_mean they laugh about (th)em [: it] [* s:r:gc:pro] . 177611_178850
+%mor:	co|I_mean pro:sub|they v|laugh prep|about pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	so ‡ the [//] &-um he [: she] [* s:r:gc:pro] <went to a major [/] major> [//] went to a ball . 180687_198917
+%mor:	co|so beg|beg pro:sub|she v|go&PAST prep|to det:art|a n|ball .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	anyway she came all dressed up . 203560_205840
+%mor:	co|anyway pro:sub|she v|come&PAST qn|all part|dress-PASTP adv|up .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|COMP 6|5|JCT 7|3|PUNCT
+*PAR:	and so ‡ she goes to the dance . 207116_209416
+%mor:	coord|and co|so beg|beg pro:sub|she v|go-3S prep|to det:art|the
+	n|dance .
+%gra:	1|2|LINK 2|0|BEG 3|2|BEGP 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	she's dancing with the pɪnts@u [: prince] [* p:n] [//] prince . 210043_212954
+%mor:	pro:sub|she~aux|be&3S part|dance-PRESP prep|with det:art|the
+	n|prince .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	they just dance it around . 213875_215265
+%mor:	pro:sub|they adv|just v|dance pro:per|it adv|around .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and twelve o'clock comes . 215640_217100
+%mor:	coord|and det:num|twelve n|o'clock v|come-3S .
+%gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	he's [: she's] [* s:r:gc:pro] got to get out_of town . 217281_219941
+%mor:	pro:sub|she~aux|be&3S part|get&PASTP inf|to v|get prep|out_of
+	n|town .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	so ‡ he [: she] [* s:r:gc:pro] leaves the &-uh ball . 220367_224177
+%mor:	co|so beg|beg pro:sub|she v|leave-3S det:art|the n|ball .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	but he [: she] [* s:r:gc:pro] left &-uh &-uh <a &-uh prince> [//]
+	&-uh a shoe . 224386_239806
+%mor:	conj|but pro:sub|she v|leave&PAST det:art|a n|shoe .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	she leaves a shoe <on the glass> [//] on the steps . 240446_243686
+%mor:	pro:sub|she v|leave-3S det:art|a n|shoe prep|on det:art|the
+	n|step-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*PAR:	and then he [/] he looks in the house for it . 245206_252966
+%mor:	coord|and adv:tem|then pro:sub|he v|look-3S prep|in det:art|the
+	n|house prep|for pro:per|it .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|8|POBJ 10|4|PUNCT
+*PAR:	he [/] he doesn't seem to find it . 252966_254606
+%mor:	pro:sub|he mod|do&3S~neg|not cop|seem inf|to v|find pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XJCT 7|6|OBJ 8|4|PUNCT
+*PAR:	and then somebody says +"/. 255881_258870
+%mor:	coord|and adv:tem|then pro:indef|somebody v|say-3S +"/.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	+" oh I'll try your mother [* s:r] . 258896_263006
+%mor:	co|oh pro:sub|I~mod|will v|try det:poss|your n|mother .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	so ‡ gives her the <sip [: slipper] [* s:ur] I_mean> [//] slip [: slipper] [* p:w]
+	. 263113_270773
+%mor:	co|so beg|beg v|give-3S pro:obj|her det:art|the n|slipper .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|3|PUNCT
+*PAR:	and he [/] he [/] he &-uh got a great force slipper . 270810_280473
+%mor:	coord|and pro:sub|he v|get&PAST det:art|a adj|great n|force
+	n|slipper .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|3|PUNCT
+*PAR:	I can't xxx . [+ exc]  280473_283535
+%mor:	pro:sub|I mod|can~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*PAR:	and at the end he [: she] [* s:r:gc:pro] [/] he [: she] [* s:r:gc:pro] [/] he [: she] [* s:r:gc:pro] marries <with the prince> [/] with the prince . 283535_290003
+%mor:	coord|and prep|at det:art|the n|end pro:sub|she v|marry-3S
+	prep|with det:art|the n|prince .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+%exp:	task instructions
+*PAR:	you've got a piece of bread and a white bread , two pieces of white
+	bread . 327075_331905
+%mor:	pro:per|you~aux|have part|get&PASTP det:art|a n|piece prep|of
+	n|bread coord|and det:art|a adj|white n|bread cm|cm det:num|two
+	n|piece-PL prep|of adj|white n|bread .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|CONJ
+	9|11|DET 10|11|MOD 11|8|COORD 12|11|LP 13|14|QUANT 14|11|APP 15|14|NJCT
+	16|17|MOD 17|15|POBJ 18|3|PUNCT
+*PAR:	then you &+spr &-uh &+spr &-uh spread peanut butter . 333054_339684
+%mor:	adv:tem|then pro:per|you v|spread&ZERO n|peanut n|butter .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*PAR:	and then he puts jam on it . 341112_342842
+%mor:	coord|and adv:tem|then pro:sub|he v|put-3S n|jam prep|on pro:per|it
+	.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*PAR:	get it on the [/] &+b &+b the &-uh spread . 343723_352513
+%mor:	v|get pro:per|it prep|on det:art|the n|spread .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	then he puts a top back on . 352959_354339
+%mor:	adv:tem|then pro:sub|he v|put-3S det:art|a n|top adv|back adv|on .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|JCT 8|3|PUNCT
+@End

@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/a-00076838-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|78;00.|male|Broca||Participant||71.4|
+@ID:	eng|Fridriksson-2|INV||female|||Investigator|||
+@Media:	1080-1, video
+@Date:	13-MAY-2019
+@Comment:	PAR's voice is hoarse and raspy, very long pauses, unintelligible segments, no %wor tier
+@G:	Window
+*INV:	www . 0_24441
+*PAR:	he [/] he put <all &+br far> [//] soccer ball . 34841_59927
+%mor:	pro:sub|he v|put&ZERO n|soccer n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*PAR:	broke the window . 63745_66787
+%mor:	v|break&PAST det:art|the n|window .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	then upset &=laughs . 69315_75073
+%mor:	adv:tem|then v|upset .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+@G:	Cinderella
+*INV:	www . 75315_126260
+*PAR:	right . [+ exc] 122660_123400
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx funny . 123400_132106
+%mor:	adj|fun&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	in &+ma motion . 132106_139755
+%mor:	prep|in n|motion .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*PAR:	&-uh and the +... 139884_147445
+%mor:	coord|and det:art|the +...
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	and the xxx and +... 147445_160484
+%mor:	coord|and det:art|the coord|and +...
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	xxx and he +... 173484_180570
+%mor:	coord|and pro:sub|he +...
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	sɪndɚwɛlɚ@u [: Cinderella] [* p:n] is a fictional [/] &+f fictional +... 180960_192233
+%mor:	n:prop|Cinderella cop|be&3S det:art|a adj|fiction&dn-AL +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	I don't know . [+ exc] 200764_201812
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 203685_228317
+*PAR:	you get bread and &+s put butter and jelly . 230017_240139
+%mor:	pro:per|you v|get n|bread coord|and v|put&ZERO n|butter coord|and
+	n|jelly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|4|COORD 6|5|OBJ 7|6|CONJ 8|7|COORD
+	9|2|PUNCT
+*PAR:	end . [+ exc] 247939_248957
+%mor:	n|end .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

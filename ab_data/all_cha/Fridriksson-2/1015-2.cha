@@ -1,0 +1,615 @@
+@UTF8
+@PID:	11312/a-00080521-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Fridriksson-2|PAR|55;00.|male|Broca|White|Participant||52.9|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Date:	25-APR-2017
+@Media:	1015-2, video
+@Comment:	no %wor tier due to output, much of the unintelligible content contains phonological fragments, false starts, attemps to produce words
+@G:	Window
+*INV:	www .  0_15890
+%exp:	INV giving instructions .
+*PAR:	ball [/] ball [/] ball &-uh the &-uh son [/] son [/] son . 20990_26004
+%mor:	n|ball det:art|the n|son .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	football xxx . 26004_29902
+%mor:	n|+n|foot+n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+la &+la &+la &-uh lɑd@u [: lad] [* p:n] [/] lɑd@u [: lad] [* p:n] . 29902_35000
+%mor:	n|lad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no xxx . [+ exc] 35000_36287
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	god [/] god [//] dɑd@u [: dad] [* p:n] is &+g &+gl &+g &+g &+gr grɑɪtɪŋ [: x@n] [* n:uk] [//] &+gr &+gr xxx . 36287_42970
+%mor:	n|dad cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	fall ball son . 42970_48711
+%mor:	n|fall n|ball n|son .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and the &-uh lad [//] &+l &+la lɑd@u [: lad] [* p:n] [/] lɑd@u [: lad] [* p:n] [/] &+la lɑd@u [: lad] [* p:n] [/] lɑd@u [: lad] [* p:n] . 48711_58911
+%mor:	coord|and det:art|the n|lad .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-um &-uh &-uh &+s &-uh a foot &-uh . 58911_65530
+%mor:	det:art|a n|foot .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx . 65530_67544
+*PAR:	no [/] no ‡  xxx . 67544_69082
+%mor:	co|no beg|beg .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT
+*PAR:	&+w &+win windows all around . 69082_79030
+%mor:	n|window-PL adv|all adv|around .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|NJCT 4|1|PUNCT
+*PAR:	or &-uh ball [//] &+ba &+ba &+ba ball [/] football [//] ball . 79030_88843
+%mor:	coord|or n|ball .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx &+w &-uh windows skræs@u [: x@n] [* n:uk] [/] skræs@u [: x@n] [* n:uk] [/] skræs@u [: x@n] [* n:uk] [/] skræs@u [: x@n] [* n:uk] [//] &+scra crass [* s:uk] [/] crass [* s:uk] . 88843_98297
+%mor:	n|window-PL adj|crass .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|1|PUNCT
+*PAR:	this and &-uh yeah the windows . 98297_101010
+%mor:	pro:dem|this coord|and co|yeah det:art|the n|window-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|COM 4|5|DET 5|2|COORD 6|1|PUNCT
+*PAR:	my [/] my [//] &-uh &+m the &+fa &+fa fɑlɪd@u [: dad] [* n:k] [//] &+f &+fa fɑd@u [: dad] [* n:k] [//] fɑt@u [: dad] [* n:k] [//] dad [/] dad . 101010_112350
+%mor:	det:art|the n|dad .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and &-uh &+foot &-uh boʊf@u [: x@n] [* n:uk] &-uh the &+la &+l &+la lamp [/] &+la lamp &+foot football . 112350_124973
+%mor:	coord|and neo|x det:art|the n|lamp n|+n|foot+n|ball .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|DET 4|5|MOD 5|2|OBJ 6|1|PUNCT
+*PAR:	&+s and <the [/] the [/] the &+fa sælz@u [: x@n] [* n:uk]> [//] the +... 124973_131612
+%mor:	coord|and det:art|the +...
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	or <the [/] the house> [/] the house [/] house and the hæn@u [: man] [* p:n] [/] hæn@u [: man] [* p:n]  [/] hæn@u [: man] [* p:n]  [/] hæn@u [: man] [* p:n]  . 131612_138382
+%mor:	coord|or det:art|the n|house coord|and det:art|the n|man .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|6|DET 6|4|COORD 7|1|PUNCT
+*PAR:	a xxx man . 138382_142372
+%mor:	det:art|a n|man .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&+fa fɑd@u [: dad] [* n:k] . 142372_144144
+%mor:	n|dad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+s sad [: dad] [* p:w] [//] dad [/] dad [/] dad . 144144_147501
+%mor:	n|dad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx wɪtoʊ@u [: window] [* n:k] [//] &+win widows [: windows] [* p:w] . 147501_151784
+%mor:	n|window-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+s &+s &+sa sad &+s dad . 156175_159193
+%mor:	adj|sad n|dad .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx . 159193_164312
+*PAR:	the [/] the son +//. 164312_165604
+%mor:	det:art|the n|son +//.
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	no . [+ exc]  165604_166039
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sad dad . 166039_168906
+%mor:	adj|sad n|dad .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&+f &-uh the &-uh son [/] son . 168906_173136
+%mor:	det:art|the n|son .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	the &+foot xxx the &-uh . 173136_176580
+%mor:	det:art|the det:art|the .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&+l look [/] look [/] look it . 176580_180450
+%mor:	v|look pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	the fava [: father] [* p:w] and ear [/] &-uh ear [/] ear [/] ear xxx . 180450_185568
+%mor:	det:art|the n|father coord|and n|ear .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	yeah . [+ exc] 185568_186048
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cindrella_Intro
+*INV:	www .  186164_335447
+%exp:	INV giving instructions .
+@G:	Cinderella
+*PAR:	&-uh the &-uh a &+fa &+fa father and a xxx  . 337447_349554
+%mor:	det:art|the det:art|a n|father coord|and det:art|a .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*PAR:	&-uh til [: kids] [* s:ur] [//] kill [: kids] [* p:w] [//] kids [/] kids [/] kids [/] kids . 349554_352754
+%mor:	n|kid-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no [/] no [/] &-uh no [/] &-uh no . [+ exc] 352754_354158
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh is &-uh &+au &+au &+aun ɑntə@u [: aunt] [* p:n] [/] &+au &+au ɑntə@u [: aunt] [* p:n] [//] ɑntɪn@u [: aunt] [* p:n] . 354158_360114
+%mor:	cop|be&3S n|aunt .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*PAR:	&-um the [/] the [/] the [/] the woman [/] woman . 360114_368137
+%mor:	det:art|the n|woman .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&+fa &+f &-uh the [/] &-uh the [/] &+f &+f &+f the &+f father . 368137_373774
+%mor:	det:art|the n|father .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-uh the &+si &+si sister [/] sister . 373774_376207
+%mor:	det:art|the n|sister .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-um and you [/] you &+fa fɑd@u [: x@n] [* n:uk] [/] &+fa fɑd@u [: x@n] [* n:uk] &+f . 376171_384259
+%mor:	coord|and pro:per|you neo|x .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	&+h &+h house [/] house . 384259_386005
+%mor:	n|house .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and [/] and house <and the house> [/] and the house . 386005_389593
+%mor:	coord|and n|house coord|and det:art|the n|house .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|DET 5|3|COORD 6|1|PUNCT
+*PAR:	and they [/] &-uh they &-uh house [/] house . 389593_398130
+%mor:	coord|and pro:sub|they v|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	<all the> [/] <all the> [/] all [/] all [/] all the [/] the &+si &+si sister [/] &+si &+si sisters [/] &+si &+si sisters &+si &+si &+sis . 398130_405221
+%mor:	qn|all det:art|the n|sister-PL .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and the &+fa fɑtɪ@u [: father] [* p:n] . 405221_409178
+%mor:	coord|and det:art|the n|father .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&+aun ɑntə@u [: aunt] [* p:n] [/] &+au ɑntə@u [: aunt] [* p:n] . 409178_414399
+%mor:	n|aunt .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+sis &+si sister [//] two great [: step] [* s:r] &+si &+si sɪslə@u [: sisters] [* n:k] [//] &+si sitters [: sisters] [* p:w] . 414399_423300
+%mor:	det:num|two n|step n|sister-PL .
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	yeah no . [+ exc] 423300_425345
+%mor:	co|yeah co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx &+h house . 425345_429071
+%mor:	n|house .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh &+aun &-uh &+au &+aun ɑntəz@u [: aunt's] [* p:n] [/] &+au &+aun &+aun ɑntəz@u [: aunt's] [* p:n] house . 429071_434382
+%mor:	adj|aunt&dn-POSS n|house .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	and <the &-um all [/] all the> [//] &-uh all [/] all &+k &+k kids <xxx house> [//] in the house xxx &+sis and sɪlə@u [: Cinderella] [* n:k] [/] sɪlə@u [: Cinderella] [* n:k] [//] sɪdələ@u [: Cinderella] [* n:k] [//] sɪdlə@u [: Cinderella] [* n:k] . 434382_452199
+%mor:	coord|and qn|all n|kid-PL prep|in det:art|the n|house coord|and
+	n:prop|Cinderella .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|CONJ
+	8|7|COORD 9|3|PUNCT
+*PAR:	&-uh the [/] the [/] the [/] the [/] the &+me meals [/] &+me meals [/] meals the &+hou house [/] house  . 452199_461355
+%mor:	det:art|the n|meal-PL det:art|the n|house .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and then &-um the [/] the [/] &-uh the &-uh sædz@u [: x@n] [* n:uk] &+uh +... 461355_471101
+%mor:	coord|and adv:tem|then det:art|the neo|x +...
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	house and the &-uh &+me meals . 487763_492070
+%mor:	n|house coord|and det:art|the n|meal-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*PAR:	and the [/] &-uh the [/] the [/] the [/] the [/] the [/] the [/] &+hou the [/] the [/] &+ho the house [/] house . 492070_502128
+%mor:	coord|and det:art|the n|house .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&+si slips &+su &+sru &+sru through [//] θrup@u [: through] [* p:n] . 502128_506047
+%mor:	v|slip-3S adv|through .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	<and you> [//] and the [/] &-uh the [/] &-um the &-um +... 506047_511798
+%mor:	coord|and det:art|the +...
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	&+spi &+spi sleet [: sweep] [* p:w] [//] sleep [: sweep] [* p:w] &+spu &+ru &+ru &+ru &+bru &+bru &+pru wheel [: sweep] [* p:w] [//] &+we &+we wis@u [: sweep] [* p:n] [//] ris@u [: sweep] [* p:n] . 519798_529280
+%mor:	n|sweep n|sweep .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	and all [/] all [/] &+th all the [/] the [/] the [/] the [/] &-uh the house [/] house . 529280_535248
+%mor:	coord|and qn|all det:art|the n|house .
+%gra:	1|4|LINK 2|4|QUANT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	<all the> [/] &-uh all the [/] the washing [/] washing [/] washing and <all the> [/] &-uh all of the house xxx . 535248_547715
+%mor:	qn|all det:art|the n:gerund|wash-PRESP coord|and pro:indef|all
+	prep|of det:art|the n|house .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|3|PUNCT
+*PAR:	sɪlə@u [: Cinderella] [* n:k] [/] &-uh &+s &+si sɪlə@u [: Cinderella] [* n:k] [/] sɪlə@u [: Cinderella] [* n:k] [//] &+si &+sil &+sil sɪləs@u [: Cinderella] [* n:k] in the house . 547715_555340
+%mor:	n:prop|Cinderella prep|in det:art|the n|house .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	<and &-uh all the [/] &-uh the [/] the> [//] and the [/] &-uh horse [/] horse , &+m &+mee mis@u [: mice] [* p:n] [/] &+mee &+m mis@u [: mice] [* p:n] [/] mis@u [: mice] [* p:n] , and &+go dog and the [/] the kæk@u [: cat] [* p:n] [//] &+k &+ka kækt@u [: cat] [* p:n], all &+frem &+siv &+sin &-uh &+fre &+fr &+fren friends &+f &+s sɪlə@u [: Cinderella] [* n:k] [/] sɪlə@u [: Cinderella] [* n:k] . 555340_582276
+%mor:	coord|and n|horse cm|cm n|mouse&PL cm|cm coord|and n|dog coord|and
+	det:art|the n|cat cm|cm qn|all n|friend-PL n:prop|Cinderella .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|LP 4|2|ENUM 5|4|LP 6|2|CONJ 7|6|COORD
+	8|2|CONJ 9|10|DET 10|8|COORD 11|10|LP 12|13|QUANT 13|14|MOD 14|10|APP
+	15|1|PUNCT
+*PAR:	&-um xxx &-uh the &-uh &-uh &+k &-uh queen &-uh <the [/] the king> [/] <the king> [/] the king [/] king . 582276_593997
+%mor:	det:art|the n|queen det:art|the n|king .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	<all [/] all [/] all the> [/] all [/] all [/] all [/] all &-uh the &-uh +... 593997_600033
+%mor:	qn|all det:art|the +...
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	&+h xxx in [/] in the &-uh &+k &+k country [/] &+k &+kun &+kun &+kun country . 600933_609342
+%mor:	prep|in det:art|the n|country .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*PAR:	it's <a [/] a [/] a [/] a [/] a [/] a litter [: little] [* p:w]> [//] a [/] &+l a [/] &+l a [/] &+l <a little> [/] a &+li &+l little . 609342_616019
+%mor:	pro:per|it~cop|be&3S det:art|a adj|little .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	&-uh no . [+ exc] 616019_616730
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<a little> [//] a male [/] &+ma &+ma &+ma &+ma male .  616730_621248
+%mor:	det:art|a n|male .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	all [/] all [/] all [/] <all the> [/] all the [/] &-uh the [/] &-uh the &+d &-uh +... 621248_631145
+%mor:	qn|all det:art|the +...
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	<all the> [/] all the &-uh &+d daughters [//] doctors [: daughters] [* p:w] xxx . 631145_637670
+%mor:	qn|all det:art|the n|daughter-PL .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-um all [//] &+b &+b ball no +//. 637670_641105
+%mor:	n|ball co|no +//.
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	the [/] the &+kut &+kus &+ka castles [/] &+ka castles . 641105_645091
+%mor:	det:art|the n|castle-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and &-uh <the ball> [//] <a ball> [/] a ball . 644870_648124
+%mor:	coord|and det:art|a n|ball .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	<all the> [/] <all the> [/] <all the> [/] <all the rent [: land] [* s:ur]> [/] all [/] all [/] all the rent [: land] [* s:ur] . 648023_653288
+%mor:	qn|all det:art|the n|land .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	at the [/] the [/] the [/] the &+kit &+kit &+ki &+kas kɑhʊl@u [: castle] [* p:n] open ball . 653288_661414
+%mor:	prep|at det:art|the n|castle adj|open n|ball .
+%gra:	1|0|INCROOT 2|3|DET 3|5|MOD 4|5|MOD 5|1|POBJ 6|1|PUNCT
+*PAR:	xxx &+si sɪsɪlə@u [: Cinderella] [* n:k] [//] &+sil &+s &+sil sɪlə@u [: Cinderella] [* n:k] [/] sɪlə@u [: Cinderella] [* n:k] . 661321_667467
+%mor:	n:prop|Cinderella .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx <a [/] &+fr a frɛs@u [: dress] [* p:n] [/] &+fr &+pr <a frɛs@u [: dress] [* p:n]> [//] &+fr brɛs@u [: dress] [* p:n]> [//] a brɛs@u [: dress] [* p:n] . 667467_673689
+%mor:	det:art|a n|dress .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&+th <the book> [/] the book [//] books . 676689_680920
+%mor:	det:art|the n|book-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	they know that they &+th &+th &+th this year that xxx brɛs@u [: dress] [* p:n] [//] &-uh ball . 680920_696239
+%mor:	pro:sub|they v|know comp|that pro:sub|they det:dem|this n|year
+	det:dem|that n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|8|LINK 4|8|SUBJ 5|6|DET 6|8|MOD 7|8|DET 8|2|COMP
+	9|2|PUNCT
+*PAR:	the &-uh dress [//] dressed [//] &+dre dread [: dress] [* p:w] [//] dressed [/] dressed [/] dress . 696126_708636
+%mor:	det:art|the n|dress .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	all [/] all the mis@u [/] &+m &+mee mis@u [: mice] [* p:n] [//] &+mee &+mee &+mee &-uh &+mee meek [: mice] [* s:ur] &-uh +//. 708636_717370
+%mor:	qn|all det:art|the n|mouse&PL +//.
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*INV:	take your time . 720270_721444
+%mor:	v|take det:poss|your n|time .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	mis@u [: mice] [* p:n] [/] mis@u [: mice] [* p:n] <all in> [//] all &-uh &-um &+s &+fra <a fresh [: dress] [* p:w] xxx frɛs@u [: dress] [* p:n]> [//] <a &+f brɛs@u [: dress] [* p:n] [/] &+bruh brɛs@u [: dress] [* p:n]> [//] dress [/] &+dr &+dre dress .  726944_743105
+%mor:	n|mouse&PL qn|all n|dress .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|ENUM 4|1|PUNCT
+*PAR:	<all the> [/] all the [/] &-uh the mis@u [: mice] [* p:n] [//] &+mee miss [: mice] [* p:w] [/] xxx . 743105_748486
+%mor:	qn|all det:art|the .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	&+n &-uh &+n &-uh xxx . 748486_751594
+*PAR:	&-um the &-uh mis@u [: mice] [* p:n] [/] mis@u [: mice] [* p:n] all the [/] the [/] &+m &-uh <the &-uh brɛs@u [: dress] [* p:n]> [//] the frɛd@u [: x@n] [* n:uk] &-um +... 751594_761954
+%mor:	det:art|the n|mouse&PL qn|all det:art|the neo|x +...
+%gra:	1|2|DET 2|0|INCROOT 3|4|QUANT 4|5|DET 5|2|OM 6|2|PUNCT
+*PAR:	mis@u [: mice] [* p:n] and the xxx &+mee &+nee &+nee &+nee &+nee needles [/] needles . 764954_775539
+%mor:	n|mouse&PL coord|and det:art|the n|needle-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*PAR:	xxx .  775539_780534
+*PAR:	all xxx around &+m mis@u [: mice] [* p:n] [/] mis@u [: mice] [* p:n]  xxx . 780548_786247
+%mor:	post|all prep|around n|mouse&PL .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	xxx &+fr &+fr fræs@u [: dress] [* n:k] [//] &-uh the &+fr &+fr frɛs@u [: dress] [* p:n] [//] &+fr &+fr frɛd@u [: dress] [* n:k] . 786177_792418
+%mor:	det:art|the n|dress .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-um &-uh the [/] &-uh the [/] &-uh the &-um &+au &+aun ɑntə@u [: aunt] [* p:n] [/] ɑntə@u [: aunt] [* p:n] xxx see [/] see sɪlə@u [: Cinderella] [* n:k] &+s &-uh +... 792418_804991
+%mor:	det:art|the n|aunt v|see n:prop|Cinderella +...
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	the [/] &+s the &-um sɪstə@u [: sisters] [* p:n] [//] sɪsɚz@u [: sisters] [* p:n] [//] &+si &+si &+si &+si sisters [/] scissors [: sisters] [* p:w] [//] sisters . 804991_816593
+%mor:	det:art|the n|sister-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx see &+s sɪlə@u [: Cinderella] [* n:k] [/] sɪlə@u [: Cinderella] [* n:k] [/] sɪlə@u [: Cinderella] [* n:k] &+fr xxx ray [* s:uk] [/] ray [* s:uk] [//] chair [: tear] [* p:w] [/] &-uh chair [: tear] [* p:w] [//] &+tr &+tre &+tre trɛr@u [: tear] [* p:n] [//] &+tr tray [* s:uk] [/] tray [* s:uk] [/] tray [* s:uk] [//] trade [* s:uk] [//] xxx . 816593_834213
+%mor:	v|see n:prop|Cinderella .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	no ‡ that isn't . [+ exc] 834213_834984
+%mor:	co|no beg|beg pro:dem|that cop|be&3S~neg|not .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PUNCT
+*PAR:	+" no no no no no xxx . 834984_837533
+%mor:	co|no co|no co|no co|no co|no .
+%gra:	1|3|COM 2|3|COM 3|5|COM 4|5|COM 5|0|INCROOT 6|5|PUNCT
+*PAR:	no &-uh &+au &+au &+aun ɑntə@u [: aunt] [* p:n] . 837533_840195
+%mor:	qn|no n|aunt .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" no ‡ I can't go no . 840227_842266
+%mor:	co|no beg|beg pro:sub|I mod|can~neg|not v|go co|no .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	xxx to sɪsɪlə@u [: Cinderella] [* n:k] [//] sɪlə@u [: Cinderella] [* n:k] . 842266_845178
+%mor:	prep|to n:prop|Cinderella .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*PAR:	+" go on <a ball> [//] the ball no [/] no . 845178_849116
+%mor:	v|go prep|on det:art|the n|ball co|no .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|COM 6|1|PUNCT
+*PAR:	and day on the tælɪs@u [: palace] or the [/] the &+duh +... 849135_858226
+%mor:	coord|and n|day prep|on det:art|the n|palace coord|or det:art|the
+	+...
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD
+	8|1|PUNCT
+*PAR:	on one [/] one &-uh xxx one [/] one &+au aunt [* s:uk] &-uh +... 858226_866543
+%mor:	prep|on det:num|one qn|one n|aunt +...
+%gra:	1|0|INCROOT 2|4|QUANT 3|4|QUANT 4|1|POBJ 5|1|PUNCT
+*PAR:	xxx . [+ exc] 866543_868659
+*PAR:	&-um wait no ‡ &-uh &-uh oh come_on . [+ exc] 868659_875588
+%mor:	co|wait co|no beg|beg co|oh co|come_on .
+%gra:	1|2|COM 2|0|BEG 3|2|BEGP 4|5|COM 5|0|INCROOT 6|5|PUNCT
+*PAR:	&+fa &+fa &+f &-uh &+ful &+flo floʊvə@u [: x@n] [* n:uk] [//] &+fa fairy [/] &+fa &+fa &+f &+fa &+f &+fair fairy [/] fairy [//] &-um &+fa &-uh &+f &+m mother [: godmother] [* s:r] [/] mother [: godmother] [* s:r] [//] &-uh &+fa &+f fɑrɪ@u [: fairy] [* p:n] . 875588_892019
+%mor:	n|fairy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fairy got the wing [: wand] [* s:r] [//] xxx [//] wing [: wand] [* s:r] [/] wing [: wand] [* s:r] [//] &-uh <a wend [: wand] [* p:w]> [//] <a wand> [/] a wand [/] wand . 892019_898726
+%mor:	n|fairy v|get&PAST det:art|the det:art|a n|wand .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|DET 5|2|OBJ 6|2|PUNCT
+*PAR:	&-um xxx say at &+s sɪlə@u [: Cinderella] [* n:k] [/] sɪlə@u [: Cinderella] [* n:k] . 898726_907881
+%mor:	v|say prep|at n:prop|Cinderella .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	xxx &+fuh &+fuh fɑlɑ@u [: x@n] [* n:uk] . 907881_913601
+%mor:	neo|x .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &-uh xxx &-uh &+fa &+fa fairy [/] fairy . 913601_917283
+%mor:	coord|and n|fairy .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and xxx &+bu &+pu &+pu pʌtkin@u [: pumpkin] [* n:k] [//] &+pum &+kuh &+pu &+pu pumpkin . 917283_924391
+%mor:	coord|and n|pumpkin .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-uh &-um three tall [* s:uk] [//] fall [* s:uk] &+h horse [: horses] [* m:0s] [/] hɔrz@u [: horse] [* p:n] [//] horse [: horses] [* m:0s] [/] horse [: horses] [* m:0s] . 924334_938918
+%mor:	det:num|three n|fall n|horse-PL .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	two [/] two xxx all the &+th &-um +... 938918_946163
+%mor:	det:num|two adv|all det:art|the +...
+%gra:	1|2|QUANT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	two [/] two [/] two horse [: horses] [* m:0s] two [/] two . 946163_951762
+%mor:	det:num|two n|horse-PL det:num|two .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	a dog . 951762_954237
+%mor:	det:art|a n|dog .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-um &-um &-um &-uh <a &+ma man [/] &+m man> [//] <a &+g a dog> [//] a man [/] man [/] man [/] man . 954237_962522
+%mor:	det:art|a n|man .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and [/] and &-uh &-uh &+my &+mee mis@u [: mice] [* p:n] [/] mis@u [: mice] [* p:n] . 962522_965314
+%mor:	coord|and n|mouse&PL .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and [/] &-uh and &-uh the &-uh [/] the [/] &-uh the [/] the [/] &+d the &-uh &-uh mis@u [: mice] [* p:n] [/] mis@u [: mice] [* p:n] &+m &+ba &-uh the [/] &-uh the [/] &-uh the [/] &-uh the &+dri driver [/] driver . 965314_983557
+%mor:	coord|and det:art|the det:art|the n|mouse&PL det:art|the
+	n|drive&dv-AGT .
+%gra:	1|4|LINK 2|4|DET 3|4|DET 4|0|INCROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and &+m &-uh man &-uh &+m &+m mis@u [: mice] [* p:n] [/] mis@u [: mice] [* p:n] &-uh wine [* s:uk] &-uh man . 983557_991138
+%mor:	coord|and n|man n|mouse&PL n|wine n|man .
+%gra:	1|5|LINK 2|5|MOD 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	xxx &+kas &+kas &+kas kɑsɪs@u [: castles] [* p:n] [//] &+kas &+kas &+k &+k &+ka cause [* s:uk] [//] &+kas cars [* s:uk] [//] &+kas &+kas &+kas &+kas &+ka kɑsɪs@u [: castles] [* p:n] [//] kɑrsɪn@u [: castle] [* n:k] [//] kɑrdə@u [: castle] [* n:k] . 991138_1017193
+%mor:	n|castle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and all [/] all the [/] &-uh the &-uh &+dan &-uh ball [/] ball [/] ball [//] dance [/] &+da dance [//] xxx rants [: dance] [* p:w] . 1017193_1026759
+%mor:	coord|and qn|all det:art|the n|dance .
+%gra:	1|4|LINK 2|4|QUANT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	all the [/] the [/] &-uh the &+qw [/] the &-uh prince [/] &+pri prince [/] prince [/] prince xxx runnin(g) around . 1026759_1036017
+%mor:	qn|all det:art|the det:art|the n|prince part|run-PRESP adv|around .
+%gra:	1|4|QUANT 2|4|DET 3|4|DET 4|0|INCROOT 5|4|XMOD 6|5|JCT 7|4|PUNCT
+*PAR:	xxx &+s sɪsɪlə@u [: Cinderella] [* n:k] [/] &+s &+s sɪlə@u [: Cinderella] [* n:k] xxx <a &+w a wife [: white] [* p:w]> [/] <a wife [: white] [* p:w]> [//] <a white> [/] a white rɛs@u [: dress] [* p:n] [//] rush [: dress] [* s:ur] [//] rɛs@u [: dress] [* p:n] . 1036017_1047594
+%mor:	n:prop|Cinderella det:art|a adj|white n|dress .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*PAR:	dance [/] &+d dance xxx &+pe &-uh &+s &+uh &+pe penchant [* s:uk] &+dan &+da dance [/] dance . 1047594_1060083
+%mor:	n|dance n|penchant n|dance .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and &+f &+f fɪlə@u [: Cinderella] [* n:k] [//] &+pa &-uh &+pa &+pri &+prin prince and &-uh sɪlə@u [: Cinderella] [* n:k] dance xxx . 1060083_1069852
+%mor:	coord|and n|prince coord|and n:prop|Cinderella n|dance .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|MOD 5|3|COORD 6|1|PUNCT
+*PAR:	then the [/] the [/] the [/] &-uh <the clock> [/] the clock . 1069810_1075711
+%mor:	adv:tem|then det:art|the n|clock .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	xxx <the [/] the [/] the [/] &-uh the [/] &-uh the tocks [: clock] [* p:w]> [/] &-uh the &-uh tocks [: clock] [* p:w] . 1075711_1082687
+%mor:	det:art|the n|clock .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-uh &-uh &+s the sɪlə@u [: Cinderella] [* n:k] <the tock> [//] <the [/] the clock> [/] the clock [/] clock [/] clock . 1082687_1089099
+%mor:	det:art|the n:prop|Cinderella det:art|the n|clock .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	xxx [//] tɛvɪn@u [: eleven] [* n:k] [/] tɛvɪn@u [: eleven] [* n:k] . 1089099_1095513
+%mor:	det:num|eleven .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx <the [/] the krɪnts@u [: prince] [* p:n] or> [//] the krints@u [: prince] [* p:n] xxx . 1095513_1101260
+%mor:	det:art|the n|prince .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	the [/] the [/] the &-uh &+pin pɪnts@u [: prince] [* p:n] [/] &+p &+p pɪnts@u [: prince] [* p:n] [/] pɪnts@u [: prince] [* p:n] who [/] who ran xxx all gone . 1101260_1112832
+%mor:	det:art|the n|prince pro:rel|who v|run&PAST qn|all part|go&PASTP .
+%gra:	1|2|DET 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|6|QUANT 6|4|COMP 7|2|PUNCT
+*PAR:	&+tuh <the [/] &-uh &+tuh the [/] &-uh the [/] &+cha the &-uh chair [/] chair [/] chair> [//] and the [/] the &-um chairs [* s:uk] [/] chairs [* s:uk] and the <step [/] &+ch step xxx> [//] &+ch tʃɛps@u [: x@n] [* n:uk] dance . 1112832_1129982
+%mor:	coord|and det:art|the n|chair-PL coord|and det:art|the neo|x
+	n|dance .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|7|DET 6|7|MOD 7|4|COORD
+	8|1|PUNCT
+*PAR:	&-uh no . 1129982_1131210
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I'll [/] I'd could go to the [/] the [/] the [/] &-uh the [/] &-uh the [/] the clock [/] clock . 1131210_1136610
+%mor:	pro:sub|I~mod|genmod mod|could v|go prep|to det:art|the n|clock .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	the [/] the [/] the &-uh &+tas &+cars &+c &+ca &+c cards [: carriage] [* p:w] [//] &+c kɑrdʒ@u [: carriage] [* p:n] . 1136664_1143061
+%mor:	det:art|the n|carriage .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx &+hou house [//] in the house . 1143061_1150223
+%mor:	prep|in det:art|the n|house .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*PAR:	xxx no xxx . 1150223_1152384
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx sɪsləbə@u [: Cinderella] [* n:uk] sɪkstə@u [: x@n] [* n:uk] +"/. 1152384_1154904
+%mor:	n:prop|Cinderella neo|x +"/.
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" look . 1154904_1155436
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I said +"/. 1155436_1155855
+%mor:	pro:sub|I v|say&PAST +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	+" it's ətɪlə@u [: Cinderella] [* n:k] [//] on the &-uh sɪlə@u [: Cinderella] [* n:k] [//] xxx θɪprə@u [: x@n] [* n:uk] . 1155855_1162012
+%mor:	pro:per|it~cop|be&3S prep|on det:art|the neo|x .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	xxx and <all the> [//] &+dan &+th all [/] all the dance &+dan &+dan done . 1162290_1170580
+%mor:	coord|and qn|all det:art|the n|dance part|do&PASTP .
+%gra:	1|4|LINK 2|4|QUANT 3|4|DET 4|0|INCROOT 5|4|XMOD 6|4|PUNCT
+*PAR:	xxx the &-uh pʌkɪŋ@u [: pumpkin] [* s:ur] and the horse and the [/] the pʌmpkɪŋ@u [: pumpkin] [* p:n] &+pump &+pump and &-uh xxx mis@u [: mice] [* p:n] [/] mis@u [: mice] [* p:n] xxx . 1170580_1181787
+%mor:	det:art|the n|pumpkin coord|and det:art|the n|horse coord|and
+	det:art|the n|pumpkin coord|and n|mouse&PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|CONJ 7|8|DET
+	8|6|COORD 9|8|CONJ 10|9|COORD 11|2|PUNCT
+*PAR:	&+dan &+dan &+l &-uh all the [/] the [/] &+dan the dress [/] dress [/] dress [/] dress [//] &+dre drɛnz@u [: dress] [* p:n] [//] &+dre dress . 1181732_1188162
+%mor:	qn|all det:art|the n|dress .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	the dance and xxx all that's &-uh xxx . 1188100_1193152
+%mor:	det:art|the n|dance coord|and pro:indef|all pro:rel|that~cop|be&3S
+	.
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|6|LINK 6|4|CMOD 7|2|PUNCT
+*PAR:	and [/] and the &-um xxx &+si sɪlə@u [: Cinderella] [* n:k] [//] sɪrə@u [: Cinderella] [* n:k] . 1193152_1200868
+%mor:	coord|and det:art|the n:prop|Cinderella .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&+q queen [/] queen [//] the queen shippers [: slippers] [* p:w] <all around> [/] <all [/] &+r all around> [/] <all around> [/] all xxx &+k &+coun country all around in the &+ba dance +//. 1200868_1212068
+%mor:	det:art|the n|queen n|slipper-PL adv|all n|country adv|all
+	adv|around prep|in det:art|the n|dance +//.
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|INCROOT 6|7|JCT 7|5|NJCT 8|5|NJCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	in the no dance . 1212068_1213227
+%mor:	prep|in det:art|the qn|no n|dance .
+%gra:	1|0|INCROOT 2|4|DET 3|4|QUANT 4|1|POBJ 5|1|PUNCT
+*PAR:	they &-uh oh_god [//] &-um ran [//] ranned [: ran] [* m:++ed] sɪplə@u [: Cinderella] [* n:k] xxx &+qu queen [/] queen's . 1213227_1230375
+%mor:	pro:sub|they v|run&PAST n:prop|Cinderella n|queen~cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*PAR:	and <all the> [/] &+w all <the [/] &-uh the when [: men] [* p:w]> [//] &-uh the men all ran xxx dance . 1230375_1238096
+%mor:	coord|and qn|all det:art|the n|man&PL post|all v|run&PAST n|dance .
+%gra:	1|6|LINK 2|4|QUANT 3|4|DET 4|6|SUBJ 5|4|PQ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	xxx one two twi@u [: three] [* p:n] . 1238096_1240736
+%mor:	det:num|one det:num|two det:num|three .
+%gra:	1|3|DATE 2|3|DATE 3|0|INCROOT 4|3|PUNCT
+*PAR:	&+s fɪlə@u [: Cinderella] [* n:k] [/] fɪlə@u [: Cinderella] [* n:k] look at [//] in the [/] the house . 1240577_1244293
+%mor:	n:prop|Cinderella n|look prep|in det:art|the n|house .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	oh xxx . 1244293_1245880
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+dum the [/] the [/] &-um &-uh the [/] &-um &+p pumpkin . 1245880_1252738
+%mor:	n|pumpkin .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um &-um &-uh &-um &-um &-um &+fif &+si &+sid xxx [//] sɪlə@u [: Cinderella] [* n:k] [/] sɪlə@u [: Cinderella] [* n:k] xxx the lock [/] lock . 1252745_1270067
+%mor:	n:prop|Cinderella det:art|the n|lock .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	the [/] the &+p &+p pʌsɪn@u [: pumpkin] [* p:n] [//] &+b bumpkin [: pumpkin] [* p:w] . 1270067_1273327
+%mor:	det:art|the n|pumpkin .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-um xxx &+buh &+buh &+ta teɪbɚ@u [: x@n] [* n:uk] +//. 1273243_1280276
+%mor:	neo|x +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no ‡ the &-uh room [/] &+r &+ru &+r room [/] room &+n lock . 1280276_1285256
+%mor:	co|no beg|beg det:art|the n|room n|lock .
+%gra:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	and then &+s &+sin sɪlə@u [: Cinderella] [* n:k] is &+au auntie [//] ɑntəs@u [: aunt] [* p:n] [//] &+au &+aunt &+an ɑntəs@u [: aunt] [* p:n] &+cl clocked [: locked] [* p:w] [//] &+l lock [/] &+l lock &-uh the [/] the &+do door . 1285256_1299095
+%mor:	coord|and adv:tem|then n:prop|Cinderella cop|be&3S n|aunt n|lock
+	det:art|the n|door .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|PRED 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*PAR:	all [/] all of mints [* s:uk] xxx &-uh mis@u [: mice] [* p:n] [/] mis@u [: mice] [* p:n] [/] mis@u [: mice] [* p:n] xxx &-uh the door . 1299095_1310831
+%mor:	pro:indef|all prep|of n|mint-PL n|mouse&PL det:art|the n|door .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|MOD 4|2|POBJ 5|6|DET 6|1|APP 7|1|PUNCT
+*PAR:	xxx queen [/] queen you_know in the [/] &-uh the &-uh clock [: lock] [* p:w] key [/] key [/] key xxx . 1310831_1319385
+%mor:	n|queen co|you_know prep|in det:art|the n|lock n|key .
+%gra:	1|0|INCROOT 2|1|COM 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|1|PUNCT
+*PAR:	&-uh the dance xxx +... 1319385_1323327
+%mor:	det:art|the n|dance +...
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx &-uh &-uh &+ble &+sis &-uh &+th sɪplə@u [: Cinderella] [* n:k] [/] &+s sɪplə@u [: Cinderella] [* n:k] [//] xxx [//] &+s sɪnɪtə@u [: Cinderella] [* n:k] [//] xxx &+si sɪlə@u [: Cinderella] [* n:k] [/]  sɪlə@u [: Cinderella] [* n:k] . 1323327_1334623
+%mor:	n:prop|Cinderella .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx dance <and it's> [/] and it's &-um alright . 1334623_1343003
+%mor:	n|dance coord|and pro:per|it~cop|be&3S adj|alright .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|PRED 6|1|PUNCT
+*PAR:	and &-uh &-uh the &+peen &+peen pints@u [: prince] [* p:n] [/] pints@u [: prince] [* p:n] xxx sɪlhɑn@u [: Cinderella] [* n:k] and an xxx wedding [/] wedding [/] wedding . 1343003_1353065
+%mor:	coord|and det:art|the n|prince n:prop|Cinderella coord|and
+	det:art|a n|wedding .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|APP 5|3|CONJ 6|7|DET 7|5|COORD
+	8|1|PUNCT
+*PAR:	yeah ‡ done . [+ exc] 1353065_1355085
+%mor:	co|yeah beg|beg part|do&PASTP .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 1355188_1380996
+%exp:	INV giving instructions .
+*PAR:	prɛd@u [: bread] [* p:n] [//] bread [/] bread two . 1380996_1385180
+%mor:	n|bread det:num|two .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	&-um a jelly [//] &+meh a &+da &+g jar [/] jar jelly . 1385180_1393848
+%mor:	det:art|a det:art|a n|jar n|jelly .
+%gra:	1|4|DET 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	and jelly &+br &+br bread [/] bread xxx . 1393848_1397737
+%mor:	coord|and n|jelly n|bread .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	then the [/] &-uh the &-uh &+bu &+bu &-uh honey [* s:uk] [//] &+puh &+buh nʌnɪ@u [: x@n] [* n:uk] [//] xxx &+mo +... 1397737_1409878
+%mor:	adv:tem|then det:art|the +...
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	xxx pɪlɪ@u [: x@n] [* n:uk] &+kree &-uh +//. 1409878_1415776
+%mor:	neo|x +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx come_on . [+ exc] 1415776_1420878
+%mor:	co|come_on .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bay [* s:uk] [//] jelly [//] jay [* s:uk] [//] &-uh +//. 1421362_1424080
+*PAR:	no ‡ &-uh a &-uh kri@u [: x@n] [* n:uk] [/] kri@u [: x@n] [* n:uk] [/] kri@u [: x@n] [* n:uk] and &-uh &+da &+dan +... 1424080_1431793
+%mor:	co|no beg|beg det:art|a neo|x coord|and +...
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|0|INCROOT 5|4|CONJ 6|4|PUNCT
+*PAR:	nut [/] nut [/] nut . 1431793_1435258
+%mor:	n|nut .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I &-uh &-uh &+duh &-uh &-uh &-uh dɑr@u [: jar] [* p:n] [//] jar [/] jar jelly [/] jelly . 1435379_1448094
+%mor:	pro:sub|I n|jar n|jelly .
+%gra:	1|2|SUBJ 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	no ‡ &-uh +... [+ exc] 1448094_1449813
+%mor:	co|no beg|beg +...
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT
+*PAR:	can [* s:uk] [//] nat [: x@n] [* n:uk] [/] nat [: x@n] [* n:uk] [/] nat [: x@n] [* n:uk] [//] donut [* s:uk] . 1449813_1454020
+%mor:	n|donut .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	nat [: x@n] [* n:uk] [/] nat [: x@n] [* n:uk] [/] nat [: x@n] [* n:uk] [//] nut [/] nut [/] nut . 1454020_1458894
+%mor:	n|nut .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+kri krin@u [: x@n] [* n:uk] . 1458894_1460175
+%mor:	neo|x .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh day [* s:uk] . 1460175_1462498
+%mor:	n|day .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+j &+jel jelly xxx [//] &+kri krin@u [: x@n] [* n:uk] on the [/] the [/] &-uh the &-uh nut [/] nut [/] nut xxx jar [/] jar . 1462498_1476825
+%mor:	n|jelly neo|x prep|on det:art|the n|nut n|jar .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|1|PUNCT
+*PAR:	nut [/] nut [/] &+nu &+nu nut [/] &+nu nut [/] nut . 1476825_1480949
+%mor:	n|nut .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . 1480949_1483087
+*PAR:	bread . 1483087_1484651
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	prɛd@u [: x@n] [* n:uk] [//] frɛdɪ@u [: x@n] [* n:uk] [/] &+fr frɛdɪ@u [: x@n] [* n:uk] &-uh +... 1484651_1490884
+%mor:	neo|x +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+bre bread [/]  bread [/]  bread [/] bread . 1492965_1496176
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	two [/] two [/] two &-uh jelly [/] jelly &+fr xxx . 1496176_1501860
+%mor:	det:num|two n|jelly .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	bread [/] bread . 1501860_1503024
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and then nat [: x@n] [* n:uk] [//] nut [/] nut [/] nut [/] nut and the xxx . 1503150_1510360
+%mor:	coord|and adv:tem|then n|nut coord|and det:art|the .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*PAR:	&+je jelly . 1510360_1512724
+%mor:	n|jelly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+k jar [/] jar . 1512724_1517021
+%mor:	n|jar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	krin@u [: x@n] [* n:uk] . 1517021_1518802
+%mor:	neo|x .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the &-uh nut . 1518802_1520240
+%mor:	det:art|the n|nut .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	prɛdɪ@u [: x@n] [* n:uk] [/] prɛdɪ@u [: x@n] [* n:uk] . 1520240_1521677
+%mor:	neo|x .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	so ‡ &-uh bread [/] bread two [/] &-uh two &+ch &-uh &+s sænɪtʃ@u [: sandwich] [* p:n] [//] sandwich [//] sæmɪtʃ@u [: sandwich] [* p:n] . 1521677_1530407
+%mor:	co|so beg|beg n|bread det:num|two n|sandwich .
+%gra:	1|0|BEG 2|1|BEGP 3|5|MOD 4|5|QUANT 5|0|INCROOT 6|5|PUNCT
+*PAR:	and xxx and &-uh &+k <cut [/] cut [/] &+k cut [/] cut &+nuh &+nuh nut no> [//] cut three [//] &+th two [/] two sandwich . 1530710_1543826
+%mor:	coord|and coord|and v|cut&ZERO det:num|two n|sandwich .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|5|QUANT 5|3|OBJ 6|1|PUNCT
+@End

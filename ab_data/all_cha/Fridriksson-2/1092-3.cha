@@ -1,0 +1,99 @@
+@UTF8
+@PID:	11312/a-00076852-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|67;00.|female|Global||Participant||19.9|
+@Media:	1092-3, video
+@Date:	25-NOV-2019
+@G:	Window
+*INV:	www .
+%exp:	task instructions
+*PAR:	happens in this picture . [+ exc] 82440_85460
+%mor:	v|happen-3S adv|in det:dem|this n|picture .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%wor:	happens 82440_83760 in 83760_84380 this 84380_84740 picture 84740_85460 .
+*PAR:	&=humming mhm +... [+ exc] 110300_112020
+%mor:	co|mhm=yes +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	mhm 110300_112020 +...
+*PAR:	getting &*INV:xxx . [+ exc] 140000_141220
+%mor:	part|get-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	getting 140000_141220 .
+*INV:	yeah can you use your words and tell me ? 141590_143280
+%mor:	co|yeah mod|can pro:per|you v|use det:poss|your n|word-PL coord|and v|tell pro:obj|me ?
+%gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|7|COORD 9|8|OBJ 10|4|PUNCT
+%wor:	yeah can 141590_141840 you 141840_141940 use 141940_142160 your 142160_142320 words 142320_142640 and 142640_143020 tell 143020_143040 me 143040_143280 ?
+*INV:	&+w tell me what's happening . 144540_146140
+%mor:	v|tell pro:obj|me pro:int|what~aux|be&3S part|happen-PRESP .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|AUX 5|1|COMP 6|1|PUNCT
+%wor:	tell 144540_145220 me 145220_145360 what's 145360_145640 happening 145640_146140 .
+*PAR:	happening &-um +... [+ exc] 154093_155860
+%mor:	part|happen-PRESP +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	happening 154093_155000 um 155000_155860 +...
+*PAR:	going here . 158400_158960
+%mor:	part|go-PRESP n|here .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%wor:	going here 158400_158960 .
+*PAR:	buying [* s:uk] groceries [* s:uk] . 161644_163640
+%mor:	part|buy-PRESP n|grocery-PL .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%wor:	buying 161644_162440 groceries 162440_163640 .
+@G:	Cinderella
+*INV:	www .
+%exp:	task instructions
+*PAR:	&+w what happen ? [+ exc]
+%mor:	pro:int|what v|happen ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	take a picker [: picture] [* p:w] [/] picker [: picture] [* p:w] animal . 189245_193225
+%mor:	v|take det:art|a n|picture n|animal .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%wor:	take 189245_190385 a 190385_190685 picture picture 190685_191665 animal 191665_193225 .
+*PAR:	and <they take (th)em> [/] they take (th)em into far away . 194685_199785
+%mor:	coord|and pro:sub|they v|take pro:obj|them prep|into adj|far adv|away .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|6|JCT 8|3|PUNCT
+%wor:	and 194685_194845 they 194845_195625 take 195625_195905 them 195905_196665 they 196665_197005 take 197005_197525 them 197525_197565 into 197565_198025 far 198025_199105 away 199105_199785 .
+*PAR:	they take (th)em par [: far] [* p:w] away . 200725_202765
+%mor:	pro:sub|they v|take pro:obj|them adv|far adv|away .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|JCT 6|2|PUNCT
+%wor:	they 200725_201065 take 201065_201605 them far 201605_202105 away 202105_202765 .
+*PAR:	and each time they far away , they less for away . 205665_212705
+%mor:	coord|and qn|each n|time pro:sub|they adv|far adv|away cm|cm pro:sub|they adj|less prep|for adv|away .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|6|SUBJ 5|6|JCT 6|3|JCT 7|6|LP 8|6|ENUM 9|8|POSTMOD 10|9|JCT 11|10|POBJ 12|3|PUNCT
+%wor:	and 205665_205885 each 205885_206645 time 206645_207205 they 207205_207405 far 207405_208445 away 208445_209065 , they 210005_210265 less 210265_211405 for 211405_212165 away 212165_212705 .
+*PAR:	and they came as for &-uh got them up . 216115_225635
+%mor:	coord|and pro:sub|they v|come&PAST adv|as prep|for v|get&PAST pro:obj|them adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|6|OBJ 8|3|JCT 9|3|PUNCT
+%wor:	and 216115_216415 they 216415_216695 came 216695_218535 as 218535_219115 for 219115_220555 uh 220555_221295 got 221295_224675 them 224675_224935 up 224935_225635 .
+*PAR:	and picture out_of them a far away . 226475_232555
+%mor:	coord|and n|picture prep|out_of pro:obj|them det:art|a adv|far adv|away .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|3|POBJ 5|7|DET 6|7|JCT 7|2|JCT 8|1|PUNCT
+%wor:	and picture 226475_227215 out_of 227215_228695 them a 228695_230835 far 230835_231855 away 231855_232555 .
+@G:	Sandwich_Picture
+*INV:	www .
+%exp:	task instructions
+*PAR:	&-hm cheese like a butter sandwich . 269526_275506
+%mor:	n|cheese prep|like det:art|a n|butter n|sandwich .
+%gra:	1|0|INCROOT 2|1|NJCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+%wor:	hm 269526_271306 cheese like 271306_272046 a 272046_272466 butter 272466_274026 sandwich 274026_275506 .
+*INV:	mhm what would you do ? 276000_277706
+%mor:	co|mhm=yes pro:int|what mod|will&COND pro:per|you v|do ?
+%gra:	1|5|COM 2|5|OBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%wor:	mhm 276000_276106 what 276106_276786 would 276786_277026 you 277026_277146 do 277146_277706 ?
+*PAR:	&-hm &-like with [/] &-uh &-like with &-uh they have a sandwich . 278266_285646
+%mor:	prep|with pro:sub|they v|have det:art|a n|sandwich .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	hm 278266_278426 like 278426_280406 with 280406_280946 uh 280946_281946 like with 281946_282346 uh 282346_283406 they 283406_283626 have 283626_284246 a 284246_284806 sandwich 284806_285646 .
+*PAR:	and they have some bread &-um butter . 287406_291186
+%mor:	coord|and pro:sub|they v|have qn|some n|bread n|butter .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%wor:	and 287406_287666 they have 287666_288126 some 288126_288526 bread 288526_289326 um 289326_290146 butter 290146_291186 .
+*PAR:	and they &-uh write [* s:uk] a sandwich . 294745_298565
+%mor:	coord|and pro:sub|they v|write det:art|a n|sandwich .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	and 294745_294865 they 294865_295225 uh 295225_295825 write 295825_296725 a 296725_297405 sandwich 297405_298565 .
+@End

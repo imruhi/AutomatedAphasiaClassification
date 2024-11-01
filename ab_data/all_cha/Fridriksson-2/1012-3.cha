@@ -1,0 +1,198 @@
+@UTF8
+@PID:	11312/a-00076797-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|50;00.|male|Broca|White|Participant||40.6|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1012-3, video
+@Comment:	no %wor tier due to low volume and limited output
+@G:	Window
+*INV:	www . 0_14445
+%exp:	task instructions
+*PAR:	kick . 17300_18397
+%mor:	v|kick .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	broken . 21590_22743
+%mor:	part|break&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	it's a vase [* s:uk] . 22743_26775
+%mor:	pro:per|it~cop|be&3S det:art|a n|vase .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	it's a vase [* s:uk] broken . 26775_36169
+%mor:	pro:per|it~aux|be&3S det:art|a n|vase part|break&PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|2|PUNCT
+*PAR:	kick . 38275_38942
+%mor:	v|kick .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	it's [/] it's &-uh look . 38942_41372
+%mor:	pro:per|it~cop|be&3S n|look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	xxx . [+ exc] 42485_47089
+@G:	Cinderella
+*INV:	www . 52085_204000
+%exp:	task instructions
+*PAR:	okay alright . 204400_206655
+%mor:	co|okay co|alright .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	<boy [: girl] [* s:r] I_mean> [//] it was girl . 206655_209404
+%mor:	pro:per|it cop|be&PAST&13S n|girl .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	yes it is . [+ exc] 209533_210625
+%mor:	co|yes pro:per|it cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	now big . 210625_212591
+%mor:	adv:tem|now adj|big .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	<so now> [/] so ‡ now <the man> [/] <this [/] &-uh this &-uh man> [//] <it was &-uh I_mean> [//] this [/] &-uh this [/] &-uh this &-uh man +... 212591_227300
+%mor:	co|so beg|beg adv:tem|now det:dem|this n|man +...
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|5|DET 5|3|OM 6|3|PUNCT
+*PAR:	xxx . [+ exc] 227300_228968
+*PAR:	man [/] man [/] man [* s] +... 234968_238776
+%mor:	n|man +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	so weird . [+ exc] 238776_239726
+%mor:	adv|so adj|weird .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	man [/] man &+s +... 240726_244343
+%mor:	n|man +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I can't remember xxx . [+ exc] 244343_246575
+%mor:	pro:sub|I mod|can~neg|not v|remember .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	<so now> [//] so ‡ is &-uh big [/] big it's &-uh way [/] way the some [//] something . 246653_261386
+%mor:	co|so beg|beg cop|be&3S adj|big pro:per|it~cop|be&3S adv|way
+	det:art|the pro:indef|something .
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|9|JCT 8|9|DET
+	9|6|PRED 10|6|PUNCT
+*PAR:	I dunno . [+ exc] 261386_261887
+%mor:	pro:sub|I mod|do~neg|no~v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	<it's just> [//] &-uh &+s it's &-uh +... 261887_271111
+%mor:	pro:per|it~cop|be&3S +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	gosh . [+ exc] 275411_276490
+%mor:	co|gosh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<look it's &-uh out in> [//] &-uh look ice [: nice] [* p:w] big [/] big [/] big  . 276490_285202
+%mor:	v|look adj|nice adj|big .
+%gra:	1|0|ROOT 2|3|MOD 3|1|JCT 4|1|PUNCT
+*PAR:	then &-uh it's [/] &-uh it's [/] &-uh it's [/] &-uh it's paper . 285202_297757
+%mor:	adv:tem|then pro:per|it~cop|be&3S n|paper .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	it was &-uh +"/. 297757_298797
+%mor:	pro:per|it cop|be&PAST&13S +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	+" oh yeah so good it's a rɛs@u [: dress] [* p:n] . 300355_303821
+%mor:	co|oh co|yeah adv|so adj|good pro:per|it~cop|be&3S det:art|a
+	n|dress .
+%gra:	1|6|COM 2|4|COM 3|4|JCT 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|6|PUNCT
+*PAR:	so ‡ now +... 305855_307002
+%mor:	co|so beg|beg adv:tem|now +...
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	I dunno . [+ exc]  309646_310703
+%mor:	pro:sub|I mod|do~neg|no~v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	<so now> [/] so ‡ now &+s horse [*] no [//] &=laughs &=imit:whip &+s &+s &+s this &-uh +... 311925_328025
+%mor:	co|so beg|beg adv:tem|now n|horse pro:dem|this +...
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|5|MOD 5|3|OM 6|3|PUNCT
+*PAR:	so ‡ see this &-uh +... 328625_340090
+%mor:	co|so beg|beg co|see det:dem|this +...
+%gra:	1|0|BEG 2|1|BEGP 3|4|COM 4|0|INCROOT 5|4|PUNCT
+*PAR:	<so now> [//] so ‡ see [/] see this &-uh +...  340090_354076
+%mor:	co|so beg|beg co|see det:dem|this +...
+%gra:	1|0|BEG 2|1|BEGP 3|4|COM 4|0|INCROOT 5|4|PUNCT
+*PAR:	xxx . [+ exc] 356137_357474
+*PAR:	xxx . 359474_365347
+*PAR:	<so now> [//] so +"/. 365647_367041
+%mor:	co|so +"/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" time . 367041_367918
+%mor:	n|time .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" oh_no . 367918_368605
+%mor:	co|oh_no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	run , shoes . 368605_371721
+%mor:	n|run cm|cm n|shoe-PL .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*PAR:	it's [//] &-uh I get this &=points:watch . 371721_375424
+%mor:	pro:sub|I v|get pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	time . 375424_376237
+%mor:	n|time .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	so ‡ run , shoes . 376237_378716
+%mor:	co|so beg|beg n|run cm|cm n|shoe-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|LP 5|3|ENUM 6|3|PUNCT
+*PAR:	and &-uh all this [/] &-uh &+suh this [/] &-uh &+s this [/] &-uh this [/] &-uh &+suh this &-uh +... 378606_391900
+%mor:	coord|and adv|all det:dem|this +...
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	well ‡ he's [//] &-uh <this &-uh ball> [//] this [/] &-uh this . 391900_399199
+%mor:	co|well beg|beg pro:dem|this .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	alright so ‡ xxx . [+ exc] 402300_404582
+%mor:	co|alright co|so beg|beg .
+%gra:	1|0|INCROOT 2|1|BEG 3|2|BEGP 4|1|PUNCT
+*INV:	okay . 404582_404919
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<so now> [/] so ‡ now &+s &+s &+s +... 407338_425674
+%mor:	co|so beg|beg adv:tem|now +...
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	&+s &-uh yes . [+ exc] 429585_433771
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no ‡ I don't +//. [+ exc] 435271_436473
+%mor:	co|no beg|beg pro:sub|I mod|do~neg|not +//.
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|6|AUX 5|4|NEG 6|3|PUNCT
+*PAR:	shoes it . 436473_437407
+%mor:	n|shoe-PL pro:per|it .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	but [//] so ‡ xxx . [+ exc] 438507_448005
+%mor:	co|so beg|beg .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT
+*PAR:	this &-uh bride . 448005_449222
+%mor:	det:dem|this n|bride .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	this &-uh girl I_guess . 449222_451575
+%mor:	det:dem|this n|girl n:prop|I_guess .
+%gra:	1|2|DET 2|0|INCROOT 3|2|APP 4|2|PUNCT
+*PAR:	that's it . [+ exc] 451575_452297
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&=laughs xxx . [+ exc] 452361_460021
+@G:	Sandwich_Picture
+*INV:	www . 458121_460462
+%exp:	task instructions
+*PAR:	alright so ‡ bread . 511459_513006
+%mor:	co|alright co|so beg|beg n|bread .
+%gra:	1|2|COM 2|0|BEG 3|2|BEGP 4|0|INCROOT 5|4|PUNCT
+*PAR:	it's [/] &-uh it's <dʒɛdɪ@u [: jelly] [* p:n] xxx dʒɛdɪ@u [: jelly] [* p:n]> [//]  [* p:n] peanut dʒɛdɪ@u [: jelly] [* p:n] . 513006_534260
+%mor:	pro:per|it~cop|be&3S n|peanut n|jelly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*PAR:	it's &-uh bread [/] bread . 534260_537641
+%mor:	pro:per|it~cop|be&3S n|bread .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	that's it . [+ exc] 537641_538532
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	xxx . 542890_544001
+*INV:	any other steps that you would take to make it ? 546001_548569
+%mor:	qn|any pro:indef|other n|step-PL comp|that pro:per|you
+	mod|will&COND v|take inf|to v|make pro:per|it ?
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CMOD
+	8|9|INF 9|7|COMP 10|9|OBJ 11|3|PUNCT
+*PAR:	bread &+suh . 549235_550966
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+ts bread xxx &+suh . 550966_555422
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	put and eat . 556235_558293
+%mor:	v|put&ZERO coord|and v|eat .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	xxx . [+ exc] 558293_561061
+@End

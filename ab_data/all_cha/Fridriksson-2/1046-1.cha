@@ -1,0 +1,237 @@
+@UTF8
+@PID:	11312/a-00080581-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|58;00.|male|Anomic|White|Participant||82.3|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1046-1, video
+@Date:	16-MAR-2018
+@G:	Window
+*INV:	www .
+%wor:	www .
+*PAR:	&-um the boy &-um kicked the soccer ball . 30671_35771
+%wor:	&-um 30671_30951 the 31361_31681 boy 32041_32591 &-um 32981_33291 kicked 34111_34471 the 34741_34841 soccer 34841_35301 ball 35351_35771 .
+%mor:	det:art|the n|boy part|kick-PASTP det:art|the n|soccer n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|6|DET 5|6|MOD 6|3|OBJ 7|2|PUNCT
+*PAR:	and the &-um &-uh window &-um &+t &-uh &+t crashed down to the
+	window . 36759_48029
+%wor:	and 36759_36869 the 36869_37399 &-um 37789_38149 &-uh 40189_40489 window 41099_41569 &-um 41599_41909 &+t 43909_44059 &-uh 44739_45039 &+t 45039_45079 crashed 45969_46529 down 46529_46999 to 47039_47149 the 47149_47229 window 47299_48029 .
+%mor:	coord|and det:art|the n|window v|crash-PAST adv|down prep|to
+	det:art|the n|window .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	and &-um &-um the guy in the &-um window &-um had it . 50431_63391
+%wor:	and 50431_50531 &-um 51201_51471 &-um 51471_51681 the 57961_58221 guy 58441_58971 in 59001_59431 the 59711_59751 &-um 59751_59971 window 60001_60601 &-um 60641_60941 had 60971_63091 it 63091_63391 .
+%mor:	coord|and det:art|the n|guy prep|in det:art|the n|window
+	v|have&PAST pro:per|it .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT
+	8|7|OBJ 9|7|PUNCT
+*PAR:	and the [//] &-um looked at the boy &-um (.) and &-um the &-um
+	cracked window . 66072_83582
+%wor:	and 66072_66462 the 67632_67902 &-um 67902_68192 looked 71592_71832 at 71832_72022 the 72022_72112 boy 72112_72512 &-um 72752_73142 and 76672_77052 &-um 78562_78952 the 81022_81242 &-um 81242_81552 cracked 82082_82612 window 82612_83582 .
+%mor:	coord|and v|look-PAST prep|at det:art|the n|boy coord|and
+	det:art|the part|crack-PASTP n|window .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|9|DET 8|9|MOD
+	9|6|COORD 10|2|PUNCT
+*INV:	mhm mkay great ‡ anything else you wanna say about it ? 84499_86959
+%wor:	mhm 84499_84629 mkay 85199_85369 great 85369_85659 anything 85659_86029 else 86029_86209 you 86209_86269 wanna 86269_86409 say 86409_86589 about 86589_86899 it 86899_86959 ?
+%mor:	co|mhm=yes co|mkay adj|great beg|beg pro:indef|anything post|else
+	pro:per|you v|want~inf|to co|say prep|about pro:per|it ?
+%gra:	1|3|COM 2|3|COM 3|0|BEG 4|3|BEGP 5|8|LINK 6|5|PQ 7|8|SUBJ 8|0|ROOT
+	9|10|INF 10|8|COMP 11|10|JCT 12|11|POBJ 13|8|PUNCT
+*PAR:	&-um yeah &-um the guy was sitting &-um in the crashed window . 89596_97946
+%wor:	&-um 89596_89836 yeah 90886_91466 &-um 91496_91796 the 92216_92456 guy 92806_93106 was 93106_93626 sitting 93716_94386 &-um 94866_95126 in 95126_95576 the 95576_95816 crashed 96746_97276 window 97276_97946 .
+%mor:	co|yeah det:art|the n|guy aux|be&PAST&13S part|sit-PRESP prep|in
+	det:art|the part|crash-PASTP n|window .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|PUNCT
+*PAR:	and &-um he got up and &-um went to the &-um window and &-um looked
+	at the boy . 99543_111333
+%wor:	and 99543_99783 &-um 99923_100223 he 100533_101003 got 101033_101323 up 101323_101673 and 102133_102493 &-um 102853_103243 went 103823_104173 to 104173_104283 the 104283_104573 &-um 105483_105873 window 107123_107473 and 107473_108023 &-um 108463_108893 looked 110543_110753 at 110753_110843 the 110843_110933 boy 110933_111333 .
+%mor:	coord|and pro:sub|he v|get&PAST adv|up coord|and v|go&PAST prep|to
+	det:art|the n|window coord|and v|look-PAST prep|at det:art|the n|boy
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|JCT
+	8|9|DET 9|7|POBJ 10|3|CONJ 11|10|COORD 12|11|JCT 13|14|DET
+	14|12|POBJ 15|3|PUNCT
+@G:	Cinderella
+*INV:	www .
+%wor:	www .
+*PAR:	so ‡ &-um long long time ago +... 115564_118184
+%wor:	so 115564_115624 &-um 115624_115684 long 115684_116284 long 116284_116754 time 117704_118064 ago 118064_118184 +...
+%mor:	co|so beg|beg adv|long adj|long n|time post|ago +...
+%gra:	1|0|BEG 2|1|BEGP 3|4|JCT 4|5|MOD 5|0|INCROOT 6|5|POSTMOD 7|5|PUNCT
+*INV:	mhm . 119664_119784
+%wor:	mhm 119664_119784 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay ? [+ exc] 120379_120779
+%wor:	okay 120379_120779 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	yeah that's fine . 123102_123762
+%wor:	yeah 123102_123162 that's 123162_123282 fine 123282_123762 .
+%mor:	co|yeah pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	okay [/] okay . [+ exc] 123884_124654
+%wor:	okay 123884_124014 okay 124544_124654 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what happened in the story of Cinderella ? 127234_129994
+%wor:	what 127234_128194 happened 128194_128504 in 128504_128694 the 128694_128724 story 128724_129114 of 129114_129184 Cinderella 129184_129994 ?
+%mor:	pro:int|what v|happen-PAST prep|in det:art|the n|story prep|of
+	n:prop|Cinderella ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ
+	8|2|PUNCT
+*PAR:	&-um the &-um sisters were bad . 134895_145455
+%wor:	&-um 134895_135235 the 137775_138165 &-um 140445_140855 sisters 143465_144155 were 144155_144615 bad 144945_145455 .
+%mor:	det:art|the n|sister-PL cop|be&PAST adj|bad .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*INV:	mhm . 147869_148239
+%wor:	mhm 147869_148239 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	they [/] <they were> [?] bad . 149143_151343
+%wor:	they 149143_149343 they 150123_150523 were 150523_150913 bad 151173_151343 .
+%mor:	pro:sub|they cop|be&PAST adj|bad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	yes they were . 151634_152314
+%wor:	yes 151634_151664 they 151664_151834 were 151834_152314 .
+%mor:	co|yes pro:sub|they cop|be&PAST .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	so ‡ what else ? 153581_154451
+%wor:	so 153581_153741 what 153741_154201 else 154201_154451 ?
+%mor:	co|so beg|beg pro:int|what post|else ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PQ 5|3|PUNCT
+*PAR:	so ‡ I don't know &-um &-um how do you think about that ? [+ exc] 154497_161397
+%wor:	so 154497_154537 I 154537_154547 don't 154547_154637 know 154637_154677 &-um 154677_154787 &-um 155487_155847 how 156197_156387 do 156387_156527 you 156527_156977 think 159347_159627 about 159627_160087 that 160087_161397 ?
+%mor:	co|so beg|beg pro:sub|I mod|do~neg|not v|know pro:int|how mod|do
+	pro:per|you v|think prep|about pro:dem|that ?
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|10|JCT
+	8|10|AUX 9|10|SUBJ 10|6|COMP 11|10|JCT 12|11|POBJ 13|6|PUNCT
+*PAR:	&-um Cinderella is the story of &-um Cinderella . 162704_170094
+%wor:	&-um 162704_162774 Cinderella 163514_164754 is 165664_166114 the 166324_166434 story 166434_167064 of 167064_167414 &-um 167584_167954 Cinderella 169174_170094 .
+%mor:	n:prop|Cinderella cop|be&3S det:art|the n|story prep|of
+	n:prop|Cinderella .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*PAR:	&-um the [//] &-um I don't know &-um about how the &-um the +...
+	[+ exc] 172044_182774
+%wor:	&-um 172044_172104 the 172104_172214 &-um 173914_174264 I 175854_175954 don't 175954_176154 know 176154_176484 &-um 176554_176784 about 177304_177854 how 177854_178124 the 178714_179114 &-um 180304_180644 the 182514_182774 +...
+%mor:	pro:sub|I mod|do~neg|not v|know prep|about pro:int|how det:art|the
+	det:art|the +...
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|CPOBJ 7|8|DET 8|6|OM
+	9|4|PUNCT
+*PAR:	okay ‡ &-um &+s &+s &-um Cinderella &-um +... 185717_191107
+%wor:	okay 185717_186027 &-um 187057_187407 &+s 188127_188317 &+s 188357_188747 &-um 188897_189237 Cinderella 189537_190507 &-um 190857_191107 +...
+%mor:	co|okay beg|beg n:prop|Cinderella +...
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-um Walt Disney ? 193610_194910
+%wor:	&-um 193610_193910 Walt 194070_194360 Disney 194360_194910 ?
+%mor:	n:prop|Walt n:prop|Disney ?
+%gra:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm . 196941_197251
+%wor:	mhm 196941_197251 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I don't know what that was . [+ exc] 197975_199565
+%wor:	I 197975_198035 don't 198165_198385 know 198385_198645 what 199275_199365 that 199365_199485 was 199485_199565 .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what comp|that
+	cop|be&PAST&13S .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP
+	8|4|PUNCT
+*INV:	mkay . 199888_200638
+%wor:	mkay 199888_200638 .
+%mor:	co|mkay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um Cinderella is &-uh a story about nice . 200721_206431
+%wor:	&-um 200721_200781 Cinderella 201081_201301 is 201301_201631 &-uh 202001_202031 a 202031_202281 story 202461_203001 about 203001_203591 nice 205951_206431 .
+%mor:	n:prop|Cinderella cop|be&3S det:art|a n|story prep|about adj|nice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*INV:	yeah she was „ mhm . 209122_210062
+%wor:	yeah 209122_209182 she 209182_209202 was 209642_209822 mhm 209822_210062 .
+%mor:	co|yeah pro:sub|she cop|be&PAST&13S end|end co|mhm=yes .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|ENDP 5|3|END 6|3|PUNCT
+*PAR:	so ‡ I [/] I don't know &-um about that &-um . [+ exc] 210418_214558
+%wor:	so 210418_210458 I 210458_210488 I 210488_210518 don't 210518_210788 know 210788_211278 &-um 211318_211568 about 212248_212528 that 213348_213858 &-um 214118_214558 .
+%mor:	co|so beg|beg pro:sub|I mod|do~neg|not v|know prep|about
+	pro:dem|that .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+*PAR:	okay ? [+ exc] 218285_219075
+%wor:	okay 218285_219075 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mkay ‡ what [//] <do you> [//] can you tell me how the story of
+	Cinderella ended ? 219218_221888
+%wor:	mkay 219218_219338 what 219338_219408 do 219408_219498 you 219498_219558 can 219558_219658 you 219658_219888 tell 219948_220098 me 220098_220158 how 220158_220318 the 220318_220418 story 220418_220828 of 220828_220908 Cinderella 220908_221408 ended 221408_221888 ?
+%mor:	co|mkay beg|beg mod|can pro:per|you v|tell pro:obj|me pro:int|how
+	det:art|the n|story prep|of n:prop|Cinderella v|end-PAST ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|12|LINK
+	8|9|DET 9|12|SUBJ 10|9|NJCT 11|10|POBJ 12|5|COMP 13|5|PUNCT
+*PAR:	&-um yeah &-um so ‡ the [//] &-um they lived happily ever after
+	[=! laughing] . 224526_231916
+%wor:	&-um 224526_224896 yeah 225296_225376 &-um 225376_225586 so 225636_225696 the 225696_225706 &-um 225706_225966 they 226486_226816 lived 227046_227386 happily 227446_228176 ever 228826_230096 after 230906_231916 .
+%mor:	co|yeah co|so beg|beg pro:sub|they v|live-PAST adv|happy&dadj-LY
+	adv|ever adv:tem|after .
+%gra:	1|2|COM 2|0|BEG 3|2|BEGP 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|JCT 8|5|JCT
+	9|5|PUNCT
+*INV:	<they did> [=! laughing] ? 232439_232639
+%wor:	they 232439_232519 did 232519_232639 ?
+%mor:	pro:sub|they v|do&PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	yeah . 233275_233395
+%wor:	yeah 233275_233395 .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	well ‡ who is they@q ? 233964_234784
+%wor:	well 233964_234084 who 234084_234284 is 234514_234724 they@q 234724_234784 ?
+%mor:	co|well beg|beg pro:int|who cop|be&3S meta|they ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|LINK 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*INV:	she [/] she and +/? 235323_235753
+%wor:	she 235323_235353 she 235353_235363 and 235363_235753 +/?
+%mor:	pro:sub|she coord|and +/?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	+< &-um &-um the prince . 235913_237533
+%wor:	&-um 235913_235973 &-um 235973_236143 the 236173_236443 prince 237183_237533 .
+%mor:	det:art|the n|prince .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	yes ‡ that's right „ good . 238094_238284
+%wor:	yes 238094_238284 that's right good .
+%mor:	co|yes beg|beg pro:dem|that~cop|be&3S adj|right end|end adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|ENDP 7|4|END
+	8|4|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+%wor:	www .
+%com:	glitchy media playback in this section, so timestamps are not
+	included .
+*PAR:	okay &-um &-uh [/] okay ‡ the &-um peanut butter +//.
+%wor:	okay &-um &-uh okay the &-um peanut butter +//.
+%mor:	co|okay co|okay beg|beg det:art|the n|peanut n|butter +//.
+%gra:	1|2|COM 2|0|BEG 3|2|BEGP 4|6|DET 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+*PAR:	&-um just a jelly sandwich .
+%wor:	&-um just a jelly sandwich .
+%mor:	adv|just det:art|a n|jelly n|sandwich .
+%gra:	1|4|JCT 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	I [/] I don't &-um +//. 238164_238254
+%wor:	I 238164_238174 I 238174_238184 don't 238184_238254 &-um +//.
+%mor:	pro:sub|I mod|do~neg|not +//.
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*PAR:	&-um okay . 238284_238344
+%wor:	&-um 238284_238344 okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	so ‡ &-um &+huh &-uh &-um bread . 238444_238514
+%wor:	so 238444_238464 &-um 238464_238484 &+huh 238484_238504 &-uh 238504_238514 &-um bread .
+%mor:	co|so beg|beg n|bread .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-um so ‡ you &-um have a bread &-um with the peanut butter and
+	jelly sandwich &-um . 238514_238594
+%wor:	&-um so you &-um 238514_238534 have a bread 238534_238594 &-um with the peanut butter and jelly sandwich &-um .
+%mor:	co|so beg|beg pro:per|you v|have det:art|a n|bread prep|with
+	det:art|the n|peanut n|butter coord|and n|jelly n|sandwich .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|10|DET
+	9|10|MOD 10|13|MOD 11|10|CONJ 12|11|COORD 13|7|POBJ 14|4|PUNCT
+@End

@@ -1,0 +1,138 @@
+@UTF8
+@PID:	11312/a-00076823-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|64;00.|female|Broca||Participant||64|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1062-4, video
+@Date:	24-JAN-2019
+@Comment:	no %wor tier due to type and degree of impairment affecting accuracy
+@G:	Window
+*INV:	www .
+*PAR:	&-um <kick &-um or> [//] &+b &-um boy kick . 25062_31773
+%mor:	co|boy v|kick .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	&-um trash [: crash] [* p:w] . 32808_37406
+%mor:	n|crash .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" &-um &-um oh [/] oh_my_god ! 37406_47329
+%mor:	co|oh_my_god !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um tick [: kick] [* p:w] &+u up and glass and wɪr@u [: x@n] [* n:uk] . 47329_59795
+%mor:	v|kick adv|up coord|and n|glass coord|and neo|x .
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|1|PUNCT
+@G:	Cinderella_Intro
+*INV:	www .
+@G:	Cinderella
+*PAR:	<salad [: Cinderella] [* n:k]> [//] <okay sælɪdɛrɪ@u [: Cinderella] [* n:k]> [//] &+sal okay [//] &-um gɜl@u [: girl] [* p:n] &-um and &-um &-um &-um father &-um &-um &-um &-um sɛpmɑm@u [: stepmom] [* p:n] and &+s &-um two gɜlz@u [: girls] [* p:n] okay . 81283_126666
+%mor:	n|girl coord|and n|father step#n|mom coord|and det:num|two
+	n|girl-PL adj|okay .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|CONJ 6|7|QUANT 7|5|COORD
+	8|7|POSTMOD 9|1|PUNCT
+*PAR:	&-um <died yeah or [/] &-uh or> [//] &-uh &-um father died . 126705_141115
+%mor:	n|father v|die-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	&-um &-um gɜl@u [: girl] [* p:n] &-um &-um &-um wicking [: working] [* p:w] and &-um house . 141294_168500
+%mor:	n|girl part|work-PRESP coord|and n|house .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	&-um two &-um step^s^um^sisters [: stepsisters] [* d:sw] &-um &+s &-um &-um bad . 168675_189000
+%mor:	det:num|two step#n|sister-PL adj|bad .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&=sighs &-um &=sighs &-um go &-um vɑr@u [: x@n] [* n:uk] and &-um bædlɪs@u [: palace]
+	[* n:k] . 189022_211111
+%mor:	v|go neo|x coord|and n|palace .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	&-um &-um stepda^or^mom [: stepmom] [* d:sw] and [/] &-um and two &-um ball . 211484_231800
+%mor:	step#n|mom coord|and det:num|two n|ball .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|QUANT 4|2|COORD 5|1|PUNCT
+*PAR:	&-um oh [//] &-um cat bad and &-um &-um &-um &+s birds and &+th the rats and horse and [//] but no . 231908_266666
+%mor:	n|cat adj|bad coord|and n|bird-PL coord|and det:art|the n|rat-PL
+	coord|and n|horse conj|but co|no .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|CONJ 4|3|COORD 5|1|CONJ 6|7|DET 7|5|COORD
+	8|1|CONJ 9|8|COORD 10|1|CONJ 11|10|COORD 12|1|PUNCT
+*PAR:	&-um &-um &-um &-um &+go or [//] &-um mother [: stepmother] [* s:r] &-um
+	and book and &-um &-um oh &-um birds and rats and &-um sew &-um and
+	+"/. 267093_308465
+%mor:	step#n|mother coord|and n|book coord|and co|oh n|bird-PL coord|and
+	n|rat-PL coord|and v|sew coord|and +"/.
+%gra:	1|11|SUBJ 2|1|CONJ 3|2|COORD 4|1|CONJ 5|6|COM 6|4|COORD 7|6|CONJ
+	8|7|COORD 9|1|CONJ 10|9|COORD 11|0|ROOT 12|11|PUNCT
+*PAR:	+" &=gasps thank_you . 308627_310453
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um &-uh oh &-um &-um stætmɑm@u [: stepmom] [* p:n] and &-um two girls &-um trash and break &-um lɛkdɪts@u [: necklace] [* n:k] and oh . 310453_345921
+%mor:	co|oh step#n|mom coord|and det:num|two n|girl-PL n|trash coord|and
+	n|break n|+n|neck+n|lace coord|and co|oh .
+%gra:	1|2|COM 2|0|ROOT 3|2|CONJ 4|5|QUANT 5|6|MOD 6|3|COORD 7|2|CONJ 8|9|MOD
+	9|7|COORD 10|2|CONJ 11|10|COORD 12|2|PUNCT
+*PAR:	okay ‡ &-um oh fairy mom [: godmother] [* s:r] &-um wish and &-um bʌŋkɪnz@u [: pumpkins] [* p:n] and &-um &-um gɛrɪdʒ@u [: carriage] [* p:n] &-um and &-uh four horse and do [: two] [* p:w] &-um men &-um &-um and bjutɚfʊl@u [: beautiful] [* p:n] dɔrdʒɪs@u [: gorgeous] [* p:n] &-um &-um oh and slipper okay . 345921_403333
+%mor:	co|okay beg|beg co|oh n|fairy n|+n|god+n|mother n|wish coord|and
+	n|pumpkin-PL coord|and n|carriage coord|and det:num|four n|horse
+	coord|and det:num|two n|man&PL coord|and adj|beautiful adj|gorgeous
+	co|oh coord|and n|slipper adj|okay .
+%gra:	1|0|BEG 2|1|BEGP 3|5|COM 4|5|MOD 5|6|MOD 6|0|INCROOT 7|6|CONJ 8|7|COORD
+	9|6|CONJ 10|9|COORD 11|6|CONJ 12|13|QUANT 13|11|COORD 14|6|CONJ
+	15|16|QUANT 16|14|COORD 17|6|CONJ 18|20|MOD 19|20|MOD 20|17|COORD 21|20|CONJ
+	22|23|MOD 23|21|COORD 24|6|PUNCT
+*PAR:	okay ‡ &-um dance all <day &-uh or> [//] &+n &-uh night &-um &-um &+s prince and gɜl@u [: girl] [* p:n] . 403432_420600
+%mor:	co|okay beg|beg n|dance qn|all n|night n|prince coord|and n|girl .
+%gra:	1|0|BEG 2|1|BEGP 3|6|MOD 4|5|QUANT 5|6|MOD 6|0|INCROOT 7|6|CONJ
+	8|7|COORD 9|6|PUNCT
+*PAR:	&-um oh &-um &+m &-um clock &-um twelve woo$co . 420758_438438
+%mor:	co|oh n|clock det:num|twelve co|woo .
+%gra:	1|3|COM 2|3|MOD 3|0|ROOT 4|3|COM 5|3|PUNCT
+*PAR:	&+n running &-um one &-um vʊt@u [: foot] [* p:n] &-um glasses [: glass] [* m:+s] &-um pif@u [: poof@o] [* p:n] . 438534_454044
+%mor:	part|run-PRESP det:num|one n|foot n|glass on|poof .
+%gra:	1|0|ROOT 2|4|QUANT 3|4|MOD 4|1|OBJ 5|4|POSTMOD 6|1|PUNCT
+*PAR:	&-uh oh &-um &-um &-um &-um birds and horse and &-um pʌmpinz@u
+	[: pumpkins] [* p:n] and &-uh drɛt [: dress] [* p:n] &+n yeah . 454177_477367
+%mor:	co|oh n|bird-PL coord|and n|horse coord|and n|pumpkin-PL coord|and
+	n|dress co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|CONJ 6|5|COORD 7|2|CONJ
+	8|7|COORD 9|2|COM 10|2|PUNCT
+*PAR:	&-um okay ‡ &-um &=sighs &-um key &-um rats but key and &=ges:unlock . 477438_503434
+%mor:	co|okay beg|beg n|key n|rat-PL conj|but n|key coord|and .
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|0|INCROOT 5|4|CONJ 6|5|COORD 7|4|CONJ
+	8|4|PUNCT
+*PAR:	&-um &-um gɜl@u [: girl] [* p:n] &+sk &-um slipper &-um fit aha . 503536_521046
+%mor:	n|girl n|slipper v|fit&ZERO co|aha .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and &-um &-um prince [: prince] and &-um gɜl@u [: girl] [* p:n] &-um married . 521644_534744
+%mor:	coord|and n|prince coord|and n|girl v|marry-PAST .
+%gra:	1|5|LINK 2|5|SUBJ 3|2|CONJ 4|3|COORD 5|0|ROOT 6|5|PUNCT
+*PAR:	&*INV:mhm <in oh> [//] &-uh the nɛnθ@u [: end] [* n:k] . 534844_541728
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+*PAR:	okay ‡ bread &-um two lɑɪkst@u [: slices] [* n:k] . 560182_568619
+%mor:	co|okay beg|beg n|bread det:num|two n|slice-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|5|MOD 4|5|QUANT 5|0|INCROOT 6|5|PUNCT
+*PAR:	&-um &-um strɔbəɪ@u [: strawberry] [* p:n] gem [: jam] [* p:w] and pidɪd@u
+	[: peanut] [* p:n] butter . 568619_580797
+%mor:	n|+n|straw+n|berry n|jam coord|and n|peanut n|butter .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|5|MOD 5|3|COORD 6|2|PUNCT
+*PAR:	okay ‡ &-um lay &-um bread . 581710_590369
+%mor:	co|okay beg|beg adj|lay n|bread .
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	&+l &-um open the &-um bidʌt@u [: peanut] [* n:k] butter &-um and
+	splɛd@u [: spread] [* p:n] (a)round . 590369_606975
+%mor:	v|open det:art|the n|peanut n|butter coord|and v|spread&ZERO
+	adv|around .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|CONJ 6|5|COORD 7|6|JCT 8|1|PUNCT
+*PAR:	&-um &+sp &+sp &+m &=sighs jam &-um &-um &-um open the &+dis &-um lid
+	. 607260_640668
+%mor:	n|jam adj|open det:art|the n|lid .
+%gra:	1|4|MOD 2|4|MOD 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	&-um and brow [* s:uk] [//] &-um jam &-um bread [: spread] [* p:w]
+	it . 640668_651247
+%mor:	coord|and n|jam v|spread&ZERO pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	<and [/] &-um and sɛlɪ [: jelly] [* p:n] and okay> [//] jelly
+	and bidɚ [: butter] [* n:k] <and spread or> [//] and [/] and top okay .
+	 651247_679451
+%mor:	n|jelly coord|and n|butter coord|and n|top adj|okay .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|CONJ 5|6|MOD 6|4|COORD 7|1|PUNCT
+@End

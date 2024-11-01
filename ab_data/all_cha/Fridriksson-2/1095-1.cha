@@ -1,0 +1,142 @@
+@UTF8
+@PID:	11312/a-00076861-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|55;00.|male|Broca||Participant||28.3|
+@Media:	1095-1, video
+@Comment:	no %wor tier, lots of unintelligible, perseverative output
+@G:	Window
+*INV:	www . 0_31264
+%exp:	task instructions
+*PAR:	no [/] no [/] no [/] no [/] no . 33264_37620
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	one two three . 37620_39475
+%mor:	det:num|one det:num|two det:num|three .
+%gra:	1|3|DATE 2|3|DATE 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-uh &-um okay . [+ exc] 39475_44437
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	one xxx . 44437_46829
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh xxx &-uh &+ah xxx . 46829_51958
+*PAR:	&-uh xxx yes xxx . 51958_57790
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	why &-um +... 59373_62095
+%mor:	pro:rel|why +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . 62095_65829
+*PAR:	&-uh xxx ? 65829_71869
+*PAR:	&-uh one two three xxx . 71869_74805
+%mor:	det:num|one det:num|two det:num|three .
+%gra:	1|3|DATE 2|3|DATE 3|0|INCROOT 4|3|PUNCT
+*INV:	okay ‡ very nice . 74715_77299
+%mor:	co|okay beg|beg adv|very adj|nice .
+%gra:	1|0|BEG 2|1|BEGP 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+*PAR:	no [/] no [/] no [/] no [/] no . [+ exc] 77299_78919
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	one two three xxx . 78919_85532
+%mor:	det:num|one det:num|two det:num|three .
+%gra:	1|3|DATE 2|3|DATE 3|0|INCROOT 4|3|PUNCT
+*PAR:	xxx .  85532_87899
+*PAR:	xxx . 87899_91115
+*INV:	right [//] that's right . 91200_92491
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	oh . [+ exc] 92491_93320
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< and look across at all of them and tell me xxx . 93020_95604
+%mor:	coord|and v|look adv|across prep|at pro:indef|all prep|of
+	pro:obj|them coord|and v|tell pro:obj|me .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|5|NJCT 7|6|POBJ 8|2|CONJ
+	9|8|COORD 10|9|OBJ 11|2|PUNCT
+*PAR:	+< oh okay [/] okay [/] okay [/] okay . [+ exc] 94504_96965
+%mor:	co|oh co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx okay . 96965_98429
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx yes xxx . 98429_102325
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh yes xxx . 102325_106705
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and xxx . 106705_111085
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cinderella
+*INV:	www . 113668_120158
+%exp:	task instructions
+*PAR:	&-uh oh xxx . [+ exc] 120345_125322
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . [+ exc]  125322_129380
+*PAR:	okay . [+ exc] 129380_132765
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx +//. 132765_136457
+*PAR:	okay . [+ exc] 136457_138259
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 138259_140452
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . 140452_141836
+*PAR:	&-uh xxx .  141836_146632
+*PAR:	+" oh xxx yes xxx . 146632_149651
+%mor:	co|oh co|yes .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx yes &-uh &-uh xxx &-hm . 149651_156343
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx yes . 156343_159359
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh xxx &+y xxx yes xxx yes . 160569_168600
+%mor:	co|yes co|yes .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	and &-uh &-uh xxx . 168600_175014
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx yes xxx . 175014_178024
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh xxx . 178024_180443
+*PAR:	+" oh xxx . 180443_182835
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx no [/] no [/] no [/] no . 182835_185828
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no ‡ xxx yes . 185828_188775
+%mor:	co|no beg|beg co|yes .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	xxx yes . 188775_193606
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" oh xxx . 193606_195606
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" yes xxx yes xxx . 195606_197910
+%mor:	co|yes co|yes .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 201000_216625
+%exp:	task instructions
+*PAR:	okay ‡ one toto@u [: x@n] [* n:uk] . 216425_220138
+%mor:	co|okay beg|beg det:num|one neo|x .
+%gra:	1|0|BEG 2|1|BEGP 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*PAR:	toto@u [: x@n] [* n:uk] &=imit . 220138_223164
+%mor:	neo|x .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx &=imit . 223164_225683
+*PAR:	xxx . 225683_228488
+@End

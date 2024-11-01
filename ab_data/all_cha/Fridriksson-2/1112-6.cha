@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/a-00083105-0
+@Window:	249_726_766_1167_-1_-1_1654_0_1654_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|58;00.|female|Broca|White|Participant||63|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1112-6, video
+@Date:	18-MAR-2021
+@Comment:	no %wor tier due to paraphasias and limited output
+@G:	Window
+*INV:	www .
+*PAR:	&+k kick [//] &+chi &+t kick dʌ@u [: the] [* p:n] ball over [* s:uk] window . 52884_69096
+%mor:	v|kick det:art|the n|ball prep|over n|window .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|4|POBJ 6|1|PUNCT
+*PAR:	<I &-um got> [//] &-um dad &-uh <saw dæt@u [: that] [* p:n]> [//] &+wi &-um saw it . 69096_93876
+%mor:	n|dad v|see&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	+" &-um &-um &+m you're gettin(g) a whippin(g) . 93876_110202
+%mor:	pro:per|you~aux|be&PRES part|get-PRESP det:art|a
+	n:gerund|whip-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	&=giggles oh I just +... [+ exc] 110202_118290
+%mor:	co|oh pro:sub|I adv|just +...
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	+" you're gɛtɪ@u [: getting] [* p:n] a &+wit &+m &+wi wɪkɪm@u [: whipping] [* n:k] [//]
+	&+wi . 118290_129826
+%mor:	pro:per|you~aux|be&PRES part|get-PRESP det:art|a .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|PUNCT
+@G:	Cinderella
+*INV:	www .
+*PAR:	&-um &-uh &-uh <niədəm@u [: x@n] [* n:uk] dɝl@u [: girl] [* p:n]> [//] little
+	dɝl@u [: girl] [* p:n] &-um &-um &+g dʒɑp [: drop] [* p:n] [//] dʒɑp@u [: drop] [* p:n] . 152800_174447
+%mor:	adj|little n|girl n|drop .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-um &-um little dɝl@u [: girl] [* p:n] drop &-um shoe [/] &-um shoe . 174500_197519
+%mor:	adj|little n|girl n|drop n|shoe .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	I don't know . [+ exc] 197519_227856
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	&-um (.) I don't know . [+ exc] 227856_252704
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	&+ham &+eh &+ha ever æfɚ@u [: after] [* p:n] . 252704_265736
+%mor:	adv|ever adv:tem|after .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+*PAR:	I &+wu get two [/] &-um two (.) brɛdʒ@u [: bread] [* p:n] out, &-um peanut butter and
+	jelly . 287590_310990
+%mor:	pro:sub|I v|get det:num|two n|bread adv|out cm|cm n|peanut n|butter
+	coord|and n|jelly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|2|LP 7|8|MOD 8|2|OBJ
+	9|8|CONJ 10|9|COORD 11|2|PUNCT
+*PAR:	jet [: get] [* p:n] two out . 321000_329521
+%mor:	v|get det:num|two adv|out .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*PAR:	&-um one  (.) peanut burr [: butter] [* p:w] . 329521_339700
+%mor:	det:num|one n|peanut n|butter .
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	two, jelly . 339700_342316
+%mor:	det:num|two cm|cm n|jelly .
+%gra:	1|3|QUANT 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*INV:	okay ‡ are you all done or would you like to add some more ? 342316_342987
+%mor:	co|okay beg|beg aux|be&PRES pro:per|you adv|all part|do&PASTP
+	coord|or mod|will&COND pro:per|you v|like inf|to v|add qn|some
+	adv|more ?
+%gra:	1|0|BEG 2|1|BEGP 3|6|AUX 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|CONJ 8|10|AUX
+	9|10|SUBJ 10|7|COORD 11|12|INF 12|10|COMP 13|14|QUANT 14|12|JCT 15|6|PUNCT
+*PAR:	&+ch put it tudedɚ@u [: together] [* n:k] and eat . 355623_361025
+%mor:	v|put&ZERO pro:per|it adv|together coord|and v|eat .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|CONJ 5|4|COORD 6|1|PUNCT
+@End

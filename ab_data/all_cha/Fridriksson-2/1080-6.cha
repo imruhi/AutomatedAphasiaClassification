@@ -1,0 +1,120 @@
+@UTF8
+@PID:	11312/a-00076843-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|78;00.|male|Broca||Participant||71.4|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1080-6, video
+@Comment:	PAR's voice is hoarse and raspy, very long pauses, unintelligible segments, no %wor tier
+@G:	Window
+*INV:	www . 0_18877
+%exp:	task instructions
+*PAR:	ɪk@u [: kick] [* p:n] [=! whispering] . 18877_40532
+%mor:	v|kick .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	www . 49603_55608
+*PAR:	boy is &+tu kickin(g) the &+we I_mean [//] soccer [//] I_mean ball and breaking the window . 65608_82444
+%mor:	n|boy aux|be&3S part|kick-PRESP det:art|the co|I_mean n|ball
+	coord|and part|break-PRESP det:art|the n|window .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|COM 6|3|OBJ 7|3|CONJ 8|7|COORD
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+*PAR:	and man is &+t kicking the ball and looking for the &+m kicker . 82444_123619
+%mor:	coord|and n|man aux|be&3S part|kick-PRESP det:art|the n|ball
+	coord|and part|look-PRESP prep|for det:art|the n|kick&dv-AGT .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|7|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+@G:	Cinderella
+*INV:	www . 123725_132505
+%exp:	task instructions
+*PAR:	Cinderella is poor [/] poor and maid or [//] but I_mean +... 132725_156927
+%mor:	n:prop|Cinderella cop|be&3S adj|poor coord|and n|maid conj|but
+	co|I_mean +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|CONJ 5|4|COORD 6|2|CONJ 7|6|COORD
+	8|2|PUNCT
+*PAR:	&+ee she is going to get tɔlz@u [: x@n] [* n:uk] and gæts@u [: x@n] [* n:uk]  . 167927_176814
+%mor:	pro:sub|she aux|be&3S part|go-PRESP inf|to v|get neo|x coord|and
+	neo|x .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|PRED 7|6|CONJ 8|7|COORD
+	9|3|PUNCT
+*PAR:	and is rimɪn@u [: dreaming] [* p:n] of [//] for the dance in fairy tale . 176814_224415
+%mor:	coord|and aux|be&3S part|dream-PRESP prep|for det:art|the n|dance
+	prep|in n|fairy n|tale .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|3|PUNCT
+*PAR:	wish [//] wish to +... 224535_235596
+%mor:	n|wish prep|to +...
+%gra:	1|0|INCROOT 2|1|OM 3|1|PUNCT
+*PAR:	&+r Cinderella is [/] &+i is <ænsɪŋ@u [: dancing] ɑrs [: x@n] [* n:uk] in the dance in> [//] ænsɪŋ@u [: dancing] [* p:n] with the &+tr prince . 235845_264835
+%mor:	n:prop|Cinderella aux|be&3S part|dance-PRESP prep|with det:art|the
+	n|prince .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and he gɑtʃ@u [: x@n] [* n:uk] short [* s:uk] xxx . 264835_294839
+%mor:	coord|and pro:sub|he neo|x adj|short .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	dancing with the prince . 296675_301018
+%mor:	part|dance-PRESP prep|with det:art|the n|prince .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	&+w &+ar we got twelve o'clock . 301018_308983
+%mor:	pro:sub|we v|get&PAST det:num|twelve n|o'clock .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*PAR:	and went home . 308983_317050
+%mor:	coord|and v|go&PAST adv|home .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and I_mean xxx . 317050_326993
+%mor:	coord|and co|I_mean .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	Cinderella is &+ra &+ra xxx . 326993_335616
+%mor:	n:prop|Cinderella cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	and come home . 336335_339151
+%mor:	coord|and v|come adv|home .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and rimɪn@u [: dreaming] [* p:n] . 339151_341784
+%mor:	coord|and part|dream-PRESP .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	the &+pr prince &+i is dʒɔɪd@u [: enjoyed] [* p:n] +//. 341805_351764
+%mor:	det:art|the n|prince aux|be&3S part|enjoy-PASTP +//.
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	I [/] I_mean +... 351764_353562
+%mor:	co|I_mean +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the prince was +... 361646_364544
+%mor:	det:art|the n|prince cop|be&PAST&13S +...
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	Cinderella is +... 364544_370032
+%mor:	n:prop|Cinderella cop|be&3S +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	shoe was . 371000_373919
+%mor:	n|shoe cop|be&PAST&13S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	prince is &+r village [/] village &-um to [/] to &-uh wear the &+sh shoes . 404375_424447
+%mor:	n|prince cop|be&3S n|village inf|to v|wear det:art|the n|shoe-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|7|DET 7|5|OBJ 8|2|PUNCT
+*PAR:	and Cinderella is fit . 424945_437551
+%mor:	coord|and n:prop|Cinderella cop|be&3S v|fit&ZERO .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CPRED 5|3|PUNCT
+*PAR:	and he [/] he touch the [/] the castle . 438095_459636
+%mor:	coord|and pro:sub|he v|touch det:art|the n|castle .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	&+s and [/] and after [//] I_mean that's it . [+ exc] 461636_474246
+%mor:	coord|and co|I_mean pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 475535_490180
+%exp:	task instructions
+*PAR:	xxx . 494580_498725
+*PAR:	whole wheat and toast . 513725_518883
+%mor:	adj|whole n|wheat coord|and n|toast .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	and peanut butter and jelly . 520055_531096
+%mor:	coord|and n|peanut n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	and &+wi &+m marry [* s:k] them up . 531096_540716
+%mor:	coord|and v|marry pro:obj|them adv|up .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	and slice them . 540716_542691
+%mor:	coord|and v|slice pro:obj|them .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

@@ -1,0 +1,87 @@
+@UTF8
+@PID:	11312/a-00083081-0
+@Window:	162_723_893_1167_-1_-1_2140_0_2140_0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|72;00.|male|Broca|Black|Participant||22.8|
+@Media:	1070-1, video
+@Comment:	Any verbal material below should be taken skeptically; PAR's speech is difficult to discern. Utterance breaks were likewise difficult to discern (it is frequently unclear whether PAR is adding on to a previous sentence or initiating a new one) and so have been collapsed together in many cases.
+@Comment:	no %wor tier due to unintelligible output
+@G:	Window
+*INV:	www .
+*PAR:	no ‡ xxx . 18877_21942
+%mor:	co|no beg|beg .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT
+*PAR:	<where did it> [/] where did it . 21942_25718
+%mor:	pro:int|where mod|do&PAST pro:per|it .
+%gra:	1|3|JCT 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*PAR:	xxx . 25718_34150
+*PAR:	xxx . 34150_38926
+*PAR:	right [/] right in there . 38926_40950
+%mor:	adv|right prep|in n|there .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|POBJ 4|2|PUNCT
+*PAR:	&=laughs oh right here xxx . 40950_47878
+%mor:	co|oh adv|right n|here .
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	right in there . 47878_53469
+%mor:	adv|right prep|in n|there .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|POBJ 4|2|PUNCT
+*PAR:	&-uh &+muh oh right there . 53469_60606
+%mor:	co|oh adv|right n|there .
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	right there . 60606_62606
+%mor:	adv|right n|there .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx . [+ exc] 62606_73990
+@G:	Cinderella_Intro
+*INV:	www . 73990_83797
+%exp:	looking through book, instructions
+*INV:	www . 640000_653900
+%exp:	prompt
+@G:	Cinderella
+*PAR:	alright . [+ exc] 653900_655181
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . 655181_659145
+*PAR:	xxx . 659145_671030
+*PAR:	xxx . 671030_679205
+*PAR:	xxx . 679205_687769
+*PAR:	xxx . 687769_690437
+*PAR:	xxx . 690437_704210
+*PAR:	xxx . 704210_729817
+*PAR:	xxx . 729817_732214
+*PAR:	xxx . 732214_743448
+*PAR:	xxx . 743448_750358
+*PAR:	xxx . 750358_764613
+*PAR:	xxx . 764613_769737
+*PAR:	xxx . 769737_777798
+*PAR:	xxx . 777798_792247
+*PAR:	xxx . 792247_800151
+*PAR:	xxx . 800151_804679
+*PAR:	xxx . 804679_820149
+*PAR:	xxx . 820149_839594
+*PAR:	xxx . 839594_854663
+*PAR:	xxx . 854663_859391
+*PAR:	xxx . 859391_868604
+*INV:	the end .  868604_871144
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 872543_885789
+%exp:	task prompt
+%com:	PAR pantomimes making a sandwich .
+*INV:	can you try to tell me ?  916000_918951
+%mor:	mod|can pro:per|you v|try inf|to v|tell pro:obj|me ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*INV:	can you try to say what you're doing ? 918951_923750
+%mor:	mod|can pro:per|you v|try inf|to v|say pro:int|what
+	pro:per|you~aux|be&PRES part|do-PRESP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|3|PUNCT
+*PAR:	xxx . 923750_950934
+*INV:	www . [+ exc] 950934_3230240
+%exp:	it seems the media repeats the same session again for all 3 tasks
+@End

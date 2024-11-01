@@ -1,0 +1,75 @@
+@UTF8
+@Window:	153_625_860_929_-1_-1_216_0_222_0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|66;00.|male|Wernicke|White|Participant||30.3|
+@Media:	1047-3, video
+@Comment:	no %wor tier due to jargon and unintelligible segments
+@G:	Window
+*INV:	www .
+*PAR:	okay ‡ xxx . 31088_34446
+%mor:	co|okay beg|beg .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT
+*PAR:	free [* s:uk] rəpi@u [: x@n] [* n:uk] . 35568_38585
+%mor:	adv|free neo|x .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	and he hit xxx .  38585_40586
+%mor:	coord|and pro:sub|he v|hit&ZERO .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and he xxx . 40586_42357
+%mor:	coord|and pro:sub|he .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	okay so ‡ he ʌvə@u [: x@n] [* n:uk] just go through there . 42357_46369
+%mor:	co|okay co|so beg|beg pro:sub|he neo|x adv|just v|go prep|through
+	n|there .
+%gra:	1|2|COM 2|0|BEG 3|2|BEGP 4|7|SUBJ 5|7|AUX 6|7|JCT 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|PUNCT
+*PAR:	and it was one two three and it's fɑz@u [: x@n] [* n:uk] . 46498_50953
+%mor:	coord|and pro:per|it cop|be&PAST&13S det:num|one det:num|two
+	det:num|three coord|and pro:per|it~cop|be&3S neo|x .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DATE 5|6|DATE 6|3|PRED 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|9|PRED 11|3|PUNCT
+@G:	Cinderella
+*INV:	www .
+*PAR:	oh so ‡ you got xxx „ okay . 64336_70714
+%mor:	co|oh co|so beg|beg pro:per|you part|get&PASTP end|end co|okay .
+%gra:	1|2|COM 2|0|BEG 3|2|BEGP 4|5|SUBJ 5|0|ROOT 6|7|ENDP 7|5|END 8|5|PUNCT
+*PAR:	yeah [/] yeah [/] yeah [/] yeah [/] yeah [/] yeah .  70714_74934
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and den [: then] de prune [* s:uk] would +//. 75254_78353
+%mor:	coord|and adv:tem|then det:art|the&aae n|prune mod|will&COND +//.
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	yeah . 77884_79338
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx ja@u [: x@n] [* n:uk] yeah . 79338_81770
+%mor:	neo|x co|yeah .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	and yeah [/] yeah . 82304_83524
+%mor:	coord|and co|yeah .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	daddy [* s:uk] all ? 83581_84224
+%mor:	n|daddy adv|all ?
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	yeah . [+ exc] 84484_85026
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+*PAR:	high [* s:uk] gɑbɪs@u [: x@n] [* n:uk] two [/] two keys [* s:uk] . 96744_104124
+%mor:	adj|high neo|x det:num|two n|key-PL .
+%gra:	1|4|MOD 2|4|MOD 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*PAR:	and a xxx . 104125_111510
+%mor:	coord|and det:art|a .
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	xxx tɔgɪŋ@u [: x@n] [* n:uk] .  111825_117069
+%mor:	neo|x .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+s so ‡ xxx . 117069_122077
+%mor:	co|so beg|beg .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT
+@End

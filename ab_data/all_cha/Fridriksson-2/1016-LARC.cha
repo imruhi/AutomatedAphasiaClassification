@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/a-00080533-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|66;00.|male|Broca|White|Participant||36.3|
+@Media:	1016-LARC, video
+@Date:	01-OCT-2019
+@Comment:	no %wor tier due to jargon and unintelligible segments
+@G:	Window
+*INV:	www .
+*PAR:	pall [: ball] [* p:w] kit [: kick] [* p:w] &+airpl no [//] plane [* s:uk] . 16858_29448
+%mor:	n|ball v|kick n|plane .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&+airp no [//] airplane [* s:uk] . 29448_35271
+%mor:	n|+n|air+n|plane .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	airplane .  35271_46912
+%mor:	n|+n|air+n|plane .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	kit [: kick] [* p:w] airplane [* s:uk] [//] no [//] airplane [* s:uk] [/] airplane [* s:uk] . 46912_61656
+%mor:	v|kick n|+n|air+n|plane .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	play ball . 61656_70658
+%mor:	n|play n|ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@G:	Cinderella
+*INV:	www .
+*PAR:	&=laughs yes . [+ exc] 93740_98289
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I don't know . [+ exc] 98289_103473
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	I can't bake [: make] [* p:w] hall [: all] [* p:w] pictures go away . [+ exc] 103473_114456
+%mor:	pro:sub|I mod|can~neg|not v|make qn|all n|picture-PL v|go adv|away
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|4|PUNCT
+*INV:	www .
+*PAR:	I can't . [+ exc]
+%mor:	pro:sub|I mod|can~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+*PAR:	be two bread . 163230_166603
+%mor:	aux|be det:num|two n|bread .
+%gra:	1|3|AUX 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	a two bread make a party [* s:uk] . 166603_201045
+%mor:	det:art|a det:num|two n|bread v|make det:art|a n|party .
+%gra:	1|3|DET 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	&+a and go movie [* s:uk] [//] &-uh a movie [* s:uk] . 201045_221580
+%mor:	coord|and v|go det:art|a n|movie .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+@End

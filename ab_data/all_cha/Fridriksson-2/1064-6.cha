@@ -1,0 +1,217 @@
+@UTF8
+@PID:	11312/a-00080632-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|62;00.|male|Broca|White|Participant||57.9|
+@Media:	1064-6, video
+@Date:	21-AUG-2019
+@G:	Window
+*INV:	www .
+*PAR:	&-um &+eh &+gah ball &-um gick [: kick] [* p:n] . 24171_33131
+%wor:	um 24171_25931 ball 25931_30231 um 30231_31851 kick 31851_33131 .
+%mor:	n|ball v|kick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	no no no no no . [+ exc] 33470_36922
+%wor:	no 33470_34771 no 34771_35391 no 35391_36071 no 36071_36551 no 36551_36922 .
+%mor:	co|no co|no co|no co|no co|no .
+%gra:	1|3|COM 2|3|COM 3|5|COM 4|5|COM 5|0|INCROOT 6|5|PUNCT
+*PAR:	dats [: x@n] [* n:uk] beakand [: broken] [* n:k] ginjo [: window] [* n:k] . 37751_40831
+%wor:	x 37751_38091 broken 38091_39071 window 39071_40831 .
+%mor:	neo|x part|break&PASTP n|window .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&+d man &+b &+pyo &-um &+ko &-um caught ze [: the] [* p:n] gall [: ball] [* p:w] . 42791_51891
+%wor:	man 42791_44231 um 44231_47111 um 47111_48031 caught 48031_50611 the 50611_51011 ball 51011_51891 .
+%mor:	n|man v|catch&PAST det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and I don't know that &+b gory [: x@n] [* n:uk] dats [: x@n] [* n:uk] beak [: x@n] [* n:uk] &-um +... 52056_60596
+%wor:	and 52056_52896 I 52896_54256 don't 54256_55116 know 55116_55676 that 55676_56376 x 56376_57696 x 57696_57936 x 57936_58176 um 58176_60596 +...
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know comp|that neo|x neo|x neo|x +...
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|6|OM 8|7|OM 9|8|OM 10|5|PUNCT
+*PAR:	&+ba &-um call &-um „ no . 64236_66496
+%wor:	um call 64236_64696 um 64696_66496 „ no .
+%mor:	n|call end|end co|no .
+%gra:	1|0|INCROOT 2|3|ENDP 3|1|END 4|1|PUNCT
+*PAR:	&+b &-um beakand [: x@n] [* n:uk] cal [: x@n] [* n:uk] „ no &=laughs . 69126_72436
+%wor:	um 69126_69876 x 69876_70836 x „ no 70836_72436 .
+%mor:	neo|x neo|x end|end co|no .
+%gra:	1|2|LINK 2|0|ROOT 3|4|ENDP 4|2|END 5|2|PUNCT
+*PAR:	&-um wo [: x@n] [* n:uk] way . 75815_79835
+%wor:	um 75815_78115 x 78115_78635 way 78635_79835 .
+%mor:	neo|x n|way .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	break and brawl [: ball] [* p:w] and bro [: x@n] [* n:uk] way . 81951_86575
+%wor:	break 81951_83875 and 83875_84195 ball 84195_84835 and 84835_85355 x 85355_85875 way 85875_86575 .
+%mor:	n|break coord|and n|ball coord|and neo|x n|way .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|CONJ 5|6|MOD 6|4|COORD 7|1|PUNCT
+*PAR:	&-um no . 87495_90495
+%wor:	um 87495_87575 no 87575_90495 .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cinderella
+*INV:	www .
+*PAR:	<Cinderella bisbi [: x@n] [* n:uk]> [//] <no no> [//] &+bi &-um &-uh Dillowdella [: Cinderella] [* n:k] bis [: x@n] [* n:uk] zher [: x@n] [* n:uk] bassy [: x@n] [* n:uk] massy [: x@n] [* n:uk] bassy [: x@n] [* n:uk] .  97623_117503
+%wor:	Cinderella 97623_99503 x 99503_100263 no 100263_101383 no 101383_109883 um uh 109883_110503 Cinderella 110503_113723 x 113723_114443 x 114443_115983 x 115983_116543 x 116543_117283 x 117283_117503 .
+%mor:	n:prop|Cinderella neo|x neo|x neo|x neo|x neo|x .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*PAR:	but &-um Thinderella [: Cinderella] [* p:n] biyig [: x@n] [* n:uk] &-um &+b &-uh &-um &+k &-um &+s &-um +//. 119820_132740
+%wor:	but 119820_122020 um 122020_124960 Cinderella 124960_126680 x 126680_127780 um 127780_128820 uh 128820_129760 um 129760_132740 um um +//.
+%mor:	conj|but n:prop|Cinderella neo|x +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	Bindibrella [: Cinderella] [* n:k] &+b &-um bay [* s:uk] [/] &-um bay [* s:uk] [/] &-um bay [* s:uk] &-um &-um +... 134592_146608
+%wor:	Cinderella 134592_135980 um 135980_138120 bay 138120_139900 um 139900_140520 bay 140520_142960 um 142960_143420 bay 143420_145160 um 145160_145700 um 145700_146608 +...
+%mor:	n:prop|Cinderella n|bay +...
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	Binlewella [: Cinderella] [* n:k] bih [: x@n] [* n:uk] &-um ben [: x@n] [* n:uk] did &+b &-um &-um +... 146608_165408
+%wor:	Cinderella 146608_147208 x um x 147208_154168 did 154168_157768 um 157768_164868 um 164868_165408 +...
+%mor:	n:prop|Cinderella neo|x neo|x v|do&PAST +...
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|PUNCT
+*PAR:	Tinderlerla [: Cinderella] [* n:k] <bay [: x@n] [* n:uk] deeg [: x@n] [* n:uk] singdgerber [: x@n] [* n:uk]> [//] bakt [: x@n] [* n:uk] theeng [: x@n] [* n:uk] sibiver [: x@n] [* n:uk] . 166185_180105
+%wor:	Cinderella 166185_171405 x 171405_172345 x 172345_174045 x 174045_175005 x 175005_179905 x 179905_180105 x .
+%mor:	n:prop|Cinderella neo|x neo|x neo|x .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	but Dindelela [: Cinderella] [* n:k] +"/. 180699_185125
+%wor:	but 180699_182845 Cinderella 182845_185125 +"/.
+%mor:	conj|but n:prop|Cinderella +"/.
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+%com:	probably speaking for the stepmother or stepsisters, barring Cinderella from attending the ball .
+*PAR:	+" <no way> [/] no way . 187185_190825
+%wor:	no way 187185_188005 no 188005_189925 way 189925_190825 .
+%mor:	qn|no n|way .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	Anderella [: Cinderella] [* n:k] thei [: x@n] [* n:uk] &-um &-um &+b &-um &-um bah [: x@n] [* n:uk] &-um pah [: x@n] [* n:uk] +//. 191289_205849
+%wor:	Cinderella 191289_194749 x 194749_195389 um 195389_196289 um 196289_201049 um 201049_201129 um 201129_202129 x 202129_202989 um x 202989_205849 +//.
+%mor:	n:prop|Cinderella neo|x neo|x neo|x +//.
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OM 5|1|PUNCT
+*PAR:	<oh no> [//] &+t &-um tah [: x@n] [* n:uk] &-um &=laughs &-um sprat [: x@n] [* n:uk] +//. 207757_220777
+%wor:	oh 207757_208017 no 208017_208477 um 208477_209337 x 209337_210297 um 210297_211037 um 211037_219617 x 219617_220777 +//.
+%mor:	neo|x neo|x +//.
+%gra:	1|0|INCROOT 2|1|OM 3|1|PUNCT
+*PAR:	no no no &-um &-um no no no . [+ exc] 221456_229217
+%wor:	no 221456_221617 no 221617_221937 no 221937_222397 um 222397_222877 um 222877_223657 no 223657_225117 no 225117_227857 no 227857_229217 .
+%mor:	co|no co|no co|no co|no co|no co|no .
+%gra:	1|3|COM 2|3|COM 3|6|COM 4|6|COM 5|6|COM 6|0|INCROOT 7|6|PUNCT
+*PAR:	Binderurla [: Cinderella] [* n:k] ma [: x@n] [* n:uk] bains [: x@n] [* n:uk] begiber [: x@n] [* n:uk] [//] seebyurler [: x@n] [* n:uk] . 229766_235006
+%wor:	Cinderella 229766_230466 x 230466_231186 x 231186_235006 x x .
+%mor:	n:prop|Cinderella neo|x neo|x neo|x .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	but Bindebrella [: Cinderella] [* n:k] &+bic &+th book [: look] [* p:w] bau [: out] [* n:k] [?] thid [: the] [* n:k] babril [: castle] [* n:k] [//] &+b sapril [: castle] [* n:k] [//] yeah [//] bassle [: castle] [* p:n] . 237953_255766
+%wor:	but Cinderella 237953_240526 look 240526_242886 out 242886_247106 the 247106_247746 castle 247746_251786 castle 251786_253766 yeah 253766_253786 castle 253786_255766 .
+%mor:	conj|but n:prop|Cinderella v|look prep|out det:art|the n|castle .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	Pandibrella [: Cinderella] [* n:k] +"/. 256289_258489
+%wor:	Cinderella 256289_258489 +"/.
+%mor:	n:prop|Cinderella +"/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" no no . 261409_262629
+%wor:	no 261409_261669 no 261669_262629 .
+%mor:	co|no co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" bassle [: castle] [* p:n] ?
+%mor:	n|castle ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" no . 264149_264849
+%wor:	no 264149_264849 .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" Binderella [: Cinderella] [* n:k] ? 265729_266489
+%wor:	Cinderella 265729_266489 ?
+%mor:	n:prop|Cinderella ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" no &=laughs . 267390_268749
+%wor:	no 267390_268749 .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+bit &-um oh Binderella [: Cinderella] [* p:n] go [//] is going to the dassles [: castle] [* p:n] [* m:+s] . 271029_280329
+%wor:	um 271029_271649 oh 271649_273209 Cinderella 273209_274849 go 274849_276389 is 276389_277729 going 277729_278889 to 278889_279469 the 279469_279789 castle 279789_280329 .
+%mor:	co|oh n:prop|Cinderella aux|be&3S part|go-PRESP prep|to det:art|the n|castle .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and &-um &-um &+b &-um Cinderella [//] &+b &+b &-um &-um Tinderella [: Cinderella] [* p:n] [//] &-um &-um &+b &-um Tinderella [: Cinderella] [* p:n] go ku [: to] [* p:n] the tassle [: castle] [* p:w] and &+g &-um go home . 280938_310918
+%wor:	and 280938_282938 um 282938_283938 um 283938_288078 um 288078_290978 Cinderella 290978_292178 um 292178_294518 um 294518_297398 Cinderella 297398_298978 um 298978_304718 um 304718_309978 um 309978_310918 Cinderella go to the castle and um go home .
+%mor:	coord|and n:prop|Cinderella v|go prep|to det:art|the n|castle coord|and v|go adv|home .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD 9|8|JCT 10|3|PUNCT
+*PAR:	and [/] and Tindirula [: Cinderella] [* n:k] go +//. 331801_345541
+%wor:	and 331801_333541 and 333541_341001 Cinderella 341001_344441 go 344441_345541 +//.
+%mor:	coord|and n:prop|Cinderella v|go +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	no no no . [+ exc] 347001_350521
+%wor:	no 347001_347421 no 347421_349921 no 349921_350521 .
+%mor:	co|no co|no co|no .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-um Binderella [: Cinderella] [* p:n] no . 350941_356821
+%wor:	um 350941_351761 Cinderella 351761_354241 no 354241_356821 .
+%mor:	n:prop|Cinderella co|no .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	go ome [: home] [* p:n] . 357294_360094
+%wor:	go 357294_359514 home 359514_360094 .
+%mor:	v|go adv|home .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	Thinduhrella [: Cinderella] [* n:k] gens [: x@n] [* n:uk] &-um &+laugh tassle [: castle] [* p:w] . 361694_367834
+%wor:	Cinderella 361694_362894 x 362894_364574 um 364574_365174 castle 365174_367834 .
+%mor:	n:prop|Cinderella neo|x n|castle .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	woe [: no] [* p:w] way bidih [: x@n] [* n:uk] &+d &+bri &-um &+d &+b &-um &+b &-um +... 368946_377666
+%wor:	no 368946_370046 way 370046_370086 x 370086_370946 um 370946_372526 um 372526_375846 um 375846_377666 +...
+%mor:	qn|no n|way neo|x +...
+%gra:	1|2|QUANT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	Prindebrel [: Cinderella] [* n:k] <in bay [* s:uk]> [//] &-um no [//] &-um woe [: no] [* p:w] way .  386364_396206
+%wor:	Cinderella 386364_388626 in 388626_389746 bay 389746_390946 um 390946_391866 no 391866_394166 um 394166_394606 no 394606_395486 way 395486_396206 .
+%mor:	n:prop|Cinderella qn|no n|way .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*PAR:	&+d Pindibrella [: Cinderella] [* n:k] ben [: x@n] [* n:uk] tuh [: x@n] [* n:uk] bucing [: x@n] [* n:uk] . 396631_401331
+%wor:	Cinderella 396631_398451 x 398451_399251 x 399251_401331 x .
+%mor:	n:prop|Cinderella neo|x neo|x neo|x .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	no . [+ exc] 402081_402651
+%wor:	no 402081_402651 .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	en [: the] [* n:k] end .  403347_410551
+%wor:	the 403347_410551 end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+*PAR:	&+ru no no no no no . [+ exc] 426918_429778
+%wor:	no no 426918_428358 no 428358_428678 no 428678_429218 no 429218_429778 .
+%mor:	co|no co|no co|no co|no co|no .
+%gra:	1|3|COM 2|3|COM 3|5|COM 4|5|COM 5|0|INCROOT 6|5|PUNCT
+*PAR:	bray [: bread] [* s:ur] [/] &-um bray [: bread] [* s:ur] &-um . 431278_434358
+%wor:	bread 431278_431298 um 431298_431918 bread 431918_433398 um 433398_434358 .
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	b@l and j@l . 434794_438778
+%wor:	b 434794_437118 and 437118_438018 j 438018_438778 .
+%mor:	n:let|b coord|and n:let|j .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	no no no . [+ exc] 439686_441166
+%wor:	no 439686_440406 no 440406_440666 no 440666_441166 .
+%mor:	co|no co|no co|no .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-um &-um &+j &-um &+je &-um jelledge [: jelly] [* n:k] &-um &+j peamuts [: peanut] [* n:k] butter . 442346_454386
+%wor:	um 442346_443386 um 443386_446586 um 446586_448166 um 448166_449766 jelly 449766_450626 um 450626_452226 peanut 452226_453106 butter 453106_454386 .
+%mor:	n|jelly n|peanut n|butter .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	drell [: spread] [* n:k] it on . 456346_458806
+%wor:	spread 456346_457286 it 457286_458006 on 458006_458806 .
+%mor:	v|spread&ZERO pro:per|it adv|on .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*PAR:	&+b &-um selly [: jelly] [* p:n] bell [* s:uk] it on . 459267_467627
+%wor:	um 459267_464487 jelly bell 464487_466167 it 466167_466487 on 466487_467627 .
+%mor:	n|jelly n|bell pro:per|it adv|on .
+%gra:	1|2|MOD 2|0|ROOT 3|2|OBJ 4|3|JCT 5|2|PUNCT
+*PAR:	&+b &-um and &-um bopping [* s:uk] &-um bread . 468687_483447
+%wor:	um 468687_470227 and 470227_473307 um 473307_475467 bopping 475467_477887 um 477887_479527 bread 479527_483447 .
+%mor:	coord|and part|bop-PRESP n|bread .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	bre [: bread] [* p:n] &-um +//. 484009_488416
+%wor:	bread 484009_487729 um 487729_488416 +//.
+%mor:	n|bread +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<bad [: add] [* p:w] on the> [//] &-um &+s add it on . 489649_491749
+%wor:	add 489649_489989 on the um 489989_490109 add 490109_491009 it 491009_491289 on 491289_491749 .
+%mor:	v|add pro:per|it adv|on .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+@End

@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/a-00076816-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|65;00.|female|Global|Black|Participant||14.5|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1058-3, video
+@Comment:	no %wor tier due to PAR's had minimal and often unintelligible output
+@G:	Window
+*INV:	www . 0_22000
+%exp:	task instructions
+*PAR:	and lords [* s:uk] lights [* s:uk] in [/] in [/] in [/] in [/] in lord [* s:uk] [/] lord [* s:uk] . 24800_41503
+%mor:	coord|and n|lord-PL v|light-3S prep|in n|lord .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	oh and [/] and +... 41525_47570
+%mor:	co|oh coord|and +...
+%gra:	1|0|INCROOT 2|1|CONJ 3|1|PUNCT
+@G:	Cinderella
+*INV:	www . 47570_56393
+%exp:	task instructions
+*PAR:	&-um &-uh no and +... [+ exc] 56393_64145
+%mor:	co|no coord|and +...
+%gra:	1|0|INCROOT 2|1|CONJ 3|1|PUNCT
+*PAR:	&-um in [/] in [/] in [/] in [/] in [/] in +... 64455_77246
+%mor:	adv|in +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hmhm . [+ exc] 77246_78689
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 80090_98795
+%exp:	task instructions
+*PAR:	and [/] and [/] and white and [/] and [/] and +... 98795_107900
+%mor:	coord|and adj|white coord|and +...
+%gra:	1|2|LINK 2|0|ROOT 3|2|CONJ 4|2|PUNCT
+*PAR:	oh and [/] and [/] and . 107900_112865
+%mor:	co|oh coord|and .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD
+*INV:	mhm . 113865_115109
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 115109_115750
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	xxx is that it ? 118550_120082
+%mor:	cop|be&3S comp|that pro:per|it ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ 4|1|PUNCT
+*PAR:	&+a &+a and . [+ exc] 120082_122546
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

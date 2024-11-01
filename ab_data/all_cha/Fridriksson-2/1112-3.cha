@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/a-00083102-0
+@Window:	127_687_885_1204_-1_-1_287_0_287_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|58;00.|female|Broca|White|Participant||63|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1112-3, video
+@Comment:	no %wor tier due to paraphasias and limited output
+@G:	Window
+*INV:	www .
+*PAR:	&-um &-um ploɾɪŋ@u [: x@n] [* n:uk] &-um foot [//] &-um ball . 36941_56841
+%mor:	neo|x n|ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-uh <hit a tæs@u [: glass] [* p:n]> [//] &+t hit dʌ@u [: the] [* p:n]
+	tæs@u [: glass] [* p:n] . 56841_70537
+%mor:	v|hit&ZERO det:art|the n|glass .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	&-um &+buh &-um broʊbɪn@u [: broken] [* p:n] [//] broʊtɪn@u [: broken] [* p:n] . 70537_95896
+%mor:	part|break&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um &-hm &+hi &-um I don't know . [+ exc] 95897_113782
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	oh &-um hit d@u [: the] [* p:n] dræs@u [: glass] [* p:n] . 114049_127304
+%mor:	co|oh v|hit&ZERO det:art|the n|glass .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	broʊdfɪn@u [: broken] [* p:n] . 127304_129295
+%mor:	part|break&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<I don't> [//] &-um (.) &-hm (.) I don't know . [+ exc] 129295_142216
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	mkay ‡ are you finished ? 142216_144120
+%mor:	co|mkay beg|beg aux|be&PRES pro:per|you v|finish-PAST ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	yeah . [+ exc] 144120_144968
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cinderella_Intro
+*INV:	www .
+@G:	Cinderella
+*PAR:	sɪmwəwɛɾə@u [: Cinderella] [* n:k] . 342552_345498
+%mor:	n:prop|Cinderella .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh &-um sɪndəbrɛlə@u [: Cinderella] [* n:k] &-um +... 345498_369598
+%mor:	n:prop|Cinderella +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	what is it ? [+ exc] 369598_372013
+%mor:	pro:int|what cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&-um <lass [: glass] [* p:w] &+str strɛtɚ@u [: slipper] [* n:k]> [//] <dæs@u [: glass] [* p:n] [/]
+	&+d dæs@u [: glass] [* p:n] ʃɛpɚ@u [: slipper] [* n:k]> [//] &-um dræs@u [: glass] [* p:n]
+	stɪpɪt@u [: slipper] [* n:k] . 372123_407299
+%mor:	n|glass n|slipper .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	happy ever æfɚ@u [: after] [* p:n] . 407299_411458
+%mor:	adj|happy adv|ever adv:tem|after .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|1|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+*PAR:	&-um two breads [* s:r] . 450305_456973
+%mor:	det:num|two n|bread-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	fivəm@u [: peanut] [* n:k] butter &+f &+feh tʃɛrlɪ@u [: jelly] [* n:k] . 458000_464599
+%mor:	n|peanut n|butter n|jelly .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-um &-um &+weh make &-um sæmitʃ@u [: sandwich] [* n:k] [//] &-um sandy [: sandwich] [* s:ur] . 464599_479087
+%mor:	v|make n|sandwich .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+@End

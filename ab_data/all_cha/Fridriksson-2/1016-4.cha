@@ -1,0 +1,65 @@
+@UTF8
+@PID:	11312/a-00080530-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|66;00.|male|Broca|White|Participant||36.3|
+@Media:	1016-4, video
+@Date:	06-JUL-2017
+@Comment:	no %wor tier due to unintelligible segments and jargon
+@G:	Window
+*INV:	www .
+*PAR:	a ball kick . 36357_41044
+%mor:	det:art|a n|ball v|kick .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	ball kiss [* s:uk] a window . 41044_46386
+%mor:	n|ball v|kiss det:art|a n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	it want to go to the window . 46386_51034
+%mor:	pro:per|it v|want inf|to v|go prep|to det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*PAR:	it want to go to the bar [* s:uk] . 51034_56234
+%mor:	pro:per|it v|want inf|to v|go prep|to det:art|the n|bar .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+@G:	Cinderella
+*INV:	www .
+*PAR:	it wants to go <to the bɑrdɪ@u [: party] [* p:n] [//] party> [//] <in to the party> [/] <in to the party> [//] in [/] in to the party . 65142_97004
+%mor:	pro:per|it v|want-3S inf|to v|go adv|in prep|to det:art|the n|party
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*PAR:	I +... 97004_105068
+%mor:	pro:sub|I +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	INV asks PAR for additional details . PAR indicates he cannot offer any more details .
+@G:	Sandwich_Picture
+*INV:	www .
+*PAR:	FirstnameM make a &+ss peanut butter and jelly sandwich . 143775_150277
+%mor:	n:prop|FirstnameM v|make det:art|a n|peanut n|butter coord|and
+	n|jelly n|sandwich .
+%gra:	1|2|SUBJ 2|0|ROOT 3|8|DET 4|5|MOD 5|8|MOD 6|5|CONJ 7|6|COORD 8|2|OBJ
+	9|2|PUNCT
+*PAR:	it's one xxx and [/] and to get &+g &+k +... 150277_170080
+%mor:	pro:per|it~cop|be&3S det:num|one coord|and inf|to v|get +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|CONJ 5|4|COORD 6|2|CPRED 7|2|PUNCT
+*INV:	www .
+*PAR:	yes I_mean +... [+ exc] 184430_188302
+%mor:	co|yes co|I_mean +...
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	and doe [* s:uk] get to the picture and &+s +... 188302_201086
+%mor:	coord|and n|doe v|get prep|to det:art|the n|picture coord|and +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|3|PUNCT
+*INV:	(o)kay ‡ does FirstnameM make picture perfect peanut butter and jelly sandwiches ? 207638_212298
+%mor:	co|okay beg|beg mod|do&3S n:prop|FirstnameM v|make n|picture
+	adj|perfect n|peanut n|butter coord|and n|jelly n|sandwich-PL ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|9|MOD 7|9|MOD 8|9|MOD
+	9|12|MOD 10|9|CONJ 11|10|COORD 12|5|OBJ 13|5|PUNCT
+*PAR:	yes . [+ exc] 212558_212758
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	&=laughs I bet she does . 213318_214158
+%mor:	pro:sub|I n|bet pro:sub|she v|do&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|CMOD 5|2|PUNCT
+@End

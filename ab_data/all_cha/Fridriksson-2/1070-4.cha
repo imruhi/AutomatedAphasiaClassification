@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/a-00083084-0
+@Window:	130_933_912_943_-1_-1_835_0_835_0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|72;00.|male|Broca|Black|Participant||22.8|
+@Media:	1070-4, video
+@Comment:	no %wor tier due to unintelligible output, utterance boundaries are difficult to determine
+@G:	Window
+*INV:	www . 0_33669
+%exp:	prompt
+*PAR:	xxx . 33669_43853
+*PAR:	xxx . 43853_49133
+*PAR:	xxx . 49133_60651
+*PAR:	xxx . 60651_62559
+*PAR:	xxx . [+ exc]  62559_64379
+*INV:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cinderella
+*INV:	www .
+*PAR:	xxx . 72613_77396
+*PAR:	xxx . 77396_80773
+*PAR:	xxx . 80773_87780
+*PAR:	xxx . 87780_94261
+*PAR:	xxx . 94261_102227
+*PAR:	xxx . 102227_118792
+*PAR:	xxx . 118792_129701
+*PAR:	xxx . 129701_136504
+*PAR:	xxx . 136504_142218
+*PAR:	xxx . 142218_146425
+*PAR:	xxx . 146425_149437
+*INV:	&*PAR:xxx good . 149437_151345
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 151345_170335
+*PAR:	what [/] what I did . 170335_173968
+%mor:	pro:int|what pro:sub|I v|do&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	what I didn't . 173968_176738
+%mor:	pro:int|what pro:sub|I mod|do&PAST~neg|not .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|PUNCT
+*PAR:	xxx . 176738_183042
+*PAR:	xxx . 183042_188977
+*PAR:	xxx . 188977_191936
+@End

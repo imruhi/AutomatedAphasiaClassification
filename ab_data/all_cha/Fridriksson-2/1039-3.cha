@@ -1,0 +1,119 @@
+@UTF8
+@PID:	11312/a-00083067-0
+@Window:	86_625_927_946_-1_-1_2292_0_2292_0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|54;00.|male|Broca|White|Participant||56.3|
+@Media:	1039-3, video
+@Date:	19-FEB-2018
+@Comment:	no %wor tier due to paraphasias and unintelligible, limited output
+@G:	Window
+*INV:	www .
+*PAR:	ball [//] &-uh bʊtbɔl@u [: football] [* p:n] +//. 50450_60524
+%mor:	n|+n|foot+n|ball +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no . [+ exc] 60524_62135
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ball . 62135_64548
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	walker [: soccer] [* p:w] [//] &=chuckles tsɑkɚ@u [: soccer] [* p:n] . 64548_83600
+%mor:	n|soccer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-eh . [+ exc] 83600_85212
+*PAR:	&-uh &+bu all ball window .  85212_113001
+%mor:	qn|all n|ball n|window .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	winnow [: window] [* p:w] .  112736_116241
+%mor:	n|window .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else ? 115636_123616
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	no [//] yeah . [+ exc] 123616_126577
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	window pane . 126577_130501
+%mor:	n|window n|pane .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	water [: soccer] [* s:ur] . 130501_142718
+%mor:	n|soccer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx +//. 142718_151940
+*PAR:	xxx . [+ exc] 151940_153271
+*PAR:	ball [/] (.) ball . 153271_171272
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	&*PAR:xxx is that it ?  171272_174150
+%mor:	cop|be&3S comp|that pro:per|it ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ 4|1|PUNCT
+*PAR:	yeah . [+ exc] 174150_175147
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cinderella
+*INV:	www .
+*PAR:	&-uh long time ago &=chuckles +... 180565_190395
+%mor:	adj|long n|time post|ago +...
+%gra:	1|2|MOD 2|0|INCROOT 3|2|POSTMOD 4|2|PUNCT
+*PAR:	xxx . 190695_195168
+*PAR:	no . [+ exc] 195168_195889
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx twɪnərɛlə@u [: Cinderella] [* n:k] +... 195889_205322
+%mor:	n:prop|Cinderella +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 205322_206428
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	drid@u [: x@n] [* n:uk] mean , mean , mean . 206428_215495
+%mor:	neo|x adj|mean cm|cm adj|mean cm|cm adj|mean .
+%gra:	1|0|INCROOT 2|1|PRED 3|2|LP 4|2|ENUM 5|4|LP 6|2|ENUM 7|1|PUNCT
+*PAR:	&=exhales whittle [: little] [* p:w] +... 222685_232098
+%mor:	adj|little +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I know how to jay [: say] [* p:w] it . [+ exc] 263184_265091
+%mor:	pro:sub|I v|know pro:int|how inf|to v|say pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|INF 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*INV:	yeah what happened to Cinderella ?  265091_267047
+%mor:	co|yeah pro:int|what v|happen-PAST prep|to n:prop|Cinderella ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	&-uh &+a mead [: mean] [* p:w] [//] yeah mean . 267047_287844
+%mor:	co|yeah v|mean .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*INV:	yeah ? 288184_289053
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	she had those mean &+INV:yeah_yeah stepsisters . 289053_306272
+%mor:	pro:sub|she v|have&PAST det:dem|those adj|mean step#n|sister-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*PAR:	trin@u [: mean] [* p:n] [//] bean [: mean] [* p:w] trɛp@u [: step] [* p:n] +//. 306272_309580
+%mor:	adj|mean n|step +//.
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	no . [+ exc] 309580_311490
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wʌkɪ@u [: lucky] [* p:n] &=laughs . 311490_318152
+%mor:	adj|luck&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+wa (..) wɔŋ@u [: long] [* p:n] time . 318152_340124
+%mor:	adj|long n|time .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+*PAR:	bed [: bread] [* p:w] [//] &*INV:mhm yeah fed [: bread] [* p:w] . 359006_362332
+%mor:	co|yeah n|bread .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&+j xxx jelly . 362332_371547
+%mor:	n|jelly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+wuh red [: bread] [* p:w] . 371547_378268
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peanut butt [: butter] [* n:k] dʒɛwrɪ@u [: jelly] [* n:k] &=ges:eat .  378268_385898
+%mor:	n|peanut n|butter n|jelly .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+@End

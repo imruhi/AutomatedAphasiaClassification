@@ -1,0 +1,94 @@
+@UTF8
+@PID:	11312/a-00083100-0
+@Window:	197_445_858_1006_-1_-1_1718_0_1718_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|58;00.|female|Broca|White|Participant||63|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1112-1, video
+@Date:	18-JUN-2020
+@Comment:	no %wor tier due to paraphasias and limited output
+@G:	Window
+*PAR:	bɑɪdɪn@u [: playing] [* n:k] ball . 3020_5968
+%mor:	part|play-PRESP n|ball .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	&-um dʒæʃ@u [: crash] [* p:n] . 5968_25240
+%mor:	n|crash .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um dɛdɪ@u [: daddy] [* p:n] . 43000_46507
+%mor:	n|daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ball chew [: x@n] [* n:uk] &-um . 72971_77631
+%mor:	n|ball neo|x .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	&+ru dash [: crash] [* p:w] [* p:w] . 90148_94096
+%mor:	n|crash .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ball &-um (.) &-hm +... 94096_110888
+%mor:	n|ball +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	daddy &+w window . 112940_121980
+%mor:	n|daddy n|window .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	yeah . [+ exc] 132163_132403
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else ? 134349_135099
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	no . [+ exc] 138846_139316
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 139937_140177
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cinderella
+*INV:	www .
+*PAR:	xxx &-uh sɪdəfɛlə@u [: Cinderella] [* n:k] . 204066_212949
+%mor:	n:prop|Cinderella .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um buɾiwɛɾɚ@u [: x@n] [* n:uk] &+we +... 214127_228127
+%mor:	neo|x +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wiɾiwɛɾɚ@u [: x@n] [* n:uk] [//] &=laughs wʊɾiwɛɾɚ@u [: x@n] [* n:uk] . 233127_247332
+%mor:	neo|x .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&+du dæʃfɛtʃɚ@u [: x@n] [* n:uk] . 247332_253234
+%mor:	neo|x .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	unhunh . [+ exc] 253234_269578
+%mor:	co|unhunh=no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hmhm . [+ exc] 269578_275915
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's it ? 275915_277401
+%mor:	pro:dem|that~cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	hmhm . [+ exc] 277401_279001
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 279001_279874
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+*PAR:	bread . 316754_317894
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um pidʌt@u [: peanut] [* p:n] butter jelly &-um ʃprændwɪtʃ@u
+	[: sandwich] [* n:k] . 318539_332263
+%mor:	n|peanut n|butter n|jelly n|sandwich .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*INV:	(o)kay ‡ anything else ? 334132_335552
+%mor:	co|okay beg|beg pro:indef|anything post|else ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PQ 5|3|PUNCT
+*PAR:	mm . [+ exc] 337128_337208
+%mor:	co|mm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay [/] &=laughs okay . 337993_340273
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

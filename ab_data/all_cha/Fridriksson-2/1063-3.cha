@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/a-00076828-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|76;00.|female|Broca|White|Participant||25.4|
+@Media:	1063-3, video
+@Comment:	no %wor tier due to audio issues -- cuts out and is not synced with video
+@G:	Window
+*INV:	www . 300_22905
+*PAR:	&+eh well ‡ yes we love you . 33095_38916
+%mor:	co|well beg|beg co|yes pro:sub|we v|love pro:per|you .
+%gra:	1|0|BEG 2|1|BEGP 3|5|COM 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	I want you . 38916_41177
+%mor:	pro:sub|I v|want pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	I mug [* s:uk] you love you . 41177_44405
+%mor:	pro:sub|I v|mug pro:per|you v|love pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*PAR:	xxx yeah . 44405_48599
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and I want you . 48599_51612
+%mor:	coord|and pro:sub|I v|want pro:per|you .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	I want you yeah love you yeah . 51612_55259
+%mor:	pro:sub|I v|want pro:per|you co|yeah v|love pro:per|you co|yeah .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|COM 5|2|COMP 6|5|OBJ 7|5|COM 8|2|PUNCT
+@G:	Cinderella
+*INV:	www . 56000_74664
+*PAR:	yeah [/] yeah oh yeah . 74664_80000
+%mor:	co|yeah co|oh co|yeah .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	no . 80000_80658
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah [/] &=laughs yeah . 82058_85440
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh man yes [//] yeah [/] yeah . 85440_95166
+%mor:	co|oh n|man co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|COM 4|2|PUNCT
+*INV:	is there anything else that you want to tell me ? 98566_100293
+%mor:	cop|be&3S adv|there pro:indef|anything post|else pro:dem|that
+	pro:per|you v|want inf|to v|tell pro:obj|me ?
+%gra:	1|0|ROOT 2|1|SUBJ 3|1|PRED 4|3|PQ 5|7|LINK 6|7|SUBJ 7|3|CMOD 8|9|INF
+	9|7|COMP 10|9|OBJ 11|1|PUNCT
+*PAR:	+< yes [/] yes . [+ exc] 99893_101644
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< I know you wanna tell me . 101044_102502
+%mor:	pro:sub|I v|know pro:per|you v|want~inf|to v|tell pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|INF 6|4|COMP 7|6|OBJ 8|2|PUNCT
+*PAR:	yes . [+ exc] 102502_103142
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< is there anything else that will come out that you can tell me ? 102742_105257
+%mor:	cop|be&3S adv|there pro:indef|anything post|else pro:dem|that
+	mod|will v|come adv|out comp|that pro:per|you mod|can v|tell
+	pro:obj|me ?
+%gra:	1|7|SUBJ 2|1|SUBJ 3|7|XJCT 4|3|PQ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|7|COMP 13|12|OBJ 14|7|PUNCT
+*PAR:	&=laughs yeah [//] no [/] no &*INV:okay . [+ exc] 105257_110819
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 125058_136224
+*PAR:	yeah [/] yeah well ‡ <love you> [/] love you &-uh . 136224_143244
+%mor:	co|yeah co|well beg|beg v|love pro:per|you .
+%gra:	1|2|COM 2|0|BEG 3|2|BEGP 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	&=sighs want you . 144344_148838
+%mor:	v|want pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and yes . 148838_151622
+%mor:	coord|and co|yes .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	well ‡ yes we love you . 151622_155563
+%mor:	co|well beg|beg co|yes pro:sub|we v|love pro:per|you .
+%gra:	1|0|BEG 2|1|BEGP 3|5|COM 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	yeah we love you . 155595_158155
+%mor:	co|yeah pro:sub|we v|love pro:per|you .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+@End

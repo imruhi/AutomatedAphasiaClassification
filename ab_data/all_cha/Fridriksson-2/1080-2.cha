@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/a-00076839-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|78;00.|male|Broca||Participant||71.4|
+@ID:	eng|Fridriksson-2|INV||female|||Investigator|||
+@Media:	1080-2, video
+@Date:	06-JUN-2019
+@Comment:	PAR's voice is hoarse and raspy, very long pauses, unintelligible segments, no %wor tier
+@G:	Window
+*INV:	www . 0_33617
+*PAR:	he [//] soccer ball hit &-uh the window and [/] and his <glass I_mean> [//] lamp . 36000_58827
+%mor:	n|soccer n|ball v|hit&ZERO det:art|the n|window coord|and
+	det:poss|his n|lamp .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|DET 8|6|COORD
+	9|3|PUNCT
+*PAR:	and the man is lookin(g) to plan [* s:uk] the soccer ball &=laughs . 58965_82067
+%mor:	coord|and det:art|the n|man aux|be&3S part|look-PRESP inf|to v|plan
+	det:art|the n|soccer n|ball .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|10|DET
+	9|10|MOD 10|7|OBJ 11|5|PUNCT
+@G:	Cinderella
+*INV:	www . 82435_95742
+*PAR:	&+si <sɪndɚɛlɚ@u [: Cinderella] [* p:n] is> [//] &+s &+s Cinderella is +... 95042_130623
+%mor:	n:prop|Cinderella cop|be&3S +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	and if you can't , think back over some of the pictures you saw when you were flipping through the book . 137623_142817
+%mor:	coord|and conj|if pro:per|you mod|can~neg|not cm|cm v|think
+	adv|back prep|over pro:indef|some prep|of det:art|the n|picture-PL
+	pro:per|you v|see&PAST conj|when pro:per|you aux|be&PAST
+	part|flip-PRESP prep|through det:art|the n|book .
+%gra:	1|15|LINK 2|7|LINK 3|7|SUBJ 4|7|AUX 5|4|NEG 6|4|LP 7|15|CJCT 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|15|SUBJ 15|0|ROOT
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|15|CJCT 20|19|JCT 21|22|DET 22|20|POBJ
+	23|15|PUNCT
+*PAR:	<they were> [//] Cinderella is dancin(g) and +... 145035_164605
+%mor:	n:prop|Cinderella aux|be&3S part|dance-PRESP coord|and +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|CONJ 5|3|PUNCT
+*PAR:	gosh I don't know . [+ exc] 173895_175389
+%mor:	co|gosh pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	Cinderella is charmin(g) [=! whispering] . 204025_211105
+%mor:	n:prop|Cinderella aux|be&3S part|charm-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	gosh I don't know . [+ exc] 239995_242988
+%mor:	co|gosh pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*INV:	wanna stop there ? 242988_245383
+%mor:	v|want~prep|to n|stop adv|there ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|JCT 5|1|PUNCT
+*PAR:	right . [+ exc] 245383_245973
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 245973_261080
+*PAR:	the bread &+a and &-uh butter and jelly . 265480_274964
+%mor:	det:art|the n|bread coord|and n|butter coord|and n|jelly .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*PAR:	I  [/] &+sh I [/] I don't know . [+ exc] 274964_290341
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	&-uh I [//] I'm straight [//] straighten [* s:uk] it out &=laughs . 291035_298986
+%mor:	pro:sub|I~cop|be&1S v|straighten pro:per|it adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OBJ 5|3|JCT 6|2|PUNCT
+@End

@@ -1,0 +1,458 @@
+@UTF8
+@PID:	11312/a-00074856-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|43;00.|female|Broca||Participant||54.8|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1035-3, video
+@Comment:	no %wor tier because of PAR's speech
+@G:	Window
+*INV:	www . 0_14205
+%exp:	task intro
+*PAR:	boy [//] &-um a boy . 14305_20461
+%mor:	det:art|a n|boy .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	sɑsɚ@u [: soccer] [* p:n] ball . 21475_23410
+%mor:	n|soccer n|ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" oh_no . 23410_26055
+%mor:	co|oh_no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um &-um &+wa &-um bæpɚ@u [: soccer] [* n:k] ball . 28055_43213
+%mor:	n|soccer n|ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" oh_no . 43213_44929
+%mor:	co|oh_no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	boom@o . 44929_46537
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" what a dæt@u [: that] [* p:n] ? 46909_48725
+%mor:	pro:int|what det:art|a pro:dem|that ?
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	who dæ@u [: did] [* n:k] that ? 50725_52955
+%mor:	pro:int|who mod|do&PAST pro:dem|that ?
+%gra:	1|3|LINK 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*PAR:	you [: who] [* p:w] gɪ@u [: did] [* p:n] dæt@u [: that] [* p:n] ? 52955_55329
+%mor:	pro:int|who mod|do&PAST pro:dem|that ?
+%gra:	1|3|LINK 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*PAR:	ball . 57329_58311
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the end . [+ exc] 59311_60495
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@G:	Cinderella_Intro
+*INV:	www . 63095_70401
+%exp:	task intro
+@G:	Cinderella
+*PAR:	Cinderella . 71301_73463
+%mor:	n:prop|Cinderella .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hey dɑɪnɪ@u [: x@n] [* n:uk] . 74263_75657
+%mor:	co|hey neo|x .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-um eɪ@u [: they] [* p:n] die . 76397_79197
+%mor:	pro:sub|they v|die .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	man ‡ so sorry . 79224_81593
+%mor:	n|man beg|beg adv|so adj|sorry .
+%gra:	1|0|BEG 2|1|BEGP 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+*PAR:	but &-uh girls [/] girls two of them and free [: three] [* p:w] of them . 82366_91769
+%mor:	conj|but n|girl-PL det:num|two prep|of pro:obj|them coord|and
+	det:num|three prep|of pro:obj|them .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|POSTMOD 4|3|JCT 5|4|POBJ 6|2|CONJ 7|6|COORD
+	8|7|JCT 9|8|POBJ 10|1|PUNCT
+*PAR:	+" obey [: okay] [* p:w] ? 91769_92704
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" obey [: okay] [* p:w] thank_you . 92704_94639
+%mor:	co|okay co|thank_you .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" &-um hello . 95027_100452
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bri@u [: three] [* p:n] of them . 101953_103194
+%mor:	det:num|three prep|of pro:obj|them .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	+" hey &=imit:mocking . 105194_108614
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" hello obey [: okay] [* p:w] . 108614_111898
+%mor:	co|hello co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-um a gɝlt@u [: girl] [* p:n] [/] gɝlt@u [: girl] [* p:n] &=ges:little . 113407_120409
+%mor:	det:art|a n|girl .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" wait gɝt@u [: girl] [* p:n] wait . 120409_124593
+%mor:	v|wait n|girl v|wait .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|1|PUNCT
+*PAR:	&-uh me [//] &-um the glɪnəhɚɛlə@u [: Cinderella] [* n:k] +"/. 124763_131266
+%mor:	det:art|the n:prop|Cinderella +"/.
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" hello . 132635_133499
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" thank_you . 133519_134905
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" tea . 134905_136714
+%mor:	n|tea .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" hɛ@u [: hey] [* p:n] &-um gɝlt@u [: girl] [* p:n] whatever hɛ@u [: her] [* p:n] name . 137514_144218
+%mor:	co|hey n|girl pro:rel|whatever det:poss|her n|name .
+%gra:	1|2|COM 2|0|INCROOT 3|5|LINK 4|5|DET 5|2|CMOD 6|2|PUNCT
+*PAR:	+" what ? 145725_146439
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" alright byebye . 146439_148116
+%mor:	co|alright co|byebye .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" byebye . 148116_149094
+%mor:	co|byebye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" byebye . 149894_151333
+%mor:	co|byebye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" I don't like him but &=ges:mouth_zip obey [: okay] [* p:w] . 153340_158620
+%mor:	pro:sub|I mod|do~neg|not v|like pro:obj|him conj|but co|okay .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|6|COORD 8|4|PUNCT
+*PAR:	+" wow do [: you] [* p:w] pretty [//] rɪɾɪ@u [: pretty] [* p:n] good . 162035_169639
+%mor:	co|wow pro:per|you adv|pretty adj|good .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+*PAR:	+" &-um and a ball . 170325_173976
+%mor:	coord|and det:art|a n|ball .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	+" a ball ? 173976_175103
+%mor:	det:art|a n|ball ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" hm . 175103_175902
+%mor:	co|hm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" really ? 175902_178558
+%mor:	adv|real&dadj-LY ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" xxx . 178558_179653
+*PAR:	+" me . 179653_181421
+%mor:	pro:obj|me .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bɝz@u [: pearls] [* p:n] . 181421_183005
+%mor:	n|pearl-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" &-uh oh &+n oh_no no no . 182845_186995
+%mor:	co|oh co|oh_no co|no co|no .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|COM 5|3|PUNCT
+*PAR:	+" oh_my_god . 186995_188346
+%mor:	co|oh_my_god .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" why ? 188346_190122
+%mor:	pro:rel|why ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" oh_no oh . 190122_193216
+%mor:	co|oh_no co|oh .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" byebye . 194042_195078
+%mor:	co|byebye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" oh_no . 196675_198164
+%mor:	co|oh_no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	boopboopboo@o . 198164_199818
+%mor:	on|boopboopboo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wɛzɚ@u [: x@n] [* n:uk] . 199818_201483
+%mor:	neo|x .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" who's dæt@u [: that] [* p:n] ? 202483_204217
+%mor:	pro:int|who~cop|be&3S pro:dem|that ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&-um boopboopboo@o . 205000_209559
+%mor:	on|boopboopboo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" what dæt@u [: that] [* p:n] ? 209559_212395
+%mor:	pro:int|what comp|that ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	&+mo &+m &+nu &+mar +//. 213095_217130
+*PAR:	wood [: hold] [* s:ur] on . [+ exc] 217130_218251
+%mor:	n|hold adv|on .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	+" mʌʒɚ@u [: mother] [* p:n] [//] mʌdɚ@u [: mother] [* p:n] ? 218905_222680
+%mor:	n|mother ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" me ? 222680_223437
+%mor:	pro:obj|me ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" oʊ_mɑɪ_dɑd@u [: oh_my_god] [* p:n] . 223437_225428
+%mor:	co|oh_my_god .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" oh a ball . 225428_228105
+%mor:	co|oh det:art|a n|ball .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-uh xxx ɛt@u [: let] [* p:n] &-uh me see . 228355_234172
+%mor:	v|let&ZERO pro:obj|me v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*PAR:	bibibaybahbeeboo@o boom@o . 234172_238672
+%mor:	on|bibibaybahbeeboo on|boom .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	+" wow [/] wow I'm me ? 239372_244941
+%mor:	co|wow pro:sub|I~cop|be&1S pro:obj|me ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	+" oʊ_mɑɪ_dɑd@u [: oh_my_god] [* p:n]  . 244941_246605
+%mor:	co|oh_my_god .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" well ‡ &-um bʌmpɪn@u [: pumpkin] [* n:k] . 247045_250779
+%mor:	co|well beg|beg n|pumpkin .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	+" I don't know . 250779_252209
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	+" bʌmpɪt@u [: pumpkin] [* n:k] ? 252209_252970
+%mor:	n|pumpkin ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" yet [: yes] [* p:w] . 252970_254070
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	obey [: okay] [* p:w] bippeebobopeeboo@o big . 254070_259852
+%mor:	co|okay on|bippeebobopeeboo adj|big .
+%gra:	1|2|COM 2|0|ROOT 3|2|POSTMOD 4|2|PUNCT
+*PAR:	and a mouth [: mouse] [* p:w] bippybipbopbooboo@o . 260085_266322
+%mor:	coord|and det:art|a n|mouse on|bippybipbopbooboo .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	+" wow thank_you . 266322_270292
+%mor:	co|wow co|thank_you .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" but one xxx . 270292_278369
+%mor:	conj|but det:num|one .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" jocks [* s:uk] [//] one clock [: o'clock] [* p:w] . 278369_289669
+%mor:	det:num|one n|o'clock .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" obey [: okay] [* p:w] plead [: please] [* p:w] . 289669_291682
+%mor:	co|okay co|please .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" doe [: so] [* p:w] dɑrɪ@u [: sorry] [* p:n] . 291682_293386
+%mor:	adv|so adj|sorry .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" oʊpeɪ@u [: okay] [* p:n] . 294785_295848
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" &-uh bye bye bye . 295848_299594
+%mor:	co|bye co|bye co|bye .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-um &-uh me . 300395_306398
+%mor:	pro:obj|me .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" who dæt@u [: that] [* p:n] ? 308398_309842
+%mor:	pro:int|who pro:dem|that ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" oʊ_mɑɪ_dɑd@u [: oh_my_god] [* p:n] girl . 309842_312340
+%mor:	co|oh_my_god n|girl .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" who ɪ@u [: is] [* p:n] dæt@u [: that] [* p:n] ? 312740_314095
+%mor:	pro:int|who cop|be&3S pro:dem|that ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	+" obey [: okay] [* p:w] me . 315485_317991
+%mor:	co|okay pro:obj|me .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" hello . 317991_320048
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" me ? 323048_324034
+%mor:	pro:obj|me ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ah:@si . 324034_329963
+%mor:	sing|ah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	obey [: okay] [* p:w] . 329963_331043
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um wɛlv@u [: twelve] [* p:n] əkɑk@u [: o'clock] [* p:n] . 332315_337848
+%mor:	det:num|twelve n|o'clock .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" oh_no oh so sorry byebye . 337848_341977
+%mor:	co|oh_no co|oh co|so co|sorry co|byebye .
+%gra:	1|2|COM 2|5|COM 3|4|COM 4|5|COM 5|0|INCROOT 6|5|PUNCT
+*PAR:	+" no ‡ wait a mɪdo@u [: minute] [* n:k] . 341977_343531
+%mor:	co|no beg|beg co|wait det:art|a n|minute .
+%gra:	1|0|BEG 2|1|BEGP 3|5|COM 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*PAR:	+" wait a mid [: minute] [* n:uk] . 343531_345060
+%mor:	v|wait det:art|a n|minute .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	+" phew hm one shoe . 345235_349074
+%mor:	co|phew co|hm det:num|one n|shoe .
+%gra:	1|4|COM 2|4|COM 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*PAR:	xxx world whatever . 349074_357511
+%mor:	n|world pro:indef|whatever .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	+" oh_man I lʌd@u [: love] [* p:n] him . 361075_363912
+%mor:	co|oh_man pro:sub|I v|love pro:obj|him .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	+" oh_well oh_well . 364375_367137
+%mor:	co|oh_well co|oh_well .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-um the girl whatever xxx . 368237_373950
+%mor:	det:art|the n|girl pro:indef|whatever .
+%gra:	1|2|DET 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-uh two of them . 374950_376772
+%mor:	det:num|two prep|of pro:obj|them .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	+" oh_my_god &=imit:gossip . 376628_379602
+%mor:	co|oh_my_god .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um hm &-um the girls . 382202_389507
+%mor:	co|hm det:art|the n|girl-PL .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	+" hm I don't know . 389507_392899
+%mor:	co|hm pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	+" &-uh I don't know . 392899_395227
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	ʌpdɛrd@u [: upstairs] [* n:k] . 395157_396932
+%mor:	adv|+prep|up+n|stairs .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" shoe ? 398932_400307
+%mor:	n|shoe ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" really ? 400907_401871
+%mor:	adv|real&dadj-LY ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=imit:locking . 401871_404020
+*PAR:	+" byebye . 404920_406338
+%mor:	co|byebye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" no no no oh_no . 406338_410502
+%mor:	co|no co|no co|no co|oh_no .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|COM 5|3|PUNCT
+*PAR:	+" hello . 412035_414016
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" obey [: okay] [* p:w] girl a girl . 414785_417709
+%mor:	co|okay n|girl det:art|a n|girl .
+%gra:	1|2|COM 2|0|INCROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	+" fry [: try] [* p:w] (th)em . 417709_419109
+%mor:	v|try pro:obj|them .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	+"  try (th)em now . 419109_422157
+%mor:	v|try pro:obj|them adv:tem|now .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*PAR:	+" ah god wow . 422176_426123
+%mor:	co|ah co|god co|wow .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	ɪʃ@u [: x@n] [* n:uk] it died . 426123_429059
+%mor:	neo|x pro:per|it v|die-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	rɪk@u [: x@n] [* n:uk] tied [: died] [* p:w] &=laughs . 429059_434571
+%mor:	neo|x part|die-PASTP .
+%gra:	1|0|INCROOT 2|1|XMOD 3|1|PUNCT
+*PAR:	I do [: two] [* p:w] &=ges:two  +"/.  435035_436480
+%mor:	pro:sub|I det:num|two +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	+" &+ob obey [: okay] [* p:w] gɪli@u [: x@n] [* n:uk] good . 436980_442169
+%mor:	co|okay neo|x adj|good .
+%gra:	1|2|COM 2|0|ROOT 3|2|POSTMOD 4|2|PUNCT
+*PAR:	boom@o . 442335_443330
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" oh_man . 443330_445499
+%mor:	co|oh_man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh_well . 445499_449540
+%mor:	co|oh_well .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" what ɪ@u [: is] [* p:n] dæt@u [: that] [* p:n] ? 452040_454050
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	oh@si . 454455_456646
+%mor:	sing|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" who dæt@u [: that] [* p:n] ? 456646_458457
+%mor:	pro:int|who pro:dem|that ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" ʌm@u [: come] [* p:n] here . 459457_460533
+%mor:	v|come adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	+" what's her name ? 460673_462024
+%mor:	pro:int|what~cop|be&3S det:poss|her n|name ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	+" nothin(g) . 462024_463252
+%mor:	pro:indef|nothing .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" &-um <a girl> [/] a girl . 463252_466751
+%mor:	det:art|a n|girl .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	+" yeah need her now . 466751_470475
+%mor:	co|yeah v|need pro:obj|her adv:tem|now .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	+" &=imit:sighs obey [: okay] [* p:w] . 470920_473971
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" yes ? 475571_476918
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" shoes „ please . 478718_480474
+%mor:	n|shoe-PL end|end co|please .
+%gra:	1|0|INCROOT 2|3|ENDP 3|1|END 4|1|PUNCT
+*PAR:	+" really ? 481474_482428
+%mor:	adv|real&dadj-LY ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" &=imit:sighs obey [: okay] [* p:w] . 482428_485521
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+" see ? 486305_487242
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+" oʊ_bɑɪ_dɑd@u [: oh_my_god] [* p:n] yes θænt_ju@u [: thank_you] [* p:n] . 488542_492710
+%mor:	co|oh_my_god co|yes co|thank_you .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	+" &+g ʌm@u [: come] [* p:n] here . 492710_494411
+%mor:	v|come adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	+" obey [: okay] [* p:w] . 495078_496411
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um boy girl wedding . 497011_502432
+%mor:	co|boy n|girl n|wedding .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	i@u [: the] [* p:n] hen [: end] [* p:w] . [+ exc] 502832_504725
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 506405_516503
+%exp:	task intro
+*PAR:	are two o(f) the bread , bread . 516903_520427
+%mor:	cop|be&PRES det:num|two prep|of det:art|the n|bread cm|cm n|bread .
+%gra:	1|0|ROOT 2|1|PRED 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|LP 7|2|ENUM 8|1|PUNCT
+*PAR:	opeɪ@u [: okay] [* p:n] . [+ exc] 520427_521362
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &-um bread . 521362_529115
+%mor:	coord|and n|bread .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	real good . 529515_531196
+%mor:	adj|real adj|good .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	real good . 531596_533187
+%mor:	adj|real adj|good .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	and a peanut butter &-uh good &-uh good . 533286_537960
+%mor:	coord|and det:art|a n|peanut n|butter adj|good adj|good .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|COORD 5|6|MOD 6|4|PRED 7|1|PUNCT
+*PAR:	hæn@u [: and] [* p:n] a &-um &-um knife . 537960_545743
+%mor:	coord|and det:art|a n|knife .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	so good . 545743_547429
+%mor:	adv|so adj|good .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	obey [: okay] [* p:w] . [+ exc] 547429_548293
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and dot [: that] [* s:ur] and dot [: that] [* s:ur] . 548293_553376
+%mor:	coord|and pro:dem|that coord|and pro:dem|that .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	good . 553376_554566
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

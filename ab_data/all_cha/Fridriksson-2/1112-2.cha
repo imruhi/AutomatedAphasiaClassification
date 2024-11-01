@@ -1,0 +1,98 @@
+@UTF8
+@PID:	11312/a-00083101-0
+@Window:	151_809_770_1027_-1_-1_2151_0_2151_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|58;00.|female|Broca|White|Participant||63|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1112-2, video
+@Date:	27-JUL-2020
+@Comment:	no %wor tier due to paraphasias and limited output
+@G:	Window
+*INV:	www .
+*PAR:	&-um stɑktɚ@u [: soccer] [* n:k] &-um play &-um &+buh &-um +... 28343_38123
+%mor:	n|soccer n|play +...
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-um &+j hit dʌ@u [: the] [* p:n] flæs@u [: glass] [* p:n]  . 41266_47299
+%mor:	v|hit&ZERO det:art|the n|glass .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	&-uh &-um &+m &+n docked [: knocked] [* p:w] over dʌ@u [: the] [* p:n] lamp . 47299_67636
+%mor:	v|knock-PAST prep|over det:art|the n|lamp .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	&=laughs doe [: go] [* p:w] &+m debt [: get] [* p:w] it &+m &=laughs . 67636_92051
+%mor:	v|go v|get pro:per|it .
+%gra:	1|2|SRL 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&+v &=laughs &+n &-uh &=laughs doe [: go] [* p:w] debt [: get] [* p:w] it . 92051_109047
+%mor:	v|go v|get pro:per|it .
+%gra:	1|2|SRL 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	doe [: go] [* p:w] debt [: get] [* p:w] it &=laughs . 109047_115020
+%mor:	v|go v|get pro:per|it .
+%gra:	1|2|SRL 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	that &*INV:okay yes . 115020_118476
+%mor:	comp|that co|yes .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*INV:	I'm sorry, did I cut you off ? 118476_120852
+%mor:	pro:sub|I~cop|be&1S adj|sorry cm|cm mod|do&PAST pro:sub|I
+	v|cut&ZERO pro:per|you adv|off ?
+%gra:	1|2|SUBJ 2|7|JCT 3|2|PRED 4|2|LP 5|7|AUX 6|7|SUBJ 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|7|PUNCT
+*INV:	were you gonna say somethin(g) else ? 120852_122100
+%mor:	aux|be&PAST pro:per|you part|go&PRESP~inf|to v|say
+	pro:indef|something post|else ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|6|PQ 8|3|PUNCT
+*PAR:	no [/] no [/] no . [+ exc] 122100_123916
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cinderella
+*INV:	www .
+*PAR:	&-um sɪndəwɛlə@u [: Cinderella] [* p:n] &-um tʃeɪm@u [: x@n] [* n:uk] him . 148549_163776
+%mor:	n:prop|Cinderella neo|x pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&-um &-uh oh &+ju shoe . 163769_189577
+%mor:	co|oh n|shoe .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-um shoe [//] &-um &+l &+l <glass stretcher [: slipper] [* s:ur]> [//] lass [: glass] [* p:w] fɛtɚ@u [: slipper] [* n:k] [//] lass [: glass] [* p:w] &+s &-um +... 189134_214723
+%mor:	n|glass n|glass +...
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-uh lɪf@u [: live] [* p:n] &-um <ɛvfɚ@u [: ever] [* p:n] æfɚ@u [: after] [* p:n]> [//] happy ɛbɚ@u [: ever] [* p:n] æfɚ@u [: after] [* p:n] &=laughs . 219094_234817
+%mor:	adj|live adj|happy adv|ever adv:tem|after .
+%gra:	1|0|INCROOT 2|4|MOD 3|4|JCT 4|1|JCT 5|1|PUNCT
+*PAR:	happily ɛbɚ@u [: ever] [* p:n] æfɚ@u [: after] [* p:n] . 238046_241523
+%mor:	adv|happy&dadj-LY adv|ever adv:tem|after .
+%gra:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	yeah xxx . [+ exc] 241700_247054
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ anything else ? 247329_248419
+%mor:	co|okay beg|beg pro:indef|anything post|else ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PQ 5|3|PUNCT
+*PAR:	no [/] no . [+ exc] 248803_250093
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+*PAR:	pimənʌt@u [: peanut] [* n:k] butt [: butter] [* p:w] &-uh jelly . 266681_272521
+%mor:	n|peanut n|butter n|jelly .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-uh mɪtʃ@u [: mix] [* p:n] &-uh dʌ@u [: the] [* p:n] (.) jelly and
+	bidə@u [: peanut] [* n:k] bɝdɪd@u [: butter] [* n:k] . 274186_288300
+%mor:	v|mix det:art|the n|jelly coord|and n|peanut n|butter .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|CONJ 5|6|MOD 6|4|COORD 7|1|PUNCT
+*PAR:	tʃim@u [: x@n] [* n:uk] xxx sandwiches . 288456_298621
+%mor:	neo|x n|sandwich-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	butter &-um yeah . 299124_303402
+%mor:	n|butter co|yeah .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*INV:	okay ? 303402_304729
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah [/] yeah . [+ exc] 304786_305797
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	alright . 305991_306191
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

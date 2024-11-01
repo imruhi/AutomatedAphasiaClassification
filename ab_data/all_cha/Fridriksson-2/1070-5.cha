@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/a-00083085-0
+@Window:	86_959_917_929_-1_-1_1075_0_1075_0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|72;00.|male|Broca|Black|Participant||22.8|
+@Media:	1070-5, video
+@Comment:	no %wor tier due to unintelligible output, utterance boundaries are difficult to determine
+@G:	Window
+*INV:	www . 0_36676
+*PAR:	xxx .  36676_42725
+*PAR:	xxx . 42725_60373
+*PAR:	xxx . 60373_67509
+*PAR:	xxx . 67509_72356
+*PAR:	xxx . 72356_78184
+*PAR:	xxx . 78184_80019
+@G:	Cinderella
+*INV:	www .
+*PAR:	xxx . 87187_98654
+*PAR:	xxx . 98654_109824
+*PAR:	xxx . 109824_121584
+*PAR:	xxx . 121584_128158
+*PAR:	xxx . 128158_134132
+*PAR:	xxx . 134132_140576
+*PAR:	xxx . 140576_149132
+*PAR:	xxx . 149132_151081
+*INV:	good . 151081_153245
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 153245_167247
+*PAR:	what I do &-um I do xxx  . 167247_180400
+%mor:	pro:int|what pro:sub|I mod|do pro:sub|I v|do .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	&+ri right there . 180400_189824
+%mor:	adv|right n|there .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx . 189824_200143
+*PAR:	xxx . 200143_215856
+*PAR:	xxx . 215856_224656
+*PAR:	xxx . 224656_228118
+*INV:	good ?  228118_229496
+%mor:	adj|good ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,112 @@
+@UTF8
+@PID:	11312/a-00083065-0
+@Window:	156_727_899_1062_-1_-1_303_0_303_0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|54;00.|male|Broca|White|Participant||56.3|
+@Media:	1039-1, video
+@Comment:	no %wor tier due to paraphasias and unintelligible, limited output
+@G:	Window
+*INV:	www .
+*PAR:	&-uh wait +//. 45907_50261
+%mor:	co|wait +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no . [+ exc] 50261_50940
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh window . 50940_56573
+%mor:	n|window .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no &+d oh . [+ exc] 56573_71156
+%mor:	co|no co|oh .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	I &=chuckles baseball [* s:r] . 71156_77700
+%mor:	pro:sub|I n|+n|base+n|ball .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	boy$co . [+ exc] 77700_78869
+%mor:	co|boy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	duɪk@u [: x@n] [* n:uk] I chick [* s:uk] . 78869_84213
+%mor:	neo|x pro:sub|I n|chick .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	one &=laughs wæs@u [: x@n] [* n:uk] . 84213_93597
+%mor:	det:num|one neo|x .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-uh &+t &+m I know how to say it . [+ exc] 93597_107549
+%mor:	pro:sub|I v|know pro:int|how inf|to v|say pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|INF 5|2|COMP 6|5|OBJ 7|2|PUNCT
+@G:	Cinderella
+*INV:	www .
+*PAR:	&-uh trɪnəbɛlə@u [: Cinderella] [* n:k] [//] &-uh &=sighs rɪnəbɛlə@u [: Cinderella] [* n:k] [//] dɔrdəbɛlə [: Cinderella] [* n:k] &+jo &+y joy . 146711_174578
+%mor:	n:prop|Cinderella n|joy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	yeah [/] &*INV:mhm yeah . [+ exc] 174578_176770
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dʒɔt@u [: x@n] [* n:uk] tɔrɪ@u [: story] [* p:n] about ʃɪndərɛlə@u [: Cinderella] [* p:n] &=laughs .  176668_182422
+%mor:	neo|x n|story prep|about n:prop|Cinderella .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*INV:	www . 182422_190871
+%exp:	INV encourages and prompts with "once upon a time"
+*PAR:	dong [: long] [* p:w] time ago . [+ exc] 190071_191922
+%mor:	adj|long n|time post|ago .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|POSTMOD 4|2|PUNCT
+*PAR:	&=sighs went [//] tried +//. 191922_210525
+%mor:	part|try-PASTP +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no . [+ exc] 210525_211909
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pɪnərɛlə@u [: Cinderella] [* n:k] &+wa +//. 211909_229565
+%mor:	n:prop|Cinderella +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh ah +... [+ exc] 229565_230774
+%mor:	co|oh co|ah +...
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV:	www . 230774_235174
+%exp:	encourages PAR
+*PAR:	&+beh &-uh &+jah +... 235174_247420
+*PAR:	ɪnəbɛlə@u [: Cinderella] [* n:k] +... 247420_252828
+%mor:	n:prop|Cinderella +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	no ‡ is it too hard ? 252853_255871
+%mor:	co|no beg|beg aux|be&3S pro:per|it adv|too adv|hard ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|6|SUBJ 5|6|JCT 6|3|JCT 7|3|PUNCT
+*PAR:	&+n yeah . [+ exc] 255871_257023
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+*PAR:	bed [: bread] [* p:w] . 272726_274101
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah bed [: bread] [* p:w] . 274101_276853
+%mor:	co|yeah n|bread .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	peanut butter &=laughs &*INV:mhm and bam [: jam] [* p:w] . 276853_282317
+%mor:	n|peanut n|butter coord|and n|jam .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	yeah sham [: jam] [* p:w] . 282317_285238
+%mor:	co|yeah n|jam .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm . 285238_286909
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dʒɪʃɪts@u [: delicious] [* n:k] &=laughs . 286909_289490
+%mor:	adj|delicious .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh yeah [/] &*INV:okay yeah butter . 289490_294770
+%mor:	co|yeah n|butter .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV:	is there anything else you want to say about that ? 294770_299274
+%mor:	cop|be&3S adv|there pro:indef|anything post|else pro:per|you v|want
+	inf|to v|say prep|about pro:dem|that ?
+%gra:	1|0|ROOT 2|1|SUBJ 3|1|PRED 4|3|PQ 5|6|SUBJ 6|3|CMOD 7|8|INF 8|6|COMP
+	9|8|JCT 10|9|POBJ 11|1|PUNCT
+*PAR:	yeah no . [+ exc] 299274_300466
+%mor:	co|yeah co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

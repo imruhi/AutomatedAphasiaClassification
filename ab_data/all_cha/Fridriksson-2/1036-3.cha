@@ -1,0 +1,171 @@
+@UTF8
+@PID:	11312/a-00083060-0
+@Window:	160_825_866_955_-1_-1_298_0_298_0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	multi
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@ID:	eng|Fridriksson-2|PAR|50;00.|male|Broca|Black|Participant||53|
+@Media:	1036-3, video
+@Comment:	no %wor tier due to excessive number of fillers and long pauses
+@G:	Window
+*INV:	www .
+*PAR:	pall [: ball] [* p:w] [//] &-um &-um &+s &-hm boy [/] &+e &-um boy kicked the ball . 40000_82486
+%mor:	n|boy v|kick-PAST det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	went to the &-um +... 82486_96521
+%mor:	v|go&PAST prep|to det:art|the +...
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	boy meet [* s:uk] [//] &-um kicked the ball  . 96521_104105
+%mor:	n|boy v|kick-PAST det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	&-um &-um &+s <the boy> [/] &-um <the boy> [/] &-um <the boy> [/] &-um <the boy> [/] &-um the boy &-um &-um +... 104105_180765
+%mor:	det:art|the n|boy +...
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	and then what happened ? 180765_190146
+%mor:	coord|and adv:tem|then pro:int|what v|happen-PAST ?
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	&-um &-um &-um &-um +... 190146_221729
+*INV:	can you tell me anything else &*PAR:um or is that it ? 221729_226833
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:indef|anything post|else
+	coord|or cop|be&3S comp|that pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|3|OBJ 6|5|PQ 7|5|CONJ 8|7|COORD
+	9|8|PRED 10|9|OBJ 11|3|PUNCT
+*PAR:	that's not it . [+ exc] 226833_232135
+%mor:	pro:dem|that~cop|be&3S neg|not pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+*PAR:	&-um that's not it . [+ exc] 232135_235604
+%mor:	pro:dem|that~cop|be&3S neg|not pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+*PAR:	&-um <the boy> [/] &-um &-um &=sighs &-um (..) &-um &-um <the boy> [//] &-um they [//] the boy &-um +... 235604_273715
+%mor:	det:art|the n|boy +...
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	aw [=! frustrated] . [+ exc] 273715_277050
+%mor:	co|aw .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cinderella
+*INV:	www .
+*PAR:	Cinderella &-um &-um xxx &-um &-um &-um +... 299058_320554
+%mor:	n:prop|Cinderella +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	Cinderella had little &-um +... 320554_327234
+%mor:	n:prop|Cinderella v|have&PAST adj|little +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	Cinderella add [: had] [* p:n] a &-um two [/] two sisters &-um &-um bad [/] &-um bad &-um mother . 327234_358084
+%mor:	n:prop|Cinderella v|have&PAST det:art|a det:num|two n|sister-PL
+	adj|bad n|mother .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|DET 4|5|QUANT 5|7|MOD 6|7|MOD 7|2|OBJ 8|2|PUNCT
+*PAR:	&-um &-um &-um &-um <had a> [//] &=sighs &-um had &-um bad &-uh &+m mother . 358084_405439
+%mor:	v|have&PAST adj|bad n|mother .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*PAR:	&*INV:mhm &-um &-um +... 405439_407893
+*INV:	and then what happened ? 407893_411765
+%mor:	coord|and adv:tem|then pro:int|what v|happen-PAST ?
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	&-um &-um &-um a f^airy &-uh &-um godmother . 411765_443957
+%mor:	det:art|a n|fairy n|+n|god+n|mother .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*INV:	mhm . 443957_444834
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um &-um &-hm &-um &-um +... 444834_472507
+*INV:	can you tell me a little bit more ? 486507_488929
+%mor:	mod|can pro:per|you v|tell pro:obj|me det:art|a adj|little n|bit
+	adv|more ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|DET 6|7|MOD 7|3|OBJ 8|7|NJCT
+	9|3|PUNCT
+*PAR:	had &-um +... 488929_494376
+%mor:	v|have&PAST +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	aw [=! frustrated] . [+ exc] 494376_500937
+%mor:	co|aw .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um &-um &-um it was mean .  500937_533457
+%mor:	pro:per|it cop|be&PAST&13S adj|mean .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&-um &*INV:mhm &-um went to the ball . 533457_540862
+%mor:	v|go&PAST prep|to det:art|the n|ball .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*INV:	mhm . 540862_544114
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um &-um slippers . 544114_552105
+%mor:	n|slipper-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um &-um and it [//] &-uh &-um &+gl he [: she] [* s:r:gc:pro] lost a shoe &*INV:right &-um &-um at midnight . 552105_577941
+%mor:	coord|and pro:sub|she v|lose&PAST det:art|a n|shoe prep|at
+	mid#n|night .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	&-um &-um &-um +... 577941_593000
+*INV:	and then what happened ? 593000_595000
+%mor:	coord|and adv:tem|then pro:int|what v|happen-PAST ?
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	&-um &-um &-um +... 595000_611433
+*INV:	how did the story end ? 611433_618081
+%mor:	pro:int|how mod|do&PAST det:art|the n|story n|end ?
+%gra:	1|5|JCT 2|5|AUX 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	<he [: she] [* s:r:gc:pro] lost> [/] &-um &+sh &-um <he [: she] [* s:r:gc:pro] lost> [/] &-um &-um &-um he [: she] [* s:r:gc:pro] lost &-um &-um a &-um shoe &-um &-um then [//] and &-um &-um then found it . 618081_670805
+%mor:	pro:sub|she v|lose&PAST det:art|a n|shoe coord|and adv:tem|then
+	v|find&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|7|JCT 7|5|COORD 8|7|OBJ
+	9|2|PUNCT
+*INV:	mhm . 670805_671586
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um &-um &-hm fee [: he] [* p:w] found it . 671586_684009
+%mor:	pro:sub|he v|find&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&-um they lost it . 684009_687100
+%mor:	pro:sub|they v|lose&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and ace [* s:uk] [//] &-um i@u [: he] [* p:n] found it . 687100_691402
+%mor:	coord|and pro:sub|he v|find&PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	shoe and &-um &-um +/. 691402_713802
+%mor:	n|shoe coord|and +/.
+%gra:	1|0|INCROOT 2|1|CONJ 3|1|PUNCT
+*INV:	<does it have a> [//] how does the story end ? 713802_716244
+%mor:	pro:int|how mod|do&3S det:art|the n|story n|end ?
+%gra:	1|5|JCT 2|5|AUX 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	&-um &-um &=sighs &-uh &-um +...  716244_743044
+*INV:	<did they> [//] did the handsome prince find Cinderella ? 743044_748357
+%mor:	v|do&PAST det:art|the adj|handsome n|prince v|find
+	n:prop|Cinderella ?
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	yeah [/] yeah . [+ exc] 748357_749764
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&*INV:mhm &-um &+fr princess  . 749764_753250
+%mor:	n|princess .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um he &-uh found her &-um princess &-um &*INV:mhm &-um &-um +... 753250_772888
+%mor:	pro:sub|he v|find&PAST det:poss|her n|princess +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+@G:	Sandwich_Picture
+*INV:	www .
+*PAR:	piɾoʊ@u [: peanut] [* n:k] buddy [: butter] [* p:w] &-um and jelly . 811011_817619
+%mor:	n|peanut n|butter coord|and n|jelly .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	&-um &-um &-um &-um &-um &-um &-um piɾoʊ@u [: peanut] [* n:k] &-um jelly &-um &-uh &-um +... 817619_867213
+%mor:	n|peanut n|jelly +...
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	<first if> [//] &-um <first of all> [/] &-um &-um &-um <first of all> [/] &-um &-um &-um first of all the &+gr bread [/] &-um &-um &-um bread and &-um &-um &-um +... 867213_951595
+%mor:	adv|first prep|of qn|all det:art|the n|bread coord|and +...
+%gra:	1|6|JCT 2|1|JCT 3|5|QUANT 4|5|DET 5|2|POBJ 6|0|ROOT 7|6|PUNCT
+*INV:	and then what ? 951595_953719
+%mor:	coord|and adv:tem|then pro:int|what ?
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	&-um &-um first of all you &-um bread &-um jelly .  953719_967890
+%mor:	adv|first prep|of pro:indef|all pro:per|you n|bread n|jelly .
+%gra:	1|0|INCROOT 2|1|JCT 3|6|MOD 4|5|SUBJ 5|6|MOD 6|2|POBJ 7|1|PUNCT
+*PAR:	and jelly and &-um peanut butter &-um &-um &-um +... 967890_992262
+%mor:	coord|and n|jelly coord|and n|peanut n|butter +...
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|MOD 5|3|COORD 6|1|PUNCT
+*INV:	and anything else ? 992262_997517
+%mor:	coord|and pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|COORD 3|2|PQ 4|1|PUNCT
+*PAR:	no [/] no &*INV:okay . [+ exc] 997517_999293
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

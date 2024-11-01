@@ -1,0 +1,104 @@
+@UTF8
+@PID:	11312/a-00076818-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Fridriksson-2|PAR|65;00.|female|Global|Black|Participant||14.5|
+@ID:	eng|Fridriksson-2|INV|||||Investigator|||
+@Media:	1058-5, video
+@Comment:	no %wor tier due to PAR's had minimal and often unintelligible output
+@G:	Window
+*INV:	www . 0_38336
+%exp:	task instructions
+*PAR:	okay ‡ &-um in [/] in [/] in &-um bɔr@u [: x@n] [* n:uk] [/] bɔr@u [: x@n] [* n:uk] &+eh &+eh &+eh &+eh &+eh in its xxx . 39236_75370
+%mor:	co|okay beg|beg prep|in neo|x prep|in det:poss|its .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|POBJ 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	as [* s:uk] . 75884_78387
+%mor:	adv|as .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that too hard ? 79097_80484
+%mor:	pro:dem|that adv|too adv|hard ?
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|1|PUNCT
+*PAR:	&+ah axe [* s:uk] [/] axe [* s:uk] . 83084_86965
+%mor:	n|axe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 87065_88146
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else you wanna say ? 93846_95600
+%mor:	pro:indef|anything post|else pro:per|you v|want~inf|to co|say ?
+%gra:	1|0|INCROOT 2|1|PQ 3|4|SUBJ 4|1|CMOD 5|6|INF 6|4|COMP 7|1|PUNCT
+*PAR:	axe [* s:uk] [/] axe [* s:uk] . 99900_106174
+%mor:	n|axe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cinderella
+*INV:	www . 112945_128594
+%exp:	task instructions
+*PAR:	&-um &+lor lords [* s:uk] . 131594_138696
+%mor:	n|lord-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um work . 142763_147264
+%mor:	n|work .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	it's [//] and [/] &-um and &-um &+ih +... 154264_165865
+%mor:	coord|and +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay <it's an> [//] &+ih it's +... [+ exc] 165865_170740
+%mor:	co|okay pro:per|it~cop|be&3S +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	there was a_lot to remember , wasn't it ? 171489_173280
+%mor:	pro:exist|there cop|be&PAST&13S adv|a_lot inf|to v|remember cm|cm
+	cop|be&PAST&13S~neg|not pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|INF 5|2|PUNCT 6|5|LP 7|5|ROOT 8|7|NEG
+	9|7|PRED 10|7|PUNCT
+*INV:	can you tell me anything else about it , the story ? 173280_176575
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:indef|anything post|else
+	prep|about pro:per|it cm|cm det:art|the n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|3|OBJ 6|5|PQ 7|11|JCT 8|7|POBJ
+	9|8|LP 10|11|DET 11|3|OBJ 12|3|PUNCT
+*INV:	it's hard „ I know . 179735_181817
+%mor:	pro:per|it~cop|be&3S adj|hard end|end pro:sub|I v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|ENDP 5|6|SUBJ 6|2|END 7|2|PUNCT
+*PAR:	mhm there's a &+nor +... [+ exc] 181817_185867
+%mor:	co|mhm=yes pro:exist|there~cop|be&3S det:art|a +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*INV:	is that it ? 186867_187544
+%mor:	cop|be&3S comp|that pro:per|it ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ 4|1|PUNCT
+*PAR:	okay . [+ exc] 187544_188365
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 188365_189141
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Sandwich_Picture
+*INV:	www . 189941_201481
+%exp:	task instructions
+*PAR:	oh [/] oh [/] oh ɛn@u [: x@n] [* n:uk] [/] ɛn@u [: x@n] [* n:uk] . 206081_217159
+%mor:	co|oh neo|x .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-um more [/] more . 217159_225488
+%mor:	post|more .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	in [/] in &+ih &+sh &+shu &+ih +... 225488_231740
+%mor:	adv|in +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-um or [/] or +... 234685_240837
+%mor:	coord|or +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you tell me any more <or is> [/] or is that it ? 245837_249065
+%mor:	mod|can pro:per|you v|tell pro:obj|me qn|any adv|more coord|or
+	cop|be&3S comp|that pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|6|QUANT 6|3|JCT 7|6|CONJ 8|7|COORD
+	9|8|PRED 10|9|OBJ 11|3|PUNCT
+*INV:	xxx that's it ? 250765_252171
+%mor:	pro:dem|that~cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&+s okay &=laughs . [+ exc]  252171_253791
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< okay &=laughs alright ‡ good job . 253091_256559
+%mor:	co|okay co|alright beg|beg adj|good n|job .
+%gra:	1|2|COM 2|0|BEG 3|2|BEGP 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+@End
