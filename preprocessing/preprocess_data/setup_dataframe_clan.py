@@ -75,20 +75,22 @@ def cha_txt_files_to_csv(data_dir, file_name, fnames=None):
     """
     columns = ['line_number', 'scenario', 'text', 'line_information', 'utterance_count', 'source_file']
     df = pd.DataFrame(columns=columns)
-
     count = 0
 
     for subdir, dirs, files in os.walk(data_dir):
         for file in files:
+            if fnames is not None:
+                fnames = [pathlib.Path("../" + str(path)) for path in fnames]
+                print(fnames)
             if fnames is None:  # EDITED if we are interested in all files
-                if str(data_dir + file).endswith(".cha"):
-                    file_df = cha_txt_to_dataframe(data_dir + file)
+                if str(subdir + '\\' + file).endswith(".cha"):
+                    file_df = cha_txt_to_dataframe(subdir + '\\' + file)
                     file_df['source_file'] = file
                     df = pd.concat([df, file_df], ignore_index=True)
-                    # break
-            elif file in fnames:  # EDITED to add files only we are interested in
+
+            elif pathlib.Path(subdir + "\\" + file) in fnames:  # EDITED to add files only we are interested in
                 if str(data_dir + file).endswith(".cha"):
-                    file_df = cha_txt_to_dataframe(data_dir + file)
+                    file_df = cha_txt_to_dataframe(subdir + "\\" + file)
                     file_df['source_file'] = file
                     df = pd.concat([df, file_df], ignore_index=True)
                     # break
@@ -96,23 +98,25 @@ def cha_txt_files_to_csv(data_dir, file_name, fnames=None):
     if not df.empty:
         print("Saved: " + str(file_name) + " at " + str(pathlib.Path().resolve()))
         df.to_csv(file_name, index=False, encoding="utf-8")
-
+    else:
+        print("Empty df")
     return True
 
 
 def main():
-    data_dir1 = str(pathlib.Path().resolve()) + "\\data_broca\\"
-    data_dir2 = str(pathlib.Path().resolve()) + "\\data_control\\"
+    aphasia_type = ['wernicke', 'conduction', 'anomic', 'not aphasic']
+    fnames = pd.read_csv('../../ab_data/filepaths.csv')
+    for x in aphasia_type:
+        data_dir = "../../ab_data/all_cha/"
+        paths = fnames[fnames["WAB Type"] == x]["path"].to_list()
+        filename = "../../ab_data/processed_data/rawdata_" + x + ".csv"
+        print(x)
+        cha_txt_files_to_csv(data_dir, filename, paths)
+        print()
 
-    fnames = list(pd.read_csv('broca_fname.csv'))
-    print(fnames)
-
-    csv_filename1 = "data_broca.csv"
-    csv_filename2 = "data_control.csv"
-    # get all broca only patients from PWA dataset
-    cha_txt_files_to_csv(data_dir1, csv_filename1, fnames)
-    # get all files from the control dataset
-    cha_txt_files_to_csv(data_dir2, csv_filename2)
+    fp = "../../ab_data/data_control/"
+    filename = "../../ab_data/processed_data/rawdata_control.csv"
+    cha_txt_files_to_csv(fp, filename, None)
 
 
 main()

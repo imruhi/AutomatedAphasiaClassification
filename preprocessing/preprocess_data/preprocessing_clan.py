@@ -3,6 +3,7 @@ import re
 import warnings
 import contractions
 from get_repetition import get_single_repetitions
+
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 special_characters = ['(.)', '[/]', '[//]', '‡', 'xxx', '+< ', '„', '+', '"" /..""', '+"/.', '+"', '+/?', '+//.',
@@ -15,6 +16,7 @@ ipa = ['æ', 'é', 'ð', 'ü', 'ŋ', 'ɑ', 'ɒ', 'ɔ', 'ə', 'ɚ', 'ɛ', 'ɜ', '
        'ʧ', 'ː', '˞', '͡', 'θ', ]
 
 repetition_df = pd.DataFrame({"word": [], "count": [], "file": []})
+
 
 def contains_whitespace(string):
     """
@@ -123,12 +125,12 @@ def preprocess_line(utterance, mask_pauses, remove_repetitions, remove_masks, ge
     # +... Trailing off pause (speaker forgets about what is about to say)
     unfilled_pauses = ["(..)", "(...)", "+..."]
     for pause in unfilled_pauses:
-        utterance = utterance.replace(pause, "UNFILLEDPAUSE")
+        utterance = utterance.replace(pause, "UFP")
 
     # Replace filler pauses with FILLERPAUSE
     filler_pauses = ["&-um", "&-uh", "&-er", "&-mm" "&-eh", "&-like", "&-youknow", "&-hm", "&-sighs"]
     for pause in filler_pauses:
-        utterance = utterance.replace(pause, "FILLERPAUSE")
+        utterance = utterance.replace(pause, "FP")
 
     # Remove all actions: (e.g. &=points:picture)
     utterance = re.sub(r"\&\=[a-zA-Z:_0-9]+", "", utterance)
@@ -163,8 +165,8 @@ def preprocess_line(utterance, mask_pauses, remove_repetitions, remove_masks, ge
 
     # Replace all pauses with <mask> (if set true)
     if mask_pauses:
-        utterance = utterance.replace("UNFILLEDPAUSE", "<mask>")
-        utterance = utterance.replace("FILLERPAUSE", "<mask>")
+        utterance = utterance.replace("UFP", "<mask>")
+        utterance = utterance.replace("FP", "<mask>")
 
     # Removes all masks (set true for healthy speech)
     if remove_masks:
@@ -235,38 +237,17 @@ def preprocess_dataset(input_dataset_filename, mask_pauses, remove_repetitions, 
 
 
 if __name__ == "__main__":
-    preprocessed_df = preprocess_dataset("data/data_broca.csv", True, False,
-                                         True, True)
+    aphasia_type = ['wernicke', 'conduction', 'anomic', 'not aphasic']
+
+    for x in aphasia_type:
+        preprocessed_df = preprocess_dataset("../../ab_data/processed_data/rawdata_" + x + ".csv",
+                                              False, False, False, False)
+        df = make_sentences_df(preprocessed_df)
+        df.to_csv("../../ab_data/processed_data/processeddata_" + x + ".csv")
+        print(x + " done")
+
+    preprocessed_df = preprocess_dataset("../../ab_data/processed_data/rawdata_control.csv",
+                                         False, False, False, False)
     df = make_sentences_df(preprocessed_df)
-    df.to_csv("data/preprocessed_broca.csv")
-    print(repetition_df)
-    repetition_df.to_csv("data/repetition_broca.csv")
-
-    # preprocessed_df = preprocess_dataset("data/data_control.csv", True, False, True)
-    # df = make_sentences_df(preprocessed_df)
-    # df.to_csv("data/preprocessed_control.csv")
-
-    # preprocessed_df = preprocess_dataset("data/data_control.csv", False, False, False)
-    # df = make_sentences_df(preprocessed_df)
-    # df.to_csv("data/preprocessed_control_pause.csv")
-    # print("Control done")
-
-    # preprocessed_df = preprocess_dataset("data/data_anomic.csv", False, False, False)
-    # df = make_sentences_df(preprocessed_df)
-    # df.to_csv("data/preprocessed_anomic_pause.csv")
-    # print("Anomic done")
-    #
-    # preprocessed_df = preprocess_dataset("data/data_conduction.csv", False, False, False)
-    # df = make_sentences_df(preprocessed_df)
-    # df.to_csv("data/preprocessed_conduction_pause.csv")
-    # print("Conduction done")
-    #
-    # preprocessed_df = preprocess_dataset("data/data_transsensory.csv", False, False, False)
-    # df = make_sentences_df(preprocessed_df)
-    # df.to_csv("data/preprocessed_transsensory_pause.csv")
-    # print("Transsensory done")
-    #
-    # preprocessed_df = preprocess_dataset("data/data_wernicke.csv", False, False, False)
-    # df = make_sentences_df(preprocessed_df)
-    # df.to_csv("data/preprocessed_wernicke_pause.csv")
-    # print("Wernicke done")
+    df.to_csv("../../ab_data/processed_data/processeddata_control.csv")
+    print('control done')
